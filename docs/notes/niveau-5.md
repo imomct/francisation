@@ -98,7 +98,7 @@ description: "mars-avril 2024"
 - **homme au foyer** / femme au foyer
 - le **policier** faire une **fouille** / fouiller
 - des **avantages sociaux**, des bénéfices (assurance santé, vacances payées, etc.)
-- une **compétence**
+- **compétent** / **compétence**, je connais bien mon travail. J'ai de l'expérience et je suis qualifié(e)
 - les **conditions** de travail
 - un **domaine**
 - un **employeur**
@@ -131,19 +131,22 @@ description: "mars-avril 2024"
 - **fiable**
 - **ponctuel**
 - **honnête**
-- **responsable**
+- **responsable**, On peut me faire confiance et me donner beaucoup de tâches et de projets.
 - **créatif**
 - **fidèle**
+- **organisé**.e, Je planifie mon temps et mes tâches.
 - **innovateur** *nom.*  *adj.*
-- **empathique**
+- **empathique**, J'ai de la facilité à imaginer ce qu'une autre personne vit ou pense.
+- **ingénieux** / **ingénieuses**, J'ai un esprit inventif. Je suis créatif/ créative. Je trouve des solutions aux problèmes.
 - **respectueux**
+- **curieux** / **curieuse**, Je m'informe sur les nouveautés. Je veux me tenir à jour dans mon domaine.
 - **dédié**
 - **investi**
 - **confiant**
 - **attentif**
 - **motivé**
-- **flexible**
-- **efficace**
+- **flexible**, Je m'adapte facilement aux nouvelles situations. Je suis souple.
+- **efficace**, je travaille vite et bien
 - avoir des **sens d'humour**
 - la **humeur** (mood, temper)
 - **aimable**
@@ -151,11 +154,18 @@ description: "mars-avril 2024"
 - **diplomat**
 - **charismatique**
 - bon **orateur**
+- **dynamique**, J'ai beaucoup d'énergie et je suis très actif/active.
+- **minutieux** / **minutieuse**, Je fais attention aux détails. Je suis précis/ précise.
 - **communicatif**
 - **stratégique**
-- **passionné**
-- **sociable**
+- **ambitieux** / **ambitieuse**, J'aime réussir les projets que je fais. Je veux faire avancer ma carrière.
+- **débrouillard**.e, Quand j'ai un problème, je trouve des solutions par moi-même. Je suis autonome.
+- **passionné**.e, j'adore mon travail. Je suis toujours motivé(e) à apprendre et à aller travailler.
+- **sociable**, j'aime travailler en équipe. J'ai un bon sens de la communication.
 - **juste**
+- **franc** / **franche**, je suis honnête et sincère. Je dis la vérité.
+- **organisé**.e, je planifie mon temps et mes tâches.
+- **autonome**, je peux travailler seul(e). J'ai le sens de l'initiative.
 
 
 ### Demander la Profession
@@ -212,7 +222,7 @@ description: "mars-avril 2024"
 1. j'**entre** des données / **entrer** / entrais / entrerai 
 1. j'**entretiens** l'entrepôt / **entretenir** / entretenais / entretiendrai
 1. je **colle** des étiquettes / **coller** / collais / collerai
-1. j'**enseigne** les mathématiques / **enseigner** /  / enseignerai
+1. j'**enseigne** les mathématiques / **enseigner** / enseignais / enseignerai
 1. je **prépare** les repas / **préparer** / préparais / préparerai
 1. je **livre** les pizzas / **livrer** / livrais / livrerai
 1. je m'**occupe** du classement / s'**occuper** / occupais / occuperai
@@ -368,40 +378,97 @@ description: "mars-avril 2024"
 - **Comme** on s'inquiète de la situation pour le 1<sup>er</sup> juillet, une aide aux familles a été prévue.
 - Les partis d'opposition ont décrié cette mesure **car** ils considèrent que l'aide n'est pas suffisante.
 
-### Choisir le bon Marqueur de Temps
+## Choisir le bon Marqueur de Temps
 
-#### il y a
+### il y a
 
 - passé: il y a 2 ans, 2022 < 2024
   - **il y a 2 ans**, j'ai déménagé à Montréal.
 
-#### il y a ... que ...
+### il y a ... que ...
 
 - il y a 2 ans que... = depuis, ça fait ... que...
   - **il y a** 2 ans **que** j'habite à Montréal.
 
-#### dans
+### dans
 
 - futur
   - il y a 3 mois, j'ai commené à étudier. 
   - **dans** 3 mois, je vais terminer d'étudie.
 
-#### pendant
+### pendant
 
 - durée, passé, présent, futur
 
-#### depuis
+### depuis
 
 - présent
 - p.c avec "être" + mouvement 
+
+### Pratiques
+
+#### Emploi et marqueurs de temps
+
+Complétez les phrases avec *il y a*, *pendant*, *depuis*, *de*, *à*, *en* ou *dans*.
+
+1. J'ai étudié \_________ 1998 \_________ 2002, \_________ quatre ans.
+1. J'ai reçu mon diplôme \_________ 2003.
+1. Je vais terminer mon programme de francisation \_________ deux mois.
+1. J'ai travaillé \_________ les vacances de Noël comme caissier.
+1. Je suis des cours de français \_________ six mois.
+1. Je pourrais commencer à travailler \_________ deux semaines.
+1. J'ai répondu aux questions du test \_________ trente minutes.
+1. \_________ que jai un nouvel emploi, je pratique souvent le français avec mes collègues québécois.
+1. Je suis partie de mon pays d'origine \_________  un an et demi.
+1. J'ai envoyé mon c.v. \_________ deux semaines et je n'ai pasencore de réponses.
+
+#### il y a ..., *p.c*. / depuis ... , *présent*
+
+| Durée | Événement / Action | Résultat / Action |
+|------------------|--------------------------------------|:-------------------------|
+| Quatre jours     | Perdre sa carte d'autobus           | Marcher                  |
+| Deux mois        | S'inscrire à un cours                | Étudier                  |
+| Deux semaines    | Arrêter de fumer                    | Respirer mieux           |
+| Trois jours      | Briser son téléphone                | Ne plus pouvoir appeler  |
+| Deux ans         | Commencer à jouer du piano          | Jouer du piano           |
+| Une semaine      | Se disputer avec son ami            | Ne plus se parler        |
+| Quinze minutes   | Faire un accident                   | Attendre les policiers   |
+| Huit jours       | Se faire opérer                     | Être à l'hôpital         |
+| Deux ans         | Commencer à travailler              | Travailler               |
+| Quinze minutes   | Se réveiller                        | Être réveillé            |
+| Trois ans        | Se marier                           | Être marié               |
+| Un an            | Arrêter de marcher                  | Engraisser               |
+| Six mois         | Accoucher                           | Avoir un |
+
+
+#### Action qui commence dans le passé et qui continue dans <u>le présent</u>
+
+1. Attendre un ami, 30 minutes
+1. Lire un roman, une semaine
+1. Rester au lit, trois jours
+1. Courir, un mois
+1. Pleuvoir, deux heures
+1. Conduire, 45 minutes
+1. Réfléchir, une heure
+1. Vivre ici, six ans
+1. S'entraîner, quatre ans
+1. Arriver au Québec, huit mois
+1. Le poulet cuire, 35 minutes
+1. Être marié(e), 16 ans
+1. Se plaindre, deux semaines
+1. Partir, cinq jours
+1. Nettoyer la maison, une heure
+1. Regarder une série, une semaine
+1. Finir mon assiette, cinq minutes
+1. Se promener, trois heures
+1. Voyager, un an
+1. Cuisiner, deux heures
 
 ## ETC.
 
 - un **potin**
 - **potiner**
 - **placoter** / **jaser**  / **bavarder**
-
-
 
 ### Les Animaux
 
@@ -411,8 +478,23 @@ description: "mars-avril 2024"
 
 ### Expressions
 
-- **asteure** : à cette heure, actuellement
-- **inque** : rien que, seulement 
+- **asteure**: à cette heure, actuellement
+- **inque**: rien que, seulement 
+- **faque** / **faque-là**: donc, alors, puis, ça fait que
+  - J'ai eu beaucoup de travail, faque je n'ai pas pu sortir hier soir
+  - Il a manqué son train, faque il sera en retard.
+  - Il a encore oublié de faire la vaisselle, faque-là, je suis vraiment tanné!
+  - J'ai travaillé toute la journée, faque-là, je vais me reposer maintenant.
+- **le fait est que**...: The fact is that... (*formal*)
+  - Le fait est que le changement climatique affecte déjà de nombreuses régions du monde.
+  - Le fait est que nous devons agir rapidement pour résoudre ce problème.
+
+- **Tire-toi une bûche**: s'sasseoir 
+  - [lecture: Tire-toi une bûche](#tire-toi-une-bûche)
+
+- **Être habillé comme la chienne à Jacques**: être mal habillé
+  - lecture: [Être Habillé comme la Chienne à Jacques](#être-habillé-comme-la-chienne-à-jacques)
+
 
 ### Quiz
 
@@ -425,7 +507,7 @@ description: "mars-avril 2024"
 - [Les problèmes dans le logement](https://www.youtube.com/watch?v=E7tBvm1oPvU)
 
 
-## CÉ
+## CÉ - Lecture
 
 ### Rappel des règlements concernant les déchets
 
@@ -475,6 +557,18 @@ La cuisne est ensoleillée et fonctionnelle, et elle a des grandes armoires. Je 
 
 À bientôt !
 
+### Être Habillé comme la Chienne à Jacques
+
+de [Je vous entends parler](/resources#je-vous-entends-parler)
+
+C'est en Gaspésie que j'ai entendu cette expression. J'étais chez ma voisine, madame Adèle, qui habitait le bout du rang, et avait mis au monde dix-neuf enfants. On parlait de l'homme qui venait les aider dans les champs, Médard. «C'est un bon gars, travaillant, fable, seulement, sil **n'était pas toujours habillé comme la chienne à Jacques...**» Voyant sur mon visage que je ne comprenais pas, elle me raconta l'histoire de cet homme, Jacques, un vieux garçon, et de sa chienne, sa seule compagne. Il en prenait soin depuis qu'il l'avait eue, petit chiot, rescapé de la noyade. Rendue vieille, elle avait perdu tout son poil. Jacques était pauvre. Pour la sortir l'hiver, il l'emmitoufait dans ses vieux chandails pleins de trous. L'expression était née.
+
+### Tire-Toi une Bûche
+
+de [Je vous entends parler](/resources#je-vous-entends-parler)
+
+Je me revois dans ce shack en pleine forêt, avec mon bébé et son père. Dans ce shack : pas d'eau, pas de toilettes. On était là le temps de trouver un loyer. Quand le propriétaire est venu voir comment on était installé, T. lui a dit : « **Tire-toi une bûche**, mon Gaëtan.» On n'avait pas de chaises, on s'asseyait sur des bûches. C'était le printemps, il fallait entailler les érables, et T. allait aider Gaétan en échange de cette place. Plus tard, j'ai compris qu'on pouvait utiliser La même expression en parlant de chaises.
+
 ## CO
 
 ### Emploi imparfait Dominique
@@ -500,4 +594,3 @@ Je m'occupais de l'horaire du Conseil Général. Je prenais des rendez-vous pour
 Ah oui? Tu lui donnais des cours de français? Oui.
 
 Merci beaucoup.
-

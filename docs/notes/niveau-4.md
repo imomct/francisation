@@ -494,7 +494,6 @@ description: "novembre 2023 - février 2024"
 #### le cou
 
 - la **nuque**
-
 - la **gorge**
 - la **pomme d'Adam**
 
@@ -631,7 +630,7 @@ description: "novembre 2023 - février 2024"
 - J'ai une santé de fer 😀
 - Je suis **crevé**(e) 😵
 - Je ne suis pas **dans mon assiette** 😵
-- Je suis **magané**(e) 😵 ???????
+- Je suis **magané**(e) 😵: malade, fatigue, pas en forme
 - le **cœur bat** (battre)
   - les **battement** du cœur
   - utilisez le **stéthoscope** pour compter les battements du cœur

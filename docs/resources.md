@@ -11,10 +11,25 @@ title: Ressources
 - [alloprof - français](https://www.alloprof.qc.ca/fr/eleves/bv/francais)
 - [Grand Québec](https://grandquebec.com)
 - [MAURIL par CBC/Radio-Canada](https://mauril.ca/) Site / iOS / Android
+- [Je Parle Québecois](https://www.je-parle-quebecois.com)
 
 ## Videos
 
 - [ICI Tou.tv](https://ici.tou.tv/)
+
+### Télésérie
+
+- Les Bienvenu… ou presque!
+  - [Tou TV](https://ici.tou.tv/les-bienvenu-ou-presque)
+  - [Youtube](https://www.youtube.com/watch?v=MPSVevIAKVc)
+
+## Livres
+
+### Je vous entends parler
+
+- Sonia Anguelova
+- ISBN: 9782981119773 (298111977X)
+- Née à Sofia, capitale de la Bulgarie, Sonia Anguelova a immigré seule au Canada, après avoir vécu et étudié à La Havane. Pour souligner son soixante-dixième anniversaire, l’écrivaine relève avec brio le défi de présenter 70 expressions québécoises, qu’on retrouve au sein même des récits de son parcours hors de commun d’immigrante, mère monoparentale, grand-mère et artiste qui a appris le français au Québec et le québécois en Gaspésie. Ce qui fait qu’il se distingue de tous les livres qui abordent le sujet de l’immigration, de l’intégration, de la langue et de l’âge d’or.
 
 ## Apps
 
