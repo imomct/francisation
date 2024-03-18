@@ -15,8 +15,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'imomct', // Usually your GitHub org/user name.
+  projectName: 'francisation', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -62,26 +62,19 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'mainSidebar',
+          to: '/category/notes',
           position: 'left',
           label: 'Notes',
+        },
+        {
+          to: '/resources',
+          position: 'left',
+          label: 'Ressources',
         },
       ],
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          // title: 'More',
-          items: [
-            {
-              label: 'GitHub',
-              href: 'https://github.com/imomct/francisation',
-            },
-          ],
-        },
-      ],
       copyright: `Built with Docusaurus.`,
     },
     docs: {
