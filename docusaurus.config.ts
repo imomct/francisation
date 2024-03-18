@@ -28,6 +28,8 @@ const config: Config = {
     defaultLocale: 'fr',
     locales: ['fr'],
   },
+  
+  plugins: [require.resolve('docusaurus-lunr-search')],
 
   presets: [
     [
