@@ -85,7 +85,7 @@ description: "novembre 2023 - février 2024"
 - une **gouttière**
 - un **cabanon**
 - une **tondeuse**
-- une **souffleuse **
+- une **souffleuse**
 - une **pelle**
 - un **balai**
 
