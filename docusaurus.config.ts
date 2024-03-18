@@ -91,6 +91,15 @@ const config: Config = {
       disableSwitch: false,
       respectPrefersColorScheme: true,
     },
+    headTags: [
+      {
+        tagName: 'link',
+        attributes: {
+          rel: 'apple-touch-icon',
+          href: 'https://francisation.aris.la/img/apple-touch-icon.png',
+        },
+      },
+    ],
   } satisfies Preset.ThemeConfig,
 };
 
