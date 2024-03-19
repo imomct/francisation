@@ -1,9 +1,11 @@
 ---
 sidebar_position: 5
-description: "mars-avril 2024"
+description: "mars - avril 2024"
 ---
 
 # Niveau 5
+
+> avec **Sophie** et **Charles**
 
 ## Prononciation
 
@@ -490,7 +492,7 @@ Complétez les phrases avec *il y a*, *pendant*, *depuis*, *de*, *à*, *en* ou *
   - Le fait est que nous devons agir rapidement pour résoudre ce problème.
 
 - **Tire-toi une bûche**: s'sasseoir 
-  - [lecture: Tire-toi une bûche](#tire-toi-une-bûche)
+  - lecture: [Tire-toi une bûche](#tire-toi-une-bûche)
 
 - **Être habillé comme la chienne à Jacques**: être mal habillé
   - lecture: [Être Habillé comme la Chienne à Jacques](#être-habillé-comme-la-chienne-à-jacques)
@@ -551,7 +553,7 @@ Je cherche un ou une colocataire pour partager un 5 et demi à Verdun. La chambr
 
 Chère maman,
 
-Je t'écris pour t'annoncer que j'ai trouvé l'appartement de mes rêves. À cause de la pénurie de logement à Montréal, je cherche depuis plusieurs semaines. Heureusement, j'ai finalement trouvé! C'est un charmant logement de deux chambres près de la station Jolicoeur .
+Je t'écris pour t'annoncer que j'ai trouvé l'appartement de mes rêves. À cause de la pénurie de logements à Montréal, je cherche depuis plusieurs semaines. Heureusement, j'ai finalement trouvé! C'est un charmant logement de deux chambres près de la station Jolicoeur .
 
 La cuisne est ensoleillée et fonctionnelle, et elle a des grandes armoires. Je rêve déjà de mes futures créations culinaire sur les grands comptoirs. Il es un peu plus cher que ce que je souhaitais payer, mais je suis vraiment satisfait. J'ai hâte que tu viennes le visiter. Vas-tu m'aider avec la décoration ?
 

@@ -3,7 +3,6 @@ sidebar_position: 100
 title: Ressources
 ---
 
-
 ## Sites
 
 - [lesfeesdufle.com](https://lesfeesdufle.com)
@@ -17,11 +16,17 @@ title: Ressources
 
 - [ICI Tou.tv](https://ici.tou.tv/)
 
-### Télésérie
+### Téléséries
 
 - Les Bienvenu… ou presque!
-  - [Tou TV](https://ici.tou.tv/les-bienvenu-ou-presque)
+  - [Tou.tv](https://ici.tou.tv/les-bienvenu-ou-presque)
   - [Youtube](https://www.youtube.com/watch?v=MPSVevIAKVc)
+
+### Films
+
+- La Grande Séduction (2003)
+- Monsieur Lazhar (2011)
+- Hockelaga, Terre des âmes (2017)
 
 ## Livres
 

@@ -5,33 +5,27 @@ description: "novembre 2023 - février 2024"
 
 # Niveau 4
 
+> avec **Sophie** et **Laurant**
+
 ## Salutation
 
 ### Salutation
 
 - Bonjour / Salut / Allo
-
 - Au revoir / À bientôt / À tout à l'heure / À plus tard / À très vite / À la prochaine fois / À demain / On se revoit bientôt
-
 - Comment ça va?
-  Très bien, et toi?
-
+  - Très bien, et toi?
 - Ça va?
-  Pas pire... Toi?
-
+  - Pas pire... Toi?
 - Comment vas-tu?
-  Bien! Toi?
-
+  - Bien! Toi?
 - Comment allez-vous?
-  Ça va très bien, merci! Et vous?
-
+  - Ça va très bien, merci! Et vous?
 - Enchanté(e)
-
   - Enchanté(e) - This is the most common and formal way of saying "nice to meet you" in French. Enchanté is used for males, and enchantée is used for females. It literally means "enchanted" in English.
   - Ravi(e) de vous rencontrer - This phrase means "delighted to meet you" in French. It's a slightly more formal and polite way of expressing your pleasure at meeting someone.
   - Heureux/heureuse de faire votre connaissance - This phrase is a bit longer, but it's still a polite and formal way of saying "nice to meet you." It translates to "happy to make your acquaintance" in English.
   - Content(e) de vous rencontrer - This phrase means "glad to meet you" in French. It's a more casual way of expressing pleasure at meeting someone.
-
 - Merci
   - De rien: This is the most common and straightforward response, meaning "You're welcome" or "Not at all."
   - Je vous en prie: This is a more formal way of saying "You're welcome." It can be used when speaking to someone you address with "vous" (formal "you").
@@ -1170,7 +1164,6 @@ description: "novembre 2023 - février 2024"
 - une **noyade**
 - une **disparition**
 - **disparue** / un **enlèvement**
-
 - un **vol à main armée**
 - une **saisie de drogue**
 - un **témoin**
