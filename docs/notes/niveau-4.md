@@ -5,8 +5,6 @@ description: "novembre 2023 - février 2024, Sophie et Laurant"
 
 # Niveau 4
 
-> avec **Sophie** et **Laurant**
-
 ## Salutation
 
 ### Salutation

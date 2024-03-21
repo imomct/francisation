@@ -226,7 +226,7 @@ avoir les cheveux ...
 - **droits** / **raides** / **plats**
 - **détachés**
 - **tressés**
-- étre **chauve **🧑🏻‍🦲
+- étre **chauve** 🧑🏻‍🦲
 - avoir **chignon**
 - avoir **coupe champignon**
 - avoir **une queue de cheval**
@@ -352,7 +352,7 @@ avoirs / porter ...
 
 ### Probèmes de Logement
 
-Video: [Les problèmes dans le logement](https://www.youtube.com/watch?v=E7tBvm1oPvU)
+<iframe src="https://www.youtube.com/embed/E7tBvm1oPvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 #### Problèmes
 
