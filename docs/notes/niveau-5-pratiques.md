@@ -1,6 +1,6 @@
 ---
 sidebar_position: 55
-description: "Niveau 5"
+description: "Les pratiques pour niveau 5"
 ---
 
 # Pratiques: N5
@@ -12,7 +12,7 @@ description: "Niveau 5"
 1. Je classe les dossiers.
 1. Je répare les appareils.
 1. Je fais les inscriptions.
-1. Il répond aux appels.  / Il y répond.
+1. Il répond aux appels. / Il y répond.
 1. Elle balance la caisse.
 1. Je vends des assurances.
 1. J<s>e</s> <s>s</s>ors les vidanges.
@@ -23,7 +23,7 @@ description: "Niveau 5"
 1. Elle analyse les données.
 1. Elle lit les rapports.
 1. Je parle aux clients.
-1. Il regarde les radiographies. [ir gard]  /  [i regard]
+1. Il regarde les radiographies. [ir gard] / [i regard]
 1. Je participe aux réunions.
 1. Je serre le matériel. / Je range le matériel.
 1. Elle questionne les clients.
@@ -50,8 +50,6 @@ description: "Niveau 5"
 1. il n'y avait pas de place
 1. elle n'a pas d'enfant
 
-
-
 ## Embauchement
 
 ### Questions d’entrevue d’embauche
@@ -68,7 +66,7 @@ description: "Niveau 5"
 1. Connaissez-vous notre entreprise?
 1. Avez-vous des questions?
 1. Avez-vous votre CV?
-2. Parlez-moi de votre ancien emploi.
+1. Parlez-moi de votre ancien emploi.
 1. Quelles étaient vos responsabilités?
 1. Quelles seraient les qualités d’un bon patron?
 1. Que faites-vous présentement?
@@ -92,36 +90,36 @@ description: "Niveau 5"
 
 ### Emploi et marqueurs de temps
 
-Complétez les phrases avec *il y a*, *pendant*, *depuis*, *de*, *à*, *en* ou *dans*.
+Complétez les phrases avec _il y a_, _pendant_, _depuis_, _de_, _à_, _en_ ou _dans_.
 
-1. J'ai étudié \_________ 1998 \_________ 2002, \_________ quatre ans.
-1. J'ai reçu mon diplôme \_________ 2003.
-1. Je vais terminer mon programme de francisation \_________ deux mois.
-1. J'ai travaillé \_________ les vacances de Noël comme caissier.
-1. Je suis des cours de français \_________ six mois.
-1. Je pourrais commencer à travailler \_________ deux semaines.
-1. J'ai répondu aux questions du test \_________ trente minutes.
-1. \_________ que jai un nouvel emploi, je pratique souvent le français avec mes collègues québécois.
-1. Je suis partie de mon pays d'origine \_________  un an et demi.
-1. J'ai envoyé mon c.v. \_________ deux semaines et je n'ai pasencore de réponses.
+1. J'ai étudié \_**\_\_\_\_** 1998 \_**\_\_\_\_** 2002, \_**\_\_\_\_** quatre ans.
+1. J'ai reçu mon diplôme \_**\_\_\_\_** 2003.
+1. Je vais terminer mon programme de francisation \_**\_\_\_\_** deux mois.
+1. J'ai travaillé \_**\_\_\_\_** les vacances de Noël comme caissier.
+1. Je suis des cours de français \_**\_\_\_\_** six mois.
+1. Je pourrais commencer à travailler \_**\_\_\_\_** deux semaines.
+1. J'ai répondu aux questions du test \_**\_\_\_\_** trente minutes.
+1. \_**\_\_\_\_** que jai un nouvel emploi, je pratique souvent le français avec mes collègues québécois.
+1. Je suis partie de mon pays d'origine \_**\_\_\_\_** un an et demi.
+1. J'ai envoyé mon c.v. \_**\_\_\_\_** deux semaines et je n'ai pasencore de réponses.
 
-### il y a ..., *p.c*. / depuis ... , *présent*
+### il y a ..., _p.c_. / depuis ... , _présent_
 
-| Durée | Événement / Action | Résultat / Action |
-|------------------|--------------------------------------|:-------------------------|
-| Quatre jours     | Perdre sa carte d'autobus           | Marcher                  |
-| Deux mois        | S'inscrire à un cours                | Étudier                  |
-| Deux semaines    | Arrêter de fumer                    | Respirer mieux           |
-| Trois jours      | Briser son téléphone                | Ne plus pouvoir appeler  |
-| Deux ans         | Commencer à jouer du piano          | Jouer du piano           |
-| Une semaine      | Se disputer avec son ami            | Ne plus se parler        |
-| Quinze minutes   | Faire un accident                   | Attendre les policiers   |
-| Huit jours       | Se faire opérer                     | Être à l'hôpital         |
-| Deux ans         | Commencer à travailler              | Travailler               |
-| Quinze minutes   | Se réveiller                        | Être réveillé            |
-| Trois ans        | Se marier                           | Être marié               |
-| Un an            | Arrêter de marcher                  | Engraisser               |
-| Six mois         | Accoucher                           | Avoir un |
+| Durée          | Événement / Action         | Résultat / Action       |
+| -------------- | -------------------------- | :---------------------- |
+| Quatre jours   | Perdre sa carte d'autobus  | Marcher                 |
+| Deux mois      | S'inscrire à un cours      | Étudier                 |
+| Deux semaines  | Arrêter de fumer           | Respirer mieux          |
+| Trois jours    | Briser son téléphone       | Ne plus pouvoir appeler |
+| Deux ans       | Commencer à jouer du piano | Jouer du piano          |
+| Une semaine    | Se disputer avec son ami   | Ne plus se parler       |
+| Quinze minutes | Faire un accident          | Attendre les policiers  |
+| Huit jours     | Se faire opérer            | Être à l'hôpital        |
+| Deux ans       | Commencer à travailler     | Travailler              |
+| Quinze minutes | Se réveiller               | Être réveillé           |
+| Trois ans      | Se marier                  | Être marié              |
+| Un an          | Arrêter de marcher         | Engraisser              |
+| Six mois       | Accoucher                  | Avoir un                |
 
 ### Action qui commence dans <u>le passé</u> et qui continue dans <u>le présent</u>
 
@@ -168,16 +166,16 @@ Pour le bien-être et la qualité de vie de tous, veuillez respecter ces consign
 
 Johanne et Paul-Henri Lemieux
 
-### Règlement de la Buanderie 
+### Règlement de la Buanderie
 
 Heures d'ouverture: de 8 h à 22 h
 
-1. La buanderie est réservée aux locataires. 
-1. Afin de ne pas déranger les locataires qui demeurent près du local, il est interdit d'utiliser la buanderie en dehors des heures d'ouverture. 
-1. Le locataire doit rester dans la buanderie pendant que les appareils fonctionnent pour réduire les risques d'incendie. 
-1. Le locataire doit libérer les appareils immédiatement à la fin du cycle de lavage ou de séchage. 
-1. Il est interdit de fumer dans la buanderie. 
-1. La présence d'animaux est interdite dans la buanderie. ﻿﻿﻿
+1. La buanderie est réservée aux locataires.
+1. Afin de ne pas déranger les locataires qui demeurent près du local, il est interdit d'utiliser la buanderie en dehors des heures d'ouverture.
+1. Le locataire doit rester dans la buanderie pendant que les appareils fonctionnent pour réduire les risques d'incendie.
+1. Le locataire doit libérer les appareils immédiatement à la fin du cycle de lavage ou de séchage.
+1. Il est interdit de fumer dans la buanderie.
+1. La présence d'animaux est interdite dans la buanderie.
 1. Il est interdit de laisser des objets personnels (savon, assouplissant, vêtements, etc.) dans la buanderie.
 
 ### Lettres de logement
@@ -196,7 +194,6 @@ La cuisne est ensoleillée et fonctionnelle, et elle a des grandes armoires. Je 
 
 À bientôt !
 
-
 ### Être Habillé comme la Chienne à Jacques
 
 de [Je vous entends parler](/resources#je-vous-entends-parler)
@@ -211,7 +208,7 @@ Je me revois dans ce shack en pleine forêt, avec mon bébé et son père. Dans 
 
 ### Emploi imparfait Dominique
 
-Dis-moi, qu'est-ce que tu faisais comme travail quand t'étais jeune? 
+Dis-moi, qu'est-ce que tu faisais comme travail quand t'étais jeune?
 
 Quand j'étais très jeune, je gardais des enfants comme tout le monde. Puis après, j'ai été surveillante à l'école où j'allais. Je surveillais les périodes études pour les plus petits. Et après ça, j'ai travaillé chez la baie.
 
@@ -221,18 +218,17 @@ Et puis après ça, je suis allée travailler au CHUL, au centre hospitalier de 
 
 Brancardier, c'est les personnes qui déplacent des gens qui sont sur un brancard, ou ce qu'on dit aussi une civière. Donc, pour les personnes malade qui sont dans un lit et pas une chaise roulante et qui doivent aller d'un département à l'autre, mort ou vivant.
 
-Et toi, tu les déplaces d'un secteur à l'autre? Oui. Ok, c'est spécial ça? Oui. Et puis avant de devenir enseignante, qu'est-ce que tu as fait? 
+Et toi, tu les déplaces d'un secteur à l'autre? Oui. Ok, c'est spécial ça? Oui. Et puis avant de devenir enseignante, qu'est-ce que tu as fait?
 
 Juste avant de devenir enseignante à Champlain, je travaillais, j'étais la secrétaire du Conseil Général au consulat de la Corée du Sud, à Montréal.
 
-Qu'est-ce que tu faisais exactement? 
+Qu'est-ce que tu faisais exactement?
 
-Je m'occupais de l'horaire du Conseil Général. Je prenais des rendez-vous pour lui. J'organisais des rencontres entre les diplomates. J'écrivais ses discours en anglais ou en français. Et je lui donnais aussi tes cours de français. 
+Je m'occupais de l'horaire du Conseil Général. Je prenais des rendez-vous pour lui. J'organisais des rencontres entre les diplomates. J'écrivais ses discours en anglais ou en français. Et je lui donnais aussi tes cours de français.
 
 Ah oui? Tu lui donnais des cours de français? Oui.
 
 Merci beaucoup.
-
 
 ## Quiz
 

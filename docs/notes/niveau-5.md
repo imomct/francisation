@@ -3,7 +3,6 @@ sidebar_position: 50
 description: "mars - avril 2024, Sophie et Charles"
 ---
 
-
 # Niveau 5
 
 ## Prononciation
@@ -32,7 +31,6 @@ description: "mars - avril 2024, Sophie et Charles"
   - il oublie
   - il <s>u</s>tilise / [y] <s>u</s>tilise
 
-
 ### elle
 
 - **[a]**: consonnes
@@ -46,7 +44,6 @@ description: "mars - avril 2024, Sophie et Charles"
   - elle étudie
 - **[ɛ]**: devant être
   - elle est partie
-
 
 ## Profession
 
@@ -78,9 +75,9 @@ description: "mars - avril 2024, Sophie et Charles"
 - un **stage**
 - un **syndicat**
 - une **tâche**
-- la/le **brancardier** 
+- la/le **brancardier**
 - une **civière**
-- la **carrière** 
+- la **carrière**
 - une **entrevue**
 - la **embauche** (embaucher)
 
@@ -91,7 +88,7 @@ description: "mars - avril 2024, Sophie et Charles"
 - **honnête**
 - **créatif**
 - **fidèle**
-- **innovateur** *nom.*  *adj.*
+- **innovateur** _nom._ _adj._
 - **respectueux**
 - **dédié**
 - **investi**
@@ -101,7 +98,7 @@ description: "mars - avril 2024, Sophie et Charles"
 - avoir des **sens d'humour**
 - la **humeur** (mood, temper)
 - **aimable**
-- **sympathique** 
+- **sympathique**
 - **diplomat**
 - **charismatique**
 - bon **orateur**
@@ -125,7 +122,6 @@ description: "mars - avril 2024, Sophie et Charles"
 - **ingénieux** / **ingénieuses**, J'ai un esprit inventif. Je suis créatif/ créative. Je trouve des solutions aux problèmes.
 - **empathique**, J'ai de la facilité à imaginer ce qu'une autre personne vit ou pense.
 - **organisé**.e, Je planifie mon temps et mes tâches.
-
 
 ### Demander la Profession
 
@@ -168,17 +164,17 @@ description: "mars - avril 2024, Sophie et Charles"
 #### Réponses
 
 1. je **classe** des documents / **classer** / classais / classerai
-1. je **réponds** au téléphone / **répondre** / répondais /  répondrai
+1. je **réponds** au téléphone / **répondre** / répondais / répondrai
 1. je **prends** les appels / **prendre** / prenais / prendrai
-1. j'**appelle** les clients / **appeler** / appelais /  appellerai
+1. j'**appelle** les clients / **appeler** / appelais / appellerai
 1. je **contacte** les clients / **contacter** / contactais / contacterai
 1. je **fais** la comptabilité / **faire** / faisais / ferai
 1. j'**accueille** les clients / **accueillir** / accueillais / accueillerai
 1. j'**administre** la compagnie / **administrer** / administrais / administrerai
-1. je **répare** les moteurs / **réparer** / réparais / réparerai 
+1. je **répare** les moteurs / **réparer** / réparais / réparerai
 1. je **reçois** la marchandise / **recevoir** / recevais / recevrai
 1. je **vérifie** les données / **vérifier** / vérifiais / vérifierai
-1. j'**entre** des données / **entrer** / entrais / entrerai 
+1. j'**entre** des données / **entrer** / entrais / entrerai
 1. j'**entretiens** l'entrepôt / **entretenir** / entretenais / entretiendrai
 1. je **colle** des étiquettes / **coller** / collais / collerai
 1. j'**enseigne** les mathématiques / **enseigner** / enseignais / enseignerai
@@ -200,12 +196,112 @@ description: "mars - avril 2024, Sophie et Charles"
 1. je **traduis** des romans / **traduire** / traduisais / traduirai
 1. je **construis** cet immeuble / **construire** / construisais / construirai
 
+## Décrire une Personne
+
+### Vocabulaire
+
+- **beau** / **belle** / **cute** / **joli**.e / **mignon**.ne
+
+#### L'âge
+
+- **avoir l'air** jeune, vieux
+- **avoir environ** / **à peu près** 20 ans, 30 ans ...
+- **être dans** la vingtaine, la trentaine ...
+
+#### Les Cheveux
+
+avoir les cheveux ...
+
+- **rasés**
+- **courts**
+- **mi-longs**
+- **longs**
+- **blonds**
+- **bruns**
+- **roux**
+- **noirs**
+- **gris**
+- **blancs**
+- **frisés** / **bouclés**
+- **droits** / **raides** / **plats**
+- **détachés**
+- **tressés**
+- étre **chauve **🧑🏻‍🦲
+- avoir **chignon**
+- avoir **coupe champignon**
+- avoir **une queue de cheval**
+- avoir **coupe Longueuil**
+
+#### Les Yeux
+
+avoir les yeux ...
+
+- **bleus** 🔵
+- **verts** 🟢
+- **gris**
+- **bruns** 🟤
+- **pers** 🔵🟢
+- **noirs**
+
+#### Le Visage
+
+avoir le visage ...
+
+- **carré** ⏹️
+- **long**
+- **rond** 🙂
+- **ovale**
+- **griangulaire** ▼
+- **ridé**
+
+#### Les lèvres
+
+avoir les lèvres ...
+
+- **minces** / **fines**
+- **chaurnues** / **épaisses**
+
+#### Le Nez
+
+avoir le nez ...
+
+- **aquilin** / **droit**
+- **retroussé**
+- **épaté**
+- **pointu**
+
+#### Divers
+
+avoirs / porter ...
+
+- des **lunettes**
+- une **barbe**
+- une **moustache**
+- une **cicatrice**
+- un **tatouage**
+
+#### Le corps
+
+être ...
+
+- **élancé**.e
+- **trapu**.e
+- **rond**.e / **dodu**.e / **grasset**.te / **corpulant** 
+- **musclé**.e
+- **athlétique** / **costaud**.e
+- **sain**.e / **en santé** 
+- **mince** / **svelte** / **longiligne**
+- **maigre**, pas bon, malade
+- **fragile** / **délicat**.e
+- avoir **<u>le dos</u> courbé**
+- 
+
 ## Logement
 
-### Vocabulaire 
+### Vocabulaire
 
 - la **température**
-- l'**escalier** *m.*
+- l'**escalier** _m._
 - le **stationnement**
 - la **poubelle**
 - la **tablette**
@@ -230,7 +326,7 @@ description: "mars - avril 2024, Sophie et Charles"
 - le **loquet**
 - la **sonnette**
 - l'**appartement**
-- l'**infiltration** *f.*
+- l'**infiltration** _f._
 - la **condensation**
 - la **galerie**
 - le **bureau**
@@ -241,15 +337,15 @@ description: "mars - avril 2024, Sophie et Charles"
 - la **plomberie**
 - le **toit** / la **toiture**
 - l'**extermination**
-- le **lavoir** / la **buanderie** 
+- le **lavoir** / la **buanderie**
 - la **fissure**
 - l'**évier**
 - la **penderie** / la **garde-robe**
 - des **crochets**
-- des **tuiles** de céramique *f.*
+- des **tuiles** de céramique _f._
 - un **chauffe-eau**
 - un **drain**
-- un **panneau** électrique 
+- un **panneau** électrique
 - un **fil** électrique
 - une **rampe**
 - une **moustiquaire**
@@ -313,7 +409,7 @@ Video: [Les problèmes dans le logement](https://www.youtube.com/watch?v=E7tBvm1
 - **Étant donné que** la pénurie de logements est grave à Montréal, on a décidé de rester ici.
 - **Grâce à** l'avocat, mon propriétaire a accepté de réparer la fenêtre.
 - Notre facture d'électricité a augmenté, **puisqu**'on a utilisé trop de chauffage.
-- Je ne dis plus bonjour à mon voisin,  **parce que** j'ai des problèmes avec mon lui.
+- Je ne dis plus bonjour à mon voisin, **parce que** j'ai des problèmes avec mon lui.
 - **Vu que** j'ai un emploi dans une autre province, j'ai décidé de déménager.
 - On a décidé d'acheter une maison à la campagne, **car** on prendra nos rètraites l'année prochain.
 - Je vais signer le bail, **puisqu**'il est abordable
@@ -327,7 +423,7 @@ Video: [Les problèmes dans le logement](https://www.youtube.com/watch?v=E7tBvm1
 - **Comme** on s'inquiète de la situation pour le 1<sup>er</sup> juillet, une aide aux familles a été prévue.
 - Les partis d'opposition ont décrié cette mesure **car** ils considèrent que l'aide n'est pas suffisante.
 
-## Choisir le bon Marqueur de Temps
+## Choisir le Marqueur de Temps
 
 ### il y a
 
@@ -342,7 +438,7 @@ Video: [Les problèmes dans le logement](https://www.youtube.com/watch?v=E7tBvm1
 ### dans
 
 - futur
-  - il y a 3 mois, j'ai commené à étudier. 
+  - il y a 3 mois, j'ai commené à étudier.
   - **dans** 3 mois, je vais terminer d'étudie.
 
 ### pendant
@@ -352,8 +448,7 @@ Video: [Les problèmes dans le logement](https://www.youtube.com/watch?v=E7tBvm1
 ### depuis
 
 - présent
-- p.c avec "être" + mouvement 
-
+- p.c avec "être" + mouvement
 
 ## Expressions
 
@@ -363,7 +458,7 @@ Video: [Les problèmes dans le logement](https://www.youtube.com/watch?v=E7tBvm1
 
 ### inque
 
-- rien que, seulement 
+- rien que, seulement
 
 ### faque / faque-là
 
@@ -375,13 +470,27 @@ Video: [Les problèmes dans le logement](https://www.youtube.com/watch?v=E7tBvm1
 
 ### le fait est que...
 
-- The fact is that... (*formal*)
+- The fact is that... (_formal_)
   - Le fait est que le changement climatique affecte déjà de nombreuses régions du monde.
   - Le fait est que nous devons agir rapidement pour résoudre ce problème.
 
+### Ben voyons donc!
+
+- Surprise, souvent négative.
+- Vraiment ?! Je ne peux pas le croire!
+
+### comme si de rien n'était
+
+- j'ai avalé le gros morceau comme si de rien n'était
+
+### Ça se voyait
+
+- ça se sentait
+- etc.
+
 ### Tire-toi une bûche
 
-- s'asseoir 
+- s'asseoir
 - lecture: [Tire-toi une bûche](./niveau-5-pratiques.md#tire-toi-une-bûche)
 
 ### Être habillé comme la chienne à Jacques
@@ -389,10 +498,16 @@ Video: [Les problèmes dans le logement](https://www.youtube.com/watch?v=E7tBvm1
 - être mal habillé
 - lecture: [Être Habillé comme la Chienne à Jacques](./niveau-5-pratiques.md#être-habillé-comme-la-chienne-à-jacques)
 
-### Ben voyons donc!
+### Être né pour un petit pain
 
-  - Surprise, souvent négative.
-  - Vraiment ?! Je ne peux pas le croire!
+- rester pauvre toute sa vie
+- de livre: "je vous entends parler"
+
+### Avoir un verre dans le nez
+
+- Être ivre
+- Ça se voyait, ça se sentait, qu'il _<u>avait un verre dans le nez</u>_.
+- de livre: "je vous entends parler"
 
 ## ETC.
 
@@ -400,12 +515,14 @@ Video: [Les problèmes dans le logement](https://www.youtube.com/watch?v=E7tBvm1
 
 - un **potin**
 - **potiner**
-- **placoter** / **jaser**  / **bavarder**
+- **placoter** / **jaser** / **bavarder**
 - le **gratte-ciel**
-
-### Les Animaux
-
 - le **raton**
 - l'**écureuil** m.
 - le **merle**
-
+- **grand-maman maternelle**
+- **pourtant** : cependant, mais, néanmoins
+- **précarité** : fragilité, instabilité, pas solid
+- le **lendemain**, le jour suivant
+- la **veille**, le jour avant
+- **mannequin** nom *m. / f.*, model, dummy
