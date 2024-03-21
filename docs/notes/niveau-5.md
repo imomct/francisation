@@ -294,7 +294,6 @@ avoirs / porter ...
 - **maigre**, pas bon, malade
 - **fragile** / **délicat**.e
 - avoir **<u>le dos</u> courbé**
-- 
 
 ## Logement
 
@@ -345,6 +344,7 @@ avoirs / porter ...
 - des **tuiles** de céramique _f._
 - un **chauffe-eau**
 - un **drain**
+- un **siphon**
 - un **panneau** électrique
 - un **fil** électrique
 - une **rampe**
