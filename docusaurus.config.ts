@@ -29,7 +29,21 @@ const config: Config = {
     locales: ['fr'],
   },
   
-  plugins: [require.resolve('docusaurus-lunr-search')],
+  plugins: [
+    'docusaurus-plugin-sass',
+    require.resolve('docusaurus-lunr-search'),
+    async function myPlugin(context, options) {
+      return {
+        name: 'docusaurus-tailwindcss',
+        configurePostCss(postcssOptions) {
+          // Appends TailwindCSS and AutoPrefixer.
+          postcssOptions.plugins.push(require('tailwindcss'))
+          postcssOptions.plugins.push(require('autoprefixer'))
+          return postcssOptions
+        },
+      }
+    },
+  ],
 
   presets: [
     [
@@ -45,7 +59,7 @@ const config: Config = {
         },
 
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: './src/css/custom.scss',
         },
       } satisfies Preset.Options,
     ],
@@ -98,6 +112,12 @@ const config: Config = {
           rel: 'apple-touch-icon',
           href: 'https://francisation.aris.la/img/apple-touch-icon.png',
         },
+      },
+    ],
+    metadata: [
+      {
+        name: 'viewport',
+        content: 'width=device-width, initial-scale=1, maximum-scale=1',
       },
     ],
   } satisfies Preset.ThemeConfig,
