@@ -5,68 +5,9 @@ description: "mars - avril 2024, Sophie et Charles"
 
 # Niveau 5
 
-## Prononciation
+## Profession / Embauchement
 
-### je
-
-- **[ch]**: s, t, p, c, k, q, f
-  - je cherche
-  - je parle
-  - je chante
-  - je travaille
-- **[j]**: b, m, v, ai~ etc...
-  - je bois
-  - je mange
-  - je veux
-  - j'aime
-
-### il
-
-- **[i]**: consonnes
-  - il pleut
-  - il sort
-  - il regarde
-- **[y]**: voyelles
-  - <s>il</s> aime / [y] aime
-  - il oublie
-  - il <s>u</s>tilise / [y] <s>u</s>tilise
-
-### elle
-
-- **[a]**: consonnes
-  - elle va partir
-  - elle dit
-  - elle peut
-- **[al]**: voyelles
-  - elle a dit
-  - elle aime
-  - elle arrive
-  - elle étudie
-- **[ɛ]**: devant être
-  - elle est partie
-
-### La Liaison
-
-#### Obligatoire
-
-- **Déterminant + nom**
-  - un_ami, ses_enfants, dix_ans
-- **Pronom sujet + verbe**
-  - ils_ont, vous_avez, nous_avons
-
-#### Interdite
-
-- **et + voyelle**
-  - et amusant 
-
-#### Possible
-
-- Tous les mots qui finissent par une consonne suivis d’un mot qui commence par une voyelle.
-  - ont\_été, mon\_accueil, allons\_aller\_à
-
-## Profession
-
-### Vocabulaires
+### Vocabulaire
 
 - un **arrêt** de travail
 - **homme d'affaire** / femme d'affaire
@@ -315,7 +256,7 @@ avoirs / porter ...
 - **fragile** / **délicat**.e
 - avoir **<u>le dos</u> courbé**
 
-## Logement
+## Logement et Problem
 
 ### Vocabulaire
 
@@ -414,6 +355,120 @@ avoirs / porter ...
 - **j'accuse réception**: j'ai bien reçu
 - **j'entends**: je veux
 
+## Prononciation
+
+### je
+
+- **[ch]**: s, t, p, c, k, q, f
+  - je cherche
+  - je parle
+  - je chante
+  - je travaille
+- **[j]**: b, m, v, ai~ etc...
+  - je bois
+  - je mange
+  - je veux
+  - j'aime
+
+### il
+
+- **[i]**: consonnes
+  - il pleut
+  - il sort
+  - il regarde
+- **[y]**: voyelles
+  - <s>il</s> aime / [y] aime
+  - il oublie
+  - il <s>u</s>tilise / [y] <s>u</s>tilise
+
+### elle
+
+- **[a]**: consonnes
+  - elle va partir
+  - elle dit
+  - elle peut
+- **[al]**: voyelles
+  - elle a dit
+  - elle aime
+  - elle arrive
+  - elle étudie
+- **[ɛ]**: devant être
+  - elle est partie
+
+### La Liaison
+
+#### Obligatoire
+
+- **Déterminant + nom**
+  - un_ami, ses_enfants, dix_ans
+- **Pronom sujet + verbe**
+  - ils_ont, vous_avez, nous_avons
+
+#### Interdite
+
+- **et + voyelle**
+  - et amusant 
+
+#### Possible
+
+- Tous les mots qui finissent par une consonne suivis d’un mot qui commence par une voyelle.
+  - ont\_été, mon\_accueil, allons\_aller\_à
+
+## Grammaire 
+
+### Gérondif
+
+2 actions en même temps
+
+- il mange **en regardant** la télé
+  - On a mangé ...
+  - tu vas manger, ils mangeaient ...
+
+### Subjonctif
+
+Obligation, conseil
+
+- **Il faut que** je parle bien le français pour trouver un bon emploi.
+
+### Hypothèse
+
+Si + présent + futur
+
+- Si je mange trop, je vais être malade.
+  - Si vous travaillez trop, ...
+  - Vous allez être fatigués si ...
+  - Si on mange pas maintenant, ...
+  - On va avoir faim plus tard si ...
+  - On va réussir si on étudie bien.
+
+### Discours Dndirect
+
+- je mange mon souper avec ma famille.
+  - Qu’est-ce qu’il dit ?
+  - Il dit qu’il mange son souper avec sa famille
+- Est-ce que je peux emprunter ton crayon ?
+  - Qu’est-ce qu’il demande
+  - Il demande s' il peut emprunter mon crayon.
+
+### Faire soi-même / faire faire
+
+| faire soi-même                 | faire faire (par quelqu’un)                     |
+| ------------------------------ | ----------------------------------------------- |
+| je lave le pare brise moi-même | je fais réparer la transmission (par le mécano) |
+| je change l’huile moi-même     | Je fais changer les pneus                       |
+| je lave l’auto moi-même        |                                                 |
+| je mets de l’essence moi-même  |                                                 |
+
+### Question avec "-tu"
+
+| Est-ce que...                   | -tu                       |
+| ------------------------------- | ------------------------- |
+| Est-ce qu’il parle français?    | Il parle-tu français ?    |
+| Est-ce qu’elle a compris ?      | Elle a-tu compris?        |
+| Est-ce qu’on va aller au resto? | On va-tu aller au resto ? |
+| Est-ce qu'ils sont arrivés?     | Ils sont-tu arrivés?      |
+| Est-ce que je peux vous aider?  | Je peux-tu vous aider?    |
+
 ## Exprimer une Cause
 
 - **vu que**
@@ -499,6 +554,10 @@ avoirs / porter ...
 - Surprise, souvent négative.
 - Vraiment ?! Je ne peux pas le croire!
 
+### Au cas où
+
+- en cas
+
 ### se mettre à + inf.
 
 - se mettre à + infinitif = commencer
@@ -575,10 +634,11 @@ avoirs / porter ...
 - **vinicole**, adj. à la production du vin.
 - **même que**, even that
 - **avant même que**, even before
+- **quand bien même**, even though
 - **honteux**.euse, dégradant, méprisable
 - **gêné**.e, timidité.e
 - **propre** + nom, own
 - se **balader**
 - **achalandé**.e, occupé
 - **tromper**, se tromper de...
-
+- **compensation**, dédommagement
