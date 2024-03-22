@@ -45,6 +45,25 @@ description: "mars - avril 2024, Sophie et Charles"
 - **[ɛ]**: devant être
   - elle est partie
 
+### La Liaison
+
+#### Obligatoire
+
+- **Déterminant + nom**
+  - un_ami, ses_enfants, dix_ans
+- **Pronom sujet + verbe**
+  - ils_ont, vous_avez, nous_avons
+
+#### Interdite
+
+- **et + voyelle**
+  - et amusant 
+
+#### Possible
+
+- Tous les mots qui finissent par une consonne suivis d’un mot qui commence par une voyelle.
+  - ont\_été, mon\_accueil, allons\_aller\_à
+
 ## Profession
 
 ### Vocabulaires
@@ -201,6 +220,7 @@ description: "mars - avril 2024, Sophie et Charles"
 ### Vocabulaire
 
 - **beau** / **belle** / **cute** / **joli**.e / **mignon**.ne
+- un **veuf** / une **veuve**, n. et adj.
 
 #### L'âge
 
@@ -251,7 +271,7 @@ avoir le visage ...
 - **long**
 - **rond** 🙂
 - **ovale**
-- **griangulaire** ▼
+- **triangulaire** ▼
 - **ridé**
 
 #### Les lèvres
@@ -275,8 +295,8 @@ avoir le nez ...
 avoirs / porter ...
 
 - des **lunettes**
-- une **barbe**
-- une **moustache**
+- une **barbe** 
+- une **moustache** 
 - une **cicatrice**
 - un **tatouage**
 
@@ -286,7 +306,7 @@ avoirs / porter ...
 
 - **élancé**.e
 - **trapu**.e
-- **rond**.e / **dodu**.e / **grasset**.te / **corpulant** 
+- **rond**.e / **dodu**.e / **grasset**.te / **corpulent**.e
 - **musclé**.e
 - **athlétique** / **costaud**.e
 - **sain**.e / **en santé** 
@@ -479,6 +499,18 @@ avoirs / porter ...
 - Surprise, souvent négative.
 - Vraiment ?! Je ne peux pas le croire!
 
+### se mettre à + inf.
+
+- se mettre à + infinitif = commencer
+  - je me mets à travailler
+  - il s'est mis à rire
+  - on va se mettre à chercher un un appartement 
+ - Etc.
+   - **venir de**, passé récent
+   - **être en train de**, en progrès
+   - **être à la veille de**, futur très proche
+   - **être sur le point de**, futur très proche
+
 ### comme si de rien n'était
 
 - j'ai avalé le gros morceau comme si de rien n'était
@@ -509,6 +541,16 @@ avoirs / porter ...
 - Ça se voyait, ça se sentait, qu'il _<u>avait un verre dans le nez</u>_.
 - de livre: "je vous entends parler"
 
+### Avoir le cœur sur la main
+
+- Être généreux 
+- de livre: "je vous entends parler"
+
+### Partir du bon pied
+
+- Bien commencer un affaire, un project, sur de bonnne bases.
+- de livre: "je vous entends parler"
+
 ## ETC.
 
 ### Vocabulaire
@@ -522,7 +564,21 @@ avoirs / porter ...
 - le **merle**
 - **grand-maman maternelle**
 - **pourtant** : cependant, mais, néanmoins
-- **précarité** : fragilité, instabilité, pas solid
+- la **précarité** : fragilité, instabilité, pas solid
 - le **lendemain**, le jour suivant
 - la **veille**, le jour avant
 - **mannequin** nom *m. / f.*, model, dummy
+- **faire tout de travers**
+- **comportement**, manière d'agir, de vivre
+- **faire partie de** ..., être partie de
+- **n'est plus de ce mond**
+- **vinicole**, adj. à la production du vin.
+- **même que**, even that
+- **avant même que**, even before
+- **honteux**.euse, dégradant, méprisable
+- **gêné**.e, timidité.e
+- **propre** + nom, own
+- se **balader**
+- **achalandé**.e, occupé
+- **tromper**, se tromper de...
+
