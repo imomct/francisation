@@ -441,7 +441,7 @@ Si + présent + futur
   - On va avoir faim plus tard si ...
   - On va réussir si on étudie bien.
 
-### Discours Dndirect
+### Discours Indirect
 
 - je mange mon souper avec ma famille.
   - Qu’est-ce qu’il dit ?
