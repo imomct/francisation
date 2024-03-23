@@ -426,9 +426,135 @@ avoirs / porter ...
 
 ### Subjonctif
 
-Obligation, conseil
+Pas realité, le souhait, la possibilité, obligation, conseil etc.
 
-- **Il faut que** je parle bien le français pour trouver un bon emploi.
+- Il **faut** / **faudrait** QUE
+- vous **aimeriez** QUE
+- C'est **nécessaire** QUE
+- C'est **obligatroie** QUE
+- etc...
+
+:::warning
+
+Excption: " j'espère que " < c'est pas subjonctif
+
+:::
+
+
+<details>
+  <summary>Exemples de Subjonctif</summary>
+
+- Pour vivre, 
+	- il faut que je **respire** 
+	- il faut que je **mange**
+	- il faut que je **boive**
+	- il faut que je **prenne** l’air
+	- il faut que j’**aie** de bonnes relations
+- Pour être heureux, 
+	- il faut que je **gagne** plus d’argent
+	- il faut que je **sois** content avec tous
+	- il faut que je **sois** optimiste
+- Pour apprendre le français, 
+	- il faut que je **vienne** à local 350
+	- il faut que j’écoute des chansons en français
+	- il faut que j’**écoute** mon prof
+	- il faut que j’**aille** en classe
+	- il faut que je **fasse** des efforts
+	- il faut que j’**assiste** aux cours
+	- il faut que je le parle
+	- il faut que je **sois** déterminé.e / persévérant / acharné.e / patient / courageux
+- Pour être en forme, 
+	- il faut que je **fasse** du sport 
+	- il faut que **mange** bien et pas trop
+	- il faut que je **dorme** / **me repose** / j’**évite** la malbouffe
+	- il faut que j’**aie** une vie équilibrée
+- Pour avoir une vie équilibrée,
+	- il faut que je **travaille** un peu mais pas trop
+	- il faut que j’**aie** une bonne diète
+	- il faut que je **voyage** pour connaître de nouvelles choses
+	- il faut que j’**aie** une bonne hygiène de vie
+- Pour être en santé, 
+	- il faut que j’**arrête** de fumer
+	- il faut que je **mange** des fruits et des légumes
+	- il faut que je **me détende** 
+	- il faut que je **médite**
+	- il faut que je **fasse** une sieste 
+	- il faut pas que je **boive** trop de l’alcool 
+	- il faut <u>pas</u> que je <u>ne</u> **mange** <u>que</u> de la viande
+- Pour prendre un rendez-vous, 
+	- il faut que je **appelle** lui, mon secrétaire pour le faire. 
+	- il faut pas que j’**écrive** un message
+	- il faut pas que j’**aie** mes documents à portée de la main
+	- il faut pas que je **demande** l’autorisation 
+	- il faut pas que je **connaisse** mon horaire
+- Pour trouver un bon emploi, 
+	- il faut que je **prépare** un bon CV
+	- il faut que je **passe** une entrevue
+	- il faut que je **postule** plusieurs postes
+- Pour réussir mon examen, 
+	- il faut que je **pratique** souvent 
+	- il faut que j’**étudie** fort
+	- il faut que je **participe** au cours
+	- il faut que je **comprenne** les questions
+	- il faut que je **sois** nerveux.se
+- Pour vivre dans l’espace,
+
+  - il faut que je **m’auto-évolue**
+
+
+</details>
+
+### Subjonctif présent et sa Conjugaison
+
+#### Verbes réguliers
+
+Même constuction que le **présent** de l'indicatif
+
+Excepté avec **nous et vous**, ressemble à l'**imparfait** pour nous et vous
+
+- **Parler**
+	- que je **parle**
+	- que tu **parles**
+	- qu' il/elle/on **parle**
+	- que nous **parlions** < Forme Imparfait
+	- que vous **parliez** < Forme Imparfait
+	- qu' ils/elles **parlent**
+
+#### Verbes irréguliers
+
+Certains verbs ont un radical irrégulier, mais les mêmes terminaisons que les verbes régulier.
+
+- **Faire** : que je **fass<u>e</u>**, que tu **fass<u>es</u>**, qu'il/elle/on **fass<u>e</u>**, que nous **fass<u>ions</u>**, que vous **fass<u>iez</u>**, qu'ils/elles **fass<u>ent</u>**
+- **Pouvoir** : que je **puiss<u>e</u>**, que tu **puiss<u>es</u>**, qu'il/elle/on **puiss<u>e</u>**, que nous **puiss<u>ions</u>**, que vous **puiss<u>iez</u>**, qu'ils/elles **puiss<u>ent</u>**
+- **Savoir** : que je **sach<u>e</u>**, que tu **sach<u>es</u>**, qu'il/elle/on **sach<u>e</u>**, que nous **sach<u>ions</u>**, que vous **sach<u>iez</u>**, qu'ils/elles **sach<u>ent</u>**
+- **Voir**: que je **voi<u>e</u>**, que tu **voi<u>es</u>**, qu'il/elle/on **voi<u>e</u>**, que nous **voy<u>ions</u>**, **que** vous **voy<u>iez</u>**, qu'ils/elles **voi<u>ent</u>**
+- **Devoir** : que je **doiv<u>e</u>**, que tu **doiv<u>es</u>**, qu'il/elle/on **doiv<u>e</u>**, que nous **dev<u>ions</u>**, que vous **dev<u>iez</u>**, qu'ils/elles **doiv<u>ent</u>**
+- **Mettre**: que je **<u>mett</u>e**
+- **Finir**: que je **<u>finiss</u>e**
+- **Dormir**: que je **<u>dorm</u>e**
+- **Partir**: que je **<u>part</u>e**
+- **Sortir**: que je **<u>sort</u>e**
+- **Connaitre**: que je **<u>connaiss</u>e**
+- **Lire** que je **<u>lis</u>e**
+- **Dire**:  que je **<u>dis</u>e**
+- **Attendre**: que j'**<u>attend</u>e**
+- **Entendre**: que j'**<u>entend</u>e**
+- **Écrire**: que j'**<u>écriv</u>e**
+
+
+#### Verbes à deux radicaux (deux racines, deux bases)
+
+- **Aller** : que j'**aille**, que tu **ailles**, qu'il/elle/on **aille**, que nous **<u>all</u>ions**, que vous **<u>all</u>iez**, qu'ils/elles **aillent**
+- **Prendre** : que je **prenne**, que tu **prennes**, qu’il/elle/on **prenne**, que nous **<u>pren</u>ions**, que vous **<u>pren</u>iez**, qu’ils/elles **prennent**
+- **Venir** : que je **vienne**, que tu **viennes**, qu’il/elle/on **vienne**, que nous **<u>ven</u>ions**, que vous **<u>ven</u>iez**, qu’ils/elles **viennent**
+- **Boire**: que je **boive**, que tu **boives**, qu’il/elle/on **boive**, que nous **<u>buv</u>ions**, que vous **<u>buv</u>iez**, qu’ils/elles **boivent**
+
+#### Être et Avoir
+
+- **Être** : que je **sois**, que tu **sois**, qu’il/elle/on **soit**, que nous **soyons**, que vous **soyez**, qu’ils/elles **soient**
+  - **c'est** : que ce soit
+- **Avoir** : que j’**aie**, que tu **aies**, qu’il/elle/on **ait**, que nous **ayons**, que vous **ayez**, qu’ils/elles **aient**
+  - **il y a** : qu'il y ait
 
 ### Hypothèse
 
@@ -622,7 +748,6 @@ Si + présent + futur
 - l'**écureuil** m.
 - le **merle**
 - **grand-maman maternelle**
-- **pourtant** : cependant, mais, néanmoins
 - la **précarité** : fragilité, instabilité, pas solid
 - le **lendemain**, le jour suivant
 - la **veille**, le jour avant
@@ -632,6 +757,7 @@ Si + présent + futur
 - **faire partie de** ..., être partie de
 - **n'est plus de ce mond**
 - **vinicole**, adj. à la production du vin.
+- **pourtant** : cependant, mais, néanmoins
 - **même que**, even that
 - **avant même que**, even before
 - **quand bien même**, even though
