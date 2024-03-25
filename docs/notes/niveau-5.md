@@ -812,20 +812,12 @@ Si + présent + futur
 ### Être dans les patates
 
 - Se tromper
-- Ne pas bien comprendre
-- Être forcé, devoir
-- Fois
 - J'étais obligée d'admettre que <u>j'étais dans les patates</u> à plusieurs reprises.
   - de livre: "je vous entends parler"
 
 ### Avoir des croûtes à manger
 
 - Avoir des choses à apprendre, à expérimenter
-- Espérer quelque chose
-- Avoir "la bonne réponse"
-- Être bien, être en harmonie, être à l'aise
-- Balance
-- Coloré
 - Quand, devant mon impatience, mes amis qui étaient plus veux me disaient: "<u>tu as encore de coûtes à manger</u>"
   - de livre: "je vous entends parler"
 
@@ -861,3 +853,12 @@ Si + présent + futur
 - **achalandé**.e, occupé
 - **tromper**, se tromper de...
 - **compensation**, dédommagement
+- **espérer quelque chose**: avoir hâte
+- un **bagage**: expérience
+- avoir "**la bonne réponse**": avoir raison
+- **faire la paix**: être bien, être en harmonie, être à l'aise
+- **équilibre**: balance
+- **teinté**: coloré
+- un **malentendu**: ne pas bien comprendre
+- **être obligé**: être forcé, devoir
+- **une reprise**: fois
