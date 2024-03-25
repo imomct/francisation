@@ -436,9 +436,82 @@ Pas realité, le souhait, la possibilité, obligation, conseil etc.
 
 :::warning
 
-Excption: " j'espère que " < c'est pas subjonctif
+Excption: " j'espère que " 👈 c'est pas subjonctif
 
 :::
+
+<details>
+  <summary>Les Verbes Subjonctives</summary>
+
+#### Nécessité / Obligation
+
+- Il faut que
+- Il faudrait que
+- Il, C'est nécessaire que
+- II, C'est indispensable que
+- II, C'est obligatoire que
+- Il suffit que
+
+#### Volonté/ Souhait
+
+- Vouloir, aimer, apprécier, souhaiter, désirer, avoir envie, avoir besoin, demander, refuser, exiger, accepter;
+- Ex: Je voudrais qu'il fasse beau.
+- Je veux que mes enfants aillent à l'école. / fassent les devoirs/ ranger leur chambre/ rangent leur chambre finir les - exercices/ finissent les être sages/ soient sages avoir du courage/ aient venir avec moi/ viennent avec moi
+avoir de succès/ je souhaite que mes enfants aient beaucoup de succès dans la vie/
+
+#### Sentiment
+
+- Être content(e), désolé(e), triste, fâché(e), surpris (e), etc.
+- Avoir peur, craindre
+- Regretter
+- Je suis désolé d'être en retard. / d' avoir été en retard
+- Je suis désolé que tu sois en retard.
+- Ex: Je suis contente que tu sois là. / que mes enfants m'aident beaucoup.
+- Ça me dérange que Ça m'est égal que Ça me révolte que Ça m'étonne que
+- Ça me surprend que
+- Ça m'énerve que
+
+#### Jugement/Opinion
+
+- II, C'est bien que tu saches parler français pour obtenir le travail.
+- II, C'est important que tu arrives/ vous arriviez à l'heure.
+- II, C'est normal que vous continuiez les cours en ligne pendant la pandémie.
+- II, C'est souhaitable que les étudiants s'inscrivent au cours en ligne.
+- II, C'est préférable que tu envoies le courriel maintenant.
+- Il, C'est absurde que
+- Il, C'est ridicule que
+- Il, c'est dommage que
+- II, C'est regrettable que
+- II, C'est injuste que
+- II, C'est inadmissible que
+- II, C'est incompréhensible que
+- Il, C'est incroyable que
+- Il, C'est étonnant que
+- Il vaut mieux que
+- Ce serait bien que
+- Ce serait opportun que
+- C'est une bonne idée que
+
+#### Doute/ Incertitude
+
+- Je doute que
+- Je ne suis pas sûr(e) que
+- Je ne suis pas certain(e) que
+- Je ne crois pas
+- Je ne pense pas que
+
+#### Possibilité/ Éventualité
+
+- Il, C'est possible que
+- Il se peut que
+- Il, C'est peu probable
+- Il, C'est impossible que
+
+#### Conjonctions introduisant le subjonctif
+
+à condition que, à moins que, afin que, avant que, bien que, de crainte que, de peur que, de façon que, de manière que, de - sorte que, en attendant que, jusqu'à ce que, malgré que, pour que, pourvu que, où que, qui que, quoi que, quoique, sans que; 
+  
+</details>
 
 
 <details>
@@ -735,6 +808,26 @@ Si + présent + futur
 
 - Bien commencer un affaire, un project, sur de bonnne bases.
 - de livre: "je vous entends parler"
+
+### Être dans les patates
+
+- Se tromper
+- Ne pas bien comprendre
+- Être forcé, devoir
+- Fois
+- J'étais obligée d'admettre que <u>j'étais dans les patates</u> à plusieurs reprises.
+  - de livre: "je vous entends parler"
+
+### Avoir des croûtes à manger
+
+- Avoir des choses à apprendre, à expérimenter
+- Espérer quelque chose
+- Avoir "la bonne réponse"
+- Être bien, être en harmonie, être à l'aise
+- Balance
+- Coloré
+- Quand, devant mon impatience, mes amis qui étaient plus veux me disaient: "<u>tu as encore de coûtes à manger</u>"
+  - de livre: "je vous entends parler"
 
 ## ETC.
 
