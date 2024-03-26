@@ -445,19 +445,18 @@ Excption: " j'espère que " 👈 c'est pas subjonctif
 
 #### Nécessité / Obligation
 
-- Il faut que
-- Il faudrait que
-- Il, C'est nécessaire que
-- II, C'est indispensable que
-- II, C'est obligatoire que
-- Il suffit que
+- Il **faut** que
+- Il **faudrait** que
+- Il, C'est **nécessaire** que
+- II, C'est **indispensable** que
+- II, C'est **obligatoire** que
+- Il **suffit** que
 
 #### Volonté/ Souhait
 
-- Vouloir, aimer, apprécier, souhaiter, désirer, avoir envie, avoir besoin, demander, refuser, exiger, accepter;
-- Ex: Je voudrais qu'il fasse beau.
-- Je veux que mes enfants aillent à l'école. / fassent les devoirs/ ranger leur chambre/ rangent leur chambre finir les - exercices/ finissent les être sages/ soient sages avoir du courage/ aient venir avec moi/ viennent avec moi
-avoir de succès/ je souhaite que mes enfants aient beaucoup de succès dans la vie/
+- Vouloir, aimer, apprécier, souhaiter, désirer, avoir envie, avoir besoin, demander, refuser, exiger, accepter
+- Ex: Je **voudrais** qu'il <u>fasse</u> beau.
+- Je **veux** que mes enfants <u>aillent</u> à l'école. / <u>fassent</u> les devoirs/ ranger leur chambre / <u>rangent</u> leur chambre / finir les exercices / <u>finissent</u> les être sages/ <u>soient</u> sages / avoir du courage/ <u>aient</u> venir avec moi / <u>viennent</u> avec moi / avoir de succès / je **souhaite** que mes enfants <u>aient</u> beaucoup de succès dans la vie
 
 #### Sentiment
 
@@ -467,50 +466,65 @@ avoir de succès/ je souhaite que mes enfants aient beaucoup de succès dans la 
 - Je suis désolé d'être en retard. / d' avoir été en retard
 - Je suis désolé que tu sois en retard.
 - Ex: Je suis contente que tu sois là. / que mes enfants m'aident beaucoup.
-- Ça me dérange que Ça m'est égal que Ça me révolte que Ça m'étonne que
-- Ça me surprend que
-- Ça m'énerve que
+- Ça me **dérange** que / Ça **m'est égal** que / Ça me **révolte** que / Ça **m'étonne** que / Ça me **surprend** que / Ça **m'énerve** que
 
 #### Jugement/Opinion
 
-- II, C'est bien que tu saches parler français pour obtenir le travail.
-- II, C'est important que tu arrives/ vous arriviez à l'heure.
-- II, C'est normal que vous continuiez les cours en ligne pendant la pandémie.
-- II, C'est souhaitable que les étudiants s'inscrivent au cours en ligne.
-- II, C'est préférable que tu envoies le courriel maintenant.
-- Il, C'est absurde que
-- Il, C'est ridicule que
-- Il, c'est dommage que
-- II, C'est regrettable que
-- II, C'est injuste que
-- II, C'est inadmissible que
-- II, C'est incompréhensible que
-- Il, C'est incroyable que
-- Il, C'est étonnant que
-- Il vaut mieux que
-- Ce serait bien que
-- Ce serait opportun que
-- C'est une bonne idée que
+- II, C'est **bien** que tu <u>saches</u> parler français pour obtenir le travail.
+
+- II, C'est **important** que tu <u>arrives</u> / vous <u>arriviez</u> à l'heure.
+
+- II, C'est **normal** que vous <u>continuiez</u> les cours en ligne pendant la pandémie.
+
+- II, C'est **souhaitable** que les étudiants <u>s'inscrivent</u> au cours en ligne.
+
+- II, C'est **préférable** que tu <u>envoies</u> le courriel maintenant.
+
+- Il, C'est **absurde** que
+
+  Il, C'est **ridicule** que
+
+- Il, c'est **dommage** que
+
+- II, C'est **regrettable** que
+
+- II, C'est **injuste** que
+
+- II, C'est **inadmissible** que
+
+- II, C'est **incompréhensible** que
+
+- Il, C'est **incroyable** que
+
+- Il, C'est **étonnant** que
+
+- Il **vaut mieux** que
+
+- Ce **serait bien** que
+
+- Ce **serait opportun** que
+
+- C'est **une bonne idée** que
 
 #### Doute/ Incertitude
 
-- Je doute que
-- Je ne suis pas sûr(e) que
-- Je ne suis pas certain(e) que
-- Je ne crois pas
-- Je ne pense pas que
+- Je **doute** que
+- Je ne **suis pas sûr**.e que
+- Je ne **suis pas certain**.e que
+- Je ne **crois pas** que
+- Je ne **pense pas** que
 
 #### Possibilité/ Éventualité
 
-- Il, C'est possible que
-- Il se peut que
-- Il, C'est peu probable
-- Il, C'est impossible que
+- Il, C'est **possible** que
+- Il **se peut** que
+- Il, C'est **peu probable**
+- Il, C'est **impossible** que
 
 #### Conjonctions introduisant le subjonctif
 
 à condition que, à moins que, afin que, avant que, bien que, de crainte que, de peur que, de façon que, de manière que, de - sorte que, en attendant que, jusqu'à ce que, malgré que, pour que, pourvu que, où que, qui que, quoi que, quoique, sans que; 
-  
+
 </details>
 
 
@@ -589,8 +603,8 @@ Excepté avec **nous et vous**, ressemble à l'**imparfait** pour nous et vous
 	- que je **parle**
 	- que tu **parles**
 	- qu' il/elle/on **parle**
-	- que nous **parlions** < Forme Imparfait
-	- que vous **parliez** < Forme Imparfait
+	- que nous **parlions** 👈 Forme Imparfait
+	- que vous **parliez** 👈 Forme Imparfait
 	- qu' ils/elles **parlent**
 
 #### Verbes irréguliers
@@ -862,3 +876,6 @@ Si + présent + futur
 - un **malentendu**: ne pas bien comprendre
 - **être obligé**: être forcé, devoir
 - **une reprise**: fois
+- **alentour**: aux environs, autour
+- la **soute** à baggage
+- **interrompre**, *v. tr.*
