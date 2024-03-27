@@ -767,9 +767,23 @@ Si + présent + futur
 - Surprise, souvent négative.
 - Vraiment ?! Je ne peux pas le croire!
 
+| introduction           | réaction           |
+| :--------------------- | ------------------ |
+| Imagine-toi donc       | J'en reviens pas ! |
+| tu t'imagineras jamais | ça se peut-tu !    |
+| peux-tu t'imaginer     | incroyable !       |
+| tu croiras jamais ça   | inouï              |
+|                        | ben voyons donc !  |
+
 ### Au cas où
 
 - en cas
+
+#### En tout cas
+
+- en tout cas
+- de toute façon
+- de toute manière
 
 ### se mettre à + inf.
 
@@ -783,6 +797,12 @@ Si + présent + futur
    - **être à la veille de**, futur très proche
    - **être sur le point de**, futur très proche
 
+### se lancer dans + nom
+
+- = se mettre à + inf
+- s'attaque + nom
+- commencer
+
 ### comme si de rien n'était
 
 - j'ai avalé le gros morceau comme si de rien n'était
@@ -791,6 +811,19 @@ Si + présent + futur
 
 - ça se sentait
 - etc.
+
+### ressembler / l'air / être pareil
+
+- ressembler à quelqu'un / à quelque chose
+- avoir l'air + adj. / de + verbe
+- être pareil à quelqu'un / à quelque chose (être le même)
+
+### faire exprès
+
+- faire volontairement
+- avec intention
+- pas par hasard
+- pas par accident
 
 ### Tire-toi une bûche
 
@@ -835,6 +868,18 @@ Si + présent + futur
 - Quand, devant mon impatience, mes amis qui étaient plus veux me disaient: "<u>tu as encore de coûtes à manger</u>"
   - de livre: "je vous entends parler"
 
+### Prendre quelqu'un pour une dinde
+
+- prendre quelqu'un pour naïf
+- <u>me prends-tu pour une dinde</u>
+  - de livre: "je vous entends parler"
+
+### Avoir une tête de cochon
+
+- être têtu, entêté
+- <u>elle a une tête de cochon</u>, votre femme!
+  - de livre: "je vous entends parler"
+
 ## ETC.
 
 ### Vocabulaire
@@ -842,6 +887,8 @@ Si + présent + futur
 - un **potin**
 - **potiner**
 - **placoter** / **jaser** / **bavarder**
+- **chicane** <=> **dispute**
+- (se) **chicainer** <=> (se) **disputer**
 - le **gratte-ciel**
 - le **raton**
 - l'**écureuil** m.
@@ -879,3 +926,12 @@ Si + présent + futur
 - **alentour**: aux environs, autour
 - la **soute** à baggage
 - **interrompre**, *v. tr.*
+- **entre autres**: parmis les autres
+- **soupeçonnait**: **soupçonner** *v.*  avoir des soupçons
+- **avoir une liaison** avec un autre femme
+- **esquivait**, **esquiver**
+- la **dinde**: turkey
+- **surprenant**: surprise
+- **si jamais**: if ever
+- le / la **complice**: personne qui participe à un crime
+- **convaincre**: persuader
