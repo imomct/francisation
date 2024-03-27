@@ -236,8 +236,8 @@ avoir le nez ...
 avoirs / porter ...
 
 - des **lunettes**
-- une **barbe** 
-- une **moustache** 
+- une **barbe**
+- une **moustache**
 - une **cicatrice**
 - un **tatouage**
 
@@ -250,7 +250,7 @@ avoirs / porter ...
 - **rond**.e / **dodu**.e / **grasset**.te / **corpulent**.e
 - **musclé**.e
 - **athlétique** / **costaud**.e
-- **sain**.e / **en santé** 
+- **sain**.e / **en santé**
 - **mince** / **svelte** / **longiligne**
 - **maigre**, pas bon, malade
 - **fragile** / **délicat**.e
@@ -407,14 +407,14 @@ avoirs / porter ...
 #### Interdite
 
 - **et + voyelle**
-  - et amusant 
+  - et amusant
 
 #### Possible
 
 - Tous les mots qui finissent par une consonne suivis d’un mot qui commence par une voyelle.
-  - ont\_été, mon\_accueil, allons\_aller\_à
+  - ont_été, mon_accueil, allons_aller_à
 
-## Grammaire 
+## Grammaire
 
 ### Gérondif
 
@@ -523,71 +523,69 @@ Excption: " j'espère que " 👈 c'est pas subjonctif
 
 #### Conjonctions introduisant le subjonctif
 
-à condition que, à moins que, afin que, avant que, bien que, de crainte que, de peur que, de façon que, de manière que, de - sorte que, en attendant que, jusqu'à ce que, malgré que, pour que, pourvu que, où que, qui que, quoi que, quoique, sans que; 
+à condition que, à moins que, afin que, avant que, bien que, de crainte que, de peur que, de façon que, de manière que, de - sorte que, en attendant que, jusqu'à ce que, malgré que, pour que, pourvu que, où que, qui que, quoi que, quoique, sans que;
 
 </details>
-
 
 <details>
   <summary>Exemples de Subjonctif</summary>
 
-- Pour vivre, 
-	- il faut que je **respire** 
-	- il faut que je **mange**
-	- il faut que je **boive**
-	- il faut que je **prenne** l’air
-	- il faut que j’**aie** de bonnes relations
-- Pour être heureux, 
-	- il faut que je **gagne** plus d’argent
-	- il faut que je **sois** content avec tous
-	- il faut que je **sois** optimiste
-- Pour apprendre le français, 
-	- il faut que je **vienne** à local 350
-	- il faut que j’écoute des chansons en français
-	- il faut que j’**écoute** mon prof
-	- il faut que j’**aille** en classe
-	- il faut que je **fasse** des efforts
-	- il faut que j’**assiste** aux cours
-	- il faut que je le parle
-	- il faut que je **sois** déterminé.e / persévérant / acharné.e / patient / courageux
-- Pour être en forme, 
-	- il faut que je **fasse** du sport 
-	- il faut que **mange** bien et pas trop
-	- il faut que je **dorme** / **me repose** / j’**évite** la malbouffe
-	- il faut que j’**aie** une vie équilibrée
+- Pour vivre,
+  - il faut que je **respire**
+  - il faut que je **mange**
+  - il faut que je **boive**
+  - il faut que je **prenne** l’air
+  - il faut que j’**aie** de bonnes relations
+- Pour être heureux,
+  - il faut que je **gagne** plus d’argent
+  - il faut que je **sois** content avec tous
+  - il faut que je **sois** optimiste
+- Pour apprendre le français,
+  - il faut que je **vienne** à local 350
+  - il faut que j’écoute des chansons en français
+  - il faut que j’**écoute** mon prof
+  - il faut que j’**aille** en classe
+  - il faut que je **fasse** des efforts
+  - il faut que j’**assiste** aux cours
+  - il faut que je le parle
+  - il faut que je **sois** déterminé.e / persévérant / acharné.e / patient / courageux
+- Pour être en forme,
+  - il faut que je **fasse** du sport
+  - il faut que **mange** bien et pas trop
+  - il faut que je **dorme** / **me repose** / j’**évite** la malbouffe
+  - il faut que j’**aie** une vie équilibrée
 - Pour avoir une vie équilibrée,
-	- il faut que je **travaille** un peu mais pas trop
-	- il faut que j’**aie** une bonne diète
-	- il faut que je **voyage** pour connaître de nouvelles choses
-	- il faut que j’**aie** une bonne hygiène de vie
-- Pour être en santé, 
-	- il faut que j’**arrête** de fumer
-	- il faut que je **mange** des fruits et des légumes
-	- il faut que je **me détende** 
-	- il faut que je **médite**
-	- il faut que je **fasse** une sieste 
-	- il faut pas que je **boive** trop de l’alcool 
-	- il faut <u>pas</u> que je <u>ne</u> **mange** <u>que</u> de la viande
-- Pour prendre un rendez-vous, 
-	- il faut que je **appelle** lui, mon secrétaire pour le faire. 
-	- il faut pas que j’**écrive** un message
-	- il faut pas que j’**aie** mes documents à portée de la main
-	- il faut pas que je **demande** l’autorisation 
-	- il faut pas que je **connaisse** mon horaire
-- Pour trouver un bon emploi, 
-	- il faut que je **prépare** un bon CV
-	- il faut que je **passe** une entrevue
-	- il faut que je **postule** plusieurs postes
-- Pour réussir mon examen, 
-	- il faut que je **pratique** souvent 
-	- il faut que j’**étudie** fort
-	- il faut que je **participe** au cours
-	- il faut que je **comprenne** les questions
-	- il faut que je **sois** nerveux.se
+  - il faut que je **travaille** un peu mais pas trop
+  - il faut que j’**aie** une bonne diète
+  - il faut que je **voyage** pour connaître de nouvelles choses
+  - il faut que j’**aie** une bonne hygiène de vie
+- Pour être en santé,
+  - il faut que j’**arrête** de fumer
+  - il faut que je **mange** des fruits et des légumes
+  - il faut que je **me détende**
+  - il faut que je **médite**
+  - il faut que je **fasse** une sieste
+  - il faut pas que je **boive** trop de l’alcool
+  - il faut <u>pas</u> que je <u>ne</u> **mange** <u>que</u> de la viande
+- Pour prendre un rendez-vous,
+  - il faut que je **appelle** lui, mon secrétaire pour le faire.
+  - il faut pas que j’**écrive** un message
+  - il faut pas que j’**aie** mes documents à portée de la main
+  - il faut pas que je **demande** l’autorisation
+  - il faut pas que je **connaisse** mon horaire
+- Pour trouver un bon emploi,
+  - il faut que je **prépare** un bon CV
+  - il faut que je **passe** une entrevue
+  - il faut que je **postule** plusieurs postes
+- Pour réussir mon examen,
+  - il faut que je **pratique** souvent
+  - il faut que j’**étudie** fort
+  - il faut que je **participe** au cours
+  - il faut que je **comprenne** les questions
+  - il faut que je **sois** nerveux.se
 - Pour vivre dans l’espace,
 
   - il faut que je **m’auto-évolue**
-
 
 </details>
 
@@ -600,12 +598,12 @@ Même constuction que le **présent** de l'indicatif
 Excepté avec **nous et vous**, ressemble à l'**imparfait** pour nous et vous
 
 - **Parler**
-	- que je **parle**
-	- que tu **parles**
-	- qu' il/elle/on **parle**
-	- que nous **parlions** 👈 Forme Imparfait
-	- que vous **parliez** 👈 Forme Imparfait
-	- qu' ils/elles **parlent**
+  - que je **parle**
+  - que tu **parles**
+  - qu' il/elle/on **parle**
+  - que nous **parlions** 👈 Forme Imparfait
+  - que vous **parliez** 👈 Forme Imparfait
+  - qu' ils/elles **parlent**
 
 #### Verbes irréguliers
 
@@ -623,11 +621,10 @@ Certains verbs ont un radical irrégulier, mais les mêmes terminaisons que les 
 - **Sortir**: que je **<u>sort</u>e**
 - **Connaitre**: que je **<u>connaiss</u>e**
 - **Lire** que je **<u>lis</u>e**
-- **Dire**:  que je **<u>dis</u>e**
+- **Dire**: que je **<u>dis</u>e**
 - **Attendre**: que j'**<u>attend</u>e**
 - **Entendre**: que j'**<u>entend</u>e**
 - **Écrire**: que j'**<u>écriv</u>e**
-
 
 #### Verbes à deux radicaux (deux racines, deux bases)
 
@@ -768,7 +765,7 @@ Si + présent + futur
 - Vraiment ?! Je ne peux pas le croire!
 
 | introduction           | réaction           |
-| :--------------------- | ------------------ |
+| ---------------------- | ------------------ |
 | Imagine-toi donc       | J'en reviens pas ! |
 | tu t'imagineras jamais | ça se peut-tu !    |
 | peux-tu t'imaginer     | incroyable !       |
@@ -790,12 +787,12 @@ Si + présent + futur
 - se mettre à + infinitif = commencer
   - je me mets à travailler
   - il s'est mis à rire
-  - on va se mettre à chercher un un appartement 
- - Etc.
-   - **venir de**, passé récent
-   - **être en train de**, en progrès
-   - **être à la veille de**, futur très proche
-   - **être sur le point de**, futur très proche
+  - on va se mettre à chercher un un appartement
+- Etc.
+  - **venir de**, passé récent
+  - **être en train de**, en progrès
+  - **être à la veille de**, futur très proche
+  - **être sur le point de**, futur très proche
 
 ### se lancer dans + nom
 
@@ -848,7 +845,7 @@ Si + présent + futur
 
 ### Avoir le cœur sur la main
 
-- Être généreux 
+- Être généreux
 - de livre: "je vous entends parler"
 
 ### Partir du bon pied
@@ -887,8 +884,8 @@ Si + présent + futur
 - un **potin**
 - **potiner**
 - **placoter** / **jaser** / **bavarder**
-- **chicane** <=> **dispute**
-- (se) **chicainer** <=> (se) **disputer**
+- **chicane** = **dispute**
+- (se) **chicainer** = (se) **disputer**
 - le **gratte-ciel**
 - le **raton**
 - l'**écureuil** m.
@@ -897,7 +894,7 @@ Si + présent + futur
 - la **précarité** : fragilité, instabilité, pas solid
 - le **lendemain**, le jour suivant
 - la **veille**, le jour avant
-- **mannequin** nom *m. / f.*, model, dummy
+- **mannequin** nom _m. / f._, model, dummy
 - **faire tout de travers**
 - **comportement**, manière d'agir, de vivre
 - **faire partie de** ..., être partie de
@@ -925,9 +922,9 @@ Si + présent + futur
 - **une reprise**: fois
 - **alentour**: aux environs, autour
 - la **soute** à baggage
-- **interrompre**, *v. tr.*
+- **interrompre**, _v. tr._
 - **entre autres**: parmis les autres
-- **soupeçonnait**: **soupçonner** *v.*  avoir des soupçons
+- **soupeçonnait**: **soupçonner** _v._ avoir des soupçons
 - **avoir une liaison** avec un autre femme
 - **esquivait**, **esquiver**
 - la **dinde**: turkey
