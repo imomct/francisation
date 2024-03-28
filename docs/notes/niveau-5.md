@@ -412,17 +412,54 @@ avoirs / porter ...
 #### Possible
 
 - Tous les mots qui finissent par une consonne suivis d’un mot qui commence par une voyelle.
-  - ont_été, mon_accueil, allons_aller_à
+  - ont*été, mon_accueil, allons_aller*à
 
 ## Grammaire
 
+### Futur
+
+| Futur Proche (habituel) 80% | Futur Simple (rare) 20% |
+| --------------------------- | ----------------------- |
+| informel                    | formel                  |
+| positif                     | négatif                 |
+| + certain                   | + possible              |
+
+Je vais venir à l'école demain, mais je resterai pas toute la journée.
+
+**Futur Simple**
+
+- infinitif + avoir au present
+  - **je** <u>finir</u> + **ai**
+  - **tu** <u>finir</u> + **as**
+  - **il** <u>finir</u> + **a**
+  - **nous** <u>finir</u> + **ons**
+  - **vous** <u>finir</u> + **ez**
+  - **ils** <u>finir</u> + **ont**
+
+### Infinitif Passé
+
+- auxiliaire avoir / être + participe passé
+
+  - après **avoir mangé**, je sors.
+
+- parle d'une action que précède une autre
+
+### Subordonnée
+
+- une phrase qui est introduite par une conjonction de subordination
+- on a décidé de rester ici <u>parce que</u> le loyer est abordable.
+- parce que, vu que, étant donné que…
+
 ### Gérondif
 
-2 actions en même temps
+- Deux actions en même temps (simultanées)
+- en + verbe-ant
+- en + participe présent
 
 - il mange **en regardant** la télé
   - On a mangé ...
   - tu vas manger, ils mangeaient ...
+- peut amener une explication
 
 ### Subjonctif
 
@@ -651,6 +688,11 @@ Si + présent + futur
   - On va avoir faim plus tard si ...
   - On va réussir si on étudie bien.
 
+### Forme Passive
+
+- <u>être</u> + participe passé (par quelqu’un)
+- tu manges la pomme. la pomme **<u>est</u> mangée** (par toi).
+
 ### Discours Indirect
 
 - je mange mon souper avec ma famille.
@@ -669,15 +711,25 @@ Si + présent + futur
 | je lave l’auto moi-même        |                                                 |
 | je mets de l’essence moi-même  |                                                 |
 
-### Question avec "-tu"
+### Interrogation avec "-tu"
 
-| Est-ce que...                   | -tu                       |
-| ------------------------------- | ------------------------- |
-| Est-ce qu’il parle français?    | Il parle-tu français ?    |
-| Est-ce qu’elle a compris ?      | Elle a-tu compris?        |
-| Est-ce qu’on va aller au resto? | On va-tu aller au resto ? |
-| Est-ce qu'ils sont arrivés?     | Ils sont-tu arrivés?      |
-| Est-ce que je peux vous aider?  | Je peux-tu vous aider?    |
+| Est-ce que...                   | -tu                           |
+| ------------------------------- | ----------------------------- |
+| Est-ce qu’il parle français?    | Il parle**-tu** français ?    |
+| Est-ce qu’elle a compris ?      | Elle a**-tu** compris?        |
+| Est-ce qu’on va aller au resto? | On va**-tu** aller au resto ? |
+| Est-ce qu'ils sont arrivés?     | Ils sont**-tu** arrivés?      |
+| Est-ce que je peux vous aider?  | Je peux**-tu** vous aider?    |
+
+### Comparatifs / Superlatifs
+
+| Adjectifs | Comparatifs                   | Superlatifs                     |
+| --------- | ----------------------------- | ------------------------------- |
+| qualité   |                               |                                 |
+| **grand** | **<u>plus</u> grand** (que X) | **<u>le</u> plus grand** (de X) |
+| **bon**   | **meilleur**                  | **<u>le</u> meilleur**          |
+| **bien**  | **mieux**                     | **<u>le</u> mieux**             |
+| **mal**   | **pire**                      | **<u>le</u> pire**              |
 
 ## Exprimer une Cause
 
@@ -776,7 +828,7 @@ Si + présent + futur
 
 - en cas
 
-#### En tout cas
+**En tout cas**
 
 - en tout cas
 - de toute façon
@@ -821,6 +873,15 @@ Si + présent + futur
 - avec intention
 - pas par hasard
 - pas par accident
+
+### Mon chien est mort
+
+- son projet va pas marcher
+
+### Tu me niaises
+
+- t’es as sérieux
+- You're kidding me
 
 ### Tire-toi une bûche
 
@@ -877,13 +938,12 @@ Si + présent + futur
 - <u>elle a une tête de cochon</u>, votre femme!
   - de livre: "je vous entends parler"
 
-## ETC.
-
-### Vocabulaire
+## Autres Vocabulaires
 
 - un **potin**
-- **potiner**
-- **placoter** / **jaser** / **bavarder**
+- **mémérer** / **potiner\*\***: gossip
+- **placoter** / **jaser** / **bavarder**: chat
+- **clavarder** avec un clavier
 - **chicane** = **dispute**
 - (se) **chicainer** = (se) **disputer**
 - le **gratte-ciel**
@@ -900,7 +960,7 @@ Si + présent + futur
 - **faire partie de** ..., être partie de
 - **n'est plus de ce mond**
 - **vinicole**, adj. à la production du vin.
-- **pourtant** : cependant, mais, néanmoins
+- **pourtant** : cependant, mais, néanmoins, par contre, d'autre part
 - **même que**, even that
 - **avant même que**, even before
 - **quand bien même**, even though
@@ -932,3 +992,9 @@ Si + présent + futur
 - **si jamais**: if ever
 - le / la **complice**: personne qui participe à un crime
 - **convaincre**: persuader
+- **cauchemar**: rêve pénible, idée
+- **tout au plus**: maximale
+- l'**enfer**
+- compagnie **aérienne**
+- le **bricolage**: DIY, Elle aime faire du bricolage et créer des décorations artisanales pour sa maison.
+- le **cauchemar**: rêve pénible

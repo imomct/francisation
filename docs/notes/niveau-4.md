@@ -763,6 +763,7 @@ description: "novembre 2023 - février 2024, Sophie et Laurant"
 - le **porc**
   - le **jambon**
   - la **saucisse**
+  - la **côtelette**
 - le **canard**
 - le **moutton**
 - le **agneau**
