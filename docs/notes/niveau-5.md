@@ -455,7 +455,6 @@ Je vais venir à l'école demain, mais je resterai pas toute la journée.
 - Deux actions en même temps (simultanées)
 - en + verbe-ant
 - en + participe présent
-
 - il mange **en regardant** la télé
   - On a mangé ...
   - tu vas manger, ils mangeaient ...
@@ -508,39 +507,22 @@ Excption: " j'espère que " 👈 c'est pas subjonctif
 #### Jugement/Opinion
 
 - II, C'est **bien** que tu <u>saches</u> parler français pour obtenir le travail.
-
 - II, C'est **important** que tu <u>arrives</u> / vous <u>arriviez</u> à l'heure.
-
 - II, C'est **normal** que vous <u>continuiez</u> les cours en ligne pendant la pandémie.
-
 - II, C'est **souhaitable** que les étudiants <u>s'inscrivent</u> au cours en ligne.
-
 - II, C'est **préférable** que tu <u>envoies</u> le courriel maintenant.
-
 - Il, C'est **absurde** que
-
-  Il, C'est **ridicule** que
-
+- Il, C'est **ridicule** que
 - Il, c'est **dommage** que
-
 - II, C'est **regrettable** que
-
 - II, C'est **injuste** que
-
 - II, C'est **inadmissible** que
-
 - II, C'est **incompréhensible** que
-
 - Il, C'est **incroyable** que
-
 - Il, C'est **étonnant** que
-
 - Il **vaut mieux** que
-
 - Ce **serait bien** que
-
 - Ce **serait opportun** que
-
 - C'est **une bonne idée** que
 
 #### Doute/ Incertitude
@@ -938,6 +920,16 @@ Si + présent + futur
 - <u>elle a une tête de cochon</u>, votre femme!
   - de livre: "je vous entends parler"
 
+### Prendre la clé des champs
+
+- s'enfuir
+- de livre: "je vous entends parler"
+
+### Être une poule mouillée
+
+- être peueux
+- de livre: "je vous entends parler"
+
 ## Autres Vocabulaires
 
 - un **potin**
@@ -998,3 +990,14 @@ Si + présent + futur
 - compagnie **aérienne**
 - le **bricolage**: DIY, Elle aime faire du bricolage et créer des décorations artisanales pour sa maison.
 - le **cauchemar**: rêve pénible
+- **auparavant**: _adv._ avant ce moment-là
+- **jadis**: il y a très longtemps
+- **autrefois**: dans un temps passé
+- **subir**: endurer
+- la **toile** du **tipi** / **teepee**
+- **demeure**: lieu où l'on habite
+- **ériger**: construire
+- **imperméabiliser**
+- le **tonnerre**: thunder
+- **épeurant**: terrifiant
+- le **somme**: sieste
