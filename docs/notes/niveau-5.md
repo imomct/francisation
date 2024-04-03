@@ -927,7 +927,7 @@ Si + présent + futur
 
 ### Être une poule mouillée
 
-- être peueux
+- être peureux
 - de livre: "je vous entends parler"
 
 ## Autres Vocabulaires
