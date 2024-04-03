@@ -843,6 +843,13 @@ Si + présent + futur
 - ça se sentait
 - etc.
 
+### n'importe
+
+- il pleut, **peu importe**
+- lequel? **n'importe**
+- à **n'importe** quel moment
+- **n'importe où**
+
 ### ressembler / l'air / être pareil
 
 - ressembler à quelqu'un / à quelque chose
@@ -930,6 +937,16 @@ Si + présent + futur
 - être peureux
 - de livre: "je vous entends parler"
 
+### Mettre la main à la pàte
+
+- aider
+- de livre: "je vous entends parler"
+
+### Ça ne prend pas la tête à Papineau
+
+- pas besoin d'être intelligent pour comprendre.
+- de livre: "je vous entends parler"
+
 ## Autres Vocabulaires
 
 - un **potin**
@@ -953,6 +970,7 @@ Si + présent + futur
 - **n'est plus de ce mond**
 - **vinicole**, adj. à la production du vin.
 - **pourtant** : cependant, mais, néanmoins, par contre, d'autre part
+- **même si**, even if
 - **même que**, even that
 - **avant même que**, even before
 - **quand bien même**, even though
@@ -1001,3 +1019,18 @@ Si + présent + futur
 - le **tonnerre**: thunder
 - **épeurant**: terrifiant
 - le **somme**: sieste
+- le **cordon**: petite corde
+- le **placenta**
+- **flotter** *v.*
+- **emmitoufler**: envelopper dans des vêtements bien chauds.
+- le **étrier**
+- le **citadin**
+- la **chaudière**
+- l'**arachide**: *f.* peanut
+- les uns après les autres
+- **creuser**: to dig
+- **couler**: to cast, to pour
+- la **vague**: wave
+- le **vague**: space, eyes
+- l'**ours**: <u>m.</u> bear. ~ polaires
+- **dans les plus brefs délais**: dès que possible
