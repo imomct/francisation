@@ -1044,13 +1044,13 @@ Si + présent + futur
 - **couler**: to cast, to pour
 - la **vague**: wave
 - le **vague**: space, eyes
-- l'**ours**: <u>m.</u> bear. ~ polaires
+- l'**ours**: *m.* bear. ~ polaires
 - **dans les plus brefs délais**: dès que possible
 - l**auberge**: *f.* petit hôtel, inn
 - **amoureux** / **amoureuse** *adj. n.*
 - la **bourse d'études**
-- l'**ouvrier** / l'**ouvirère**: que fait un travail manuel
+- l'**ouvrier** / l'**ouvrière**: qui fait un travail manuel
 - **vanter**: célébrer, exalter, louanger
 - **apporvisionner**: fournir
-- la touche étoile
-- la touche carré / dièse
+- la **touche étoile**
+- la **touche carré** / **dièse**
