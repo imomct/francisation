@@ -1049,7 +1049,7 @@ Si + présent + futur
 - l**auberge**: *f.* petit hôtel, inn
 - **amoureux** / **amoureuse** *adj. n.*
 - la **bourse d'études**
-- l'**ouvirier** / l'**ouvirère**: que fait un travail manuel
+- l'**ouvrier** / l'**ouvirère**: que fait un travail manuel
 - **vanter**: célébrer, exalter, louanger
 - **apporvisionner**: fournir
 - la touche étoile
