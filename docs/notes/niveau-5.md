@@ -947,6 +947,18 @@ Si + présent + futur
 - pas besoin d'être intelligent pour comprendre.
 - de livre: "je vous entends parler"
 
+### Se laisser manger la laine sur le dos
+
+- se faire exploiter
+- les pauvres ouvriers qui <u>se laissaient manger la laine sur le dos</u>
+  - de livre: "je vous entends parler"
+
+### Être dans le rouge
+
+- être dans une situation financière délicate, avoir son compte à découvert
+- il m'arrivait souvent <u>d'être dans le rouge</u>
+  - de livre: "je vous entends parler"
+
 ## Autres Vocabulaires
 
 - un **potin**
@@ -1034,3 +1046,11 @@ Si + présent + futur
 - le **vague**: space, eyes
 - l'**ours**: <u>m.</u> bear. ~ polaires
 - **dans les plus brefs délais**: dès que possible
+- l**auberge**: *f.* petit hôtel, inn
+- **amoureux** / **amoureuse** *adj. n.*
+- la **bourse d'études**
+- l'**ouvirier** / l'**ouvirère**: que fait un travail manuel
+- **vanter**: célébrer, exalter, louanger
+- **apporvisionner**: fournir
+- la touche étoile
+- la touche carré / dièse

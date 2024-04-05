@@ -3,6 +3,9 @@ sidebar_position: 55
 description: "Les pratiques pour niveau 5"
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Pratiques: N5
 
 ## Prononciation
@@ -229,6 +232,131 @@ Je m'occupais de l'horaire du Conseil Général. Je prenais des rendez-vous pour
 Ah oui? Tu lui donnais des cours de français? Oui.
 
 Merci beaucoup.
+
+### Chanson: on allait au bord de la mer
+
+<Tabs
+  defaultValue="originales"
+  values={[
+    {label: 'Originales', value: 'originales'},
+    {label: 'F.Simple', value: 'futur-s'},
+    {label: 'F.Proche', value: 'futur-p'},
+    {label: 'F.S négative', value: 'futur-s-n'},
+  ]}>
+  <TabItem value="originales">
+
+    - On allait au bord de la mer
+    - Avec mon père, ma sœur, ma mère
+    - On regardait les autres gens
+    - Comme ils dépensaient leur argent
+    - Nous il fallait faire attention
+    - Quand on avait payé le prix d'une location
+    - Il ne nous restait pas grand-chose
+    - Alors on regardait les bateaux
+    - On suçait des glaces à l'eau
+    - Les palaces, les restaurants
+    - On ne faisait que passer devant
+    - Et on regardait les bateaux
+    - Le matin on se réveillait tôt
+    - Sur la plage pendant des heures
+    - On prenait de belles couleurs
+    - On allait au bord de la mer
+    - Avec mon père, ma sœur, ma mère
+    - Et quand les vagues étaient tranquilles
+    - On passait la journée aux îles
+    - Sauf quand on pouvait déjà plus
+    - Alors on regardait les bateaux
+    - On suçait des glaces à l'eau
+    - On avait le cœur un peu gros
+    - Mais c'était quand même beau
+  
+  </TabItem>
+  
+  <TabItem value="futur-s">
+  
+    - On ira au bord de la mer
+    - Avec mon père, ma sœur, ma mère
+    - On regardera les autres gens
+    - Comme ils dépenseront leur argent
+    - Nous, il faudra faire attention
+    - Quand on aura payé le prix d'une location
+    - Il ne nous restera pas grand-chose
+    - Alors on regardera les bateaux
+    - On sucera des glaces à l'eau
+    - Les palaces, les restaurants
+    - On ne fera que passer devant
+    - Et on regardera les bateaux
+    - Le matin on se réveillera tôt
+    - Sur la plage pendant des heures
+    - On prendra de belles couleurs
+    - On ira au bord de la mer
+    - Avec mon père, ma sœur, ma mère
+    - Et quand les vagues seront tranquilles
+    - On passera la journée aux îles
+    - Sauf quand on pourra déjà plus
+    - Alors on regardera les bateaux
+    - On sucera des glaces à l'eau
+    - On aura le cœur un peu gros
+    - Mais ce sera quand même beau
+      
+  </TabItem>
+  <TabItem value="futur-p">
+      
+    - On va aller au bord de la mer
+    - Avec mon père, ma sœur, ma mère
+    - On va regarder les autres gens
+    - Comme ils vont dépenser leur argent
+    - Nous, il va falloir faire attention
+    - Quand on aura payé le prix d'une location
+    - Il ne va pas nous rester grand-chose
+    - Alors on va regarder les bateaux
+    - On va sucer des glaces à l'eau
+    - Les palaces, les restaurants
+    - On ne va faire que passer devant
+    - Et on va regarder les bateaux
+    - Le matin on va se réveiller tôt
+    - Sur la plage pendant des heures
+    - On va prendre de belles couleurs
+    - On va aller au bord de la mer
+    - Avec mon père, ma sœur, ma mère
+    - Et quand les vagues seront tranquilles
+    - On va passer la journée aux îles
+    - Sauf quand on pourra déjà plus
+    - Alors on va regarder les bateaux
+    - On va sucer des glaces à l'eau
+    - On va avoir le cœur un peu gros
+    - Mais ce sera quand même beau
+
+  </TabItem>
+  <TabItem value="futur-s-n">
+  
+    - On n'ira pas au bord de la mer
+    - Avec mon père, ma sœur, ma mère
+    - On ne regardera pas les autres gens
+    - Comme ils dépenseront leur argent
+    - Nous, il ne faudra pas faire attention
+    - Quand on aura payé le prix d'une location
+    - Il ne nous restera pas grand-chose
+    - Alors on ne regardera pas les bateaux
+    - On ne sucera pas des glaces à l'eau
+    - Les palaces, les restaurants
+    - On ne fera que passer devant
+    - Et on ne regardera pas les bateaux
+    - Le matin on ne se réveillera pas tôt
+    - Sur la plage pendant des heures
+    - On ne prendra pas de belles couleurs
+    - On n'ira pas au bord de la mer
+    - Avec mon père, ma sœur, ma mère
+    - Et quand les vagues seront tranquilles
+    - On ne passera pas la journée aux îles
+    - Sauf quand on ne pourra déjà plus
+    - Alors on ne regardera pas les bateaux
+    - On ne sucera pas des glaces à l'eau
+    - On n'aura pas le cœur un peu gros
+    - Mais ce ne sera quand même pas beau
+  
+  </TabItem>
+</Tabs>
 
 ## Quiz
 
