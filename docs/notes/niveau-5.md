@@ -439,9 +439,7 @@ Je vais venir à l'école demain, mais je resterai pas toute la journée.
 ### Infinitif Passé
 
 - auxiliaire avoir / être + participe passé
-
   - après **avoir mangé**, je sors.
-
 - parle d'une action que précède une autre
 
 ### Subordonnée
@@ -959,17 +957,29 @@ Si + présent + futur
 - il m'arrivait souvent <u>d'être dans le rouge</u>
   - de livre: "je vous entends parler"
 
+### Être aux petits oiseaux
+
+- être heureux
+- Oh, oui, je <u>suis aux petits oiseaux</u>
+  - de livre: "je vous entends parler"
+
+### Avoir le pouce vert
+
+- avoir de la facilité avec les plantes
+- ça m'a tout l'air que <u>tu as le pouce vert</u> !
+  - de livre: "je vous entends parler"
+
 ## Autres Vocabulaires
 
 - un **potin**
-- **mémérer** / **potiner\*\***: gossip
+- **mémérer** / **potiner**: gossip
 - **placoter** / **jaser** / **bavarder**: chat
 - **clavarder** avec un clavier
 - **chicane** = **dispute**
 - (se) **chicainer** = (se) **disputer**
 - le **gratte-ciel**
-- le **raton**
-- l'**écureuil** m.
+- le **raton laveur**
+- l'**écureuil** *m.*
 - le **merle**
 - **grand-maman maternelle**
 - la **précarité** : fragilité, instabilité, pas solid
@@ -982,6 +992,7 @@ Si + présent + futur
 - **n'est plus de ce mond**
 - **vinicole**, adj. à la production du vin.
 - **pourtant** : cependant, mais, néanmoins, par contre, d'autre part
+- **si jamais**: if ever
 - **même si**, even if
 - **même que**, even that
 - **avant même que**, even before
@@ -1011,7 +1022,6 @@ Si + présent + futur
 - **esquivait**, **esquiver**
 - la **dinde**: turkey
 - **surprenant**: surprise
-- **si jamais**: if ever
 - le / la **complice**: personne qui participe à un crime
 - **convaincre**: persuader
 - **cauchemar**: rêve pénible, idée
@@ -1037,7 +1047,7 @@ Si + présent + futur
 - **emmitoufler**: envelopper dans des vêtements bien chauds.
 - le **étrier**
 - le **citadin**
-- la **chaudière**
+- la **chaudière**: boiler
 - l'**arachide**: *f.* peanut
 - les uns après les autres
 - **creuser**: to dig
@@ -1046,7 +1056,7 @@ Si + présent + futur
 - le **vague**: space, eyes
 - l'**ours**: *m.* bear. ~ polaires
 - **dans les plus brefs délais**: dès que possible
-- l**auberge**: *f.* petit hôtel, inn
+- l'**auberge**: *f.* petit hôtel, inn
 - **amoureux** / **amoureuse** *adj. n.*
 - la **bourse d'études**
 - l'**ouvrier** / l'**ouvrière**: qui fait un travail manuel
@@ -1054,3 +1064,24 @@ Si + présent + futur
 - **apporvisionner**: fournir
 - la **touche étoile**
 - la **touche carré** / **dièse**
+- le **sourcier**.ière, personne qui découvre l'eau
+- **creuser**, faire un trou
+- **nauséabond**.e, qui sent mauvais
+- la **prière**: prayer
+- la **corvée**: travail en commun
+- la **semence**: graine
+- **arroser**: to water
+- **épanouir**: faire ouvrir (une fleur)
+- s'**épanouir**: être content
+- l'**abondance**: *f.*  richesse.
+- **héréditaire**: transmis par hérédité
+- **paysan.ne**: campagnard; rural.
+- un **jardin potager**: jardin pour les légumes
+- **flanc** de montagne: côté du corps
+- **acharner**: persérvérer, travailler fort
+- la **souche**:  (tree) stump; (de vigne) stock
+- la **racine**: root
+- la **pelle**
+- le **râteau**, Instrument de jardinage servant à racler, à ratisser.
+- **désherber**: sarcler, détruire les mauvaises herbes.
+- la **récolte**: harvest; (produits récoltés) crop, harvest;
