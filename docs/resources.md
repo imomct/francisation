@@ -6,7 +6,8 @@ title: Ressources
 ## Sites
 
 - [lesfeesdufle.com](https://lesfeesdufle.com)
-- [francaisfacile - exercices](https://francaisfacile.rfi.fr/fr/exercices/)
+- [rfi françaisfacile - exercices](https://francaisfacile.rfi.fr/fr/exercices/)
+- [podcastfrançaisfacile](https://www.podcastfrancaisfacile.com/)
 - [alloprof - français](https://www.alloprof.qc.ca/fr/eleves/bv/francais)
 - [Grand Québec](https://grandquebec.com)
 - [MAURIL par CBC/Radio-Canada](https://mauril.ca/) Site / iOS / Android
