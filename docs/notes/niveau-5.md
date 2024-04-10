@@ -460,7 +460,7 @@ Je vais venir à l'école demain, mais je resterai pas toute la journée.
 
 ### Subjonctif
 
-Pas realité, le souhait, la possibilité, obligation, conseil etc.
+Pas réalité, le souhait, la possibilité, obligation, conseil etc.
 
 - Il **faut** / **faudrait** QUE
 - vous **aimeriez** QUE
@@ -847,6 +847,7 @@ Si + présent + futur
 - lequel? **n'importe**
 - à **n'importe** quel moment
 - **n'importe où**
+- **c'est n'importe de quoi**: it's nonsense
 
 ### ressembler / l'air / être pareil
 
@@ -935,7 +936,7 @@ Si + présent + futur
 - être peureux
 - de livre: "je vous entends parler"
 
-### Mettre la main à la pàte
+### Mettre la main à la pâte
 
 - aider
 - de livre: "je vous entends parler"
@@ -969,6 +970,17 @@ Si + présent + futur
 - ça m'a tout l'air que <u>tu as le pouce vert</u> !
   - de livre: "je vous entends parler"
 
+### Faire de l'air
+
+- sortir, s'en aller
+  - de livre: "je vous entends parler"
+
+### Dormir sur ses deux oreilles
+
+- ne pas être inquiet
+- tu peux <u>dormir sur tes deux oreilles</u>
+  - de livre: "je vous entends parler"
+
 ## Autres Vocabulaires
 
 - un **potin**
@@ -992,6 +1004,8 @@ Si + présent + futur
 - **n'est plus de ce mond**
 - **vinicole**, adj. à la production du vin.
 - **pourtant** : cependant, mais, néanmoins, par contre, d'autre part
+- **en tant que** ...: as ...
+- **Quoi de mieux que** ...: what could be better than ...
 - **si jamais**: if ever
 - **même si**, even if
 - **même que**, even that
@@ -1085,3 +1099,15 @@ Si + présent + futur
 - le **râteau**, Instrument de jardinage servant à racler, à ratisser.
 - **désherber**: sarcler, détruire les mauvaises herbes.
 - la **récolte**: harvest; (produits récoltés) crop, harvest;
+- le **ramoneur**: *m. et f.* personne dont le métier est de **ramoner** les cheminées
+- la **merveille**: marvel, wonder
+- le **mazout**: fuel, oil
+- **inciter**: encourager 
+- **je m'ennuie de toi**: tu me manques
+- **lâcher**: détendre, laisser, abandonner 
+- la **palpitation**: agitation anormale du cœur
+- l'**hypertension artérielle**: high blood pressure 
+- **auparavant**: avant, ce moment-là
+- **ausculter**: écouter au moyen d’un stéthoscope
+- **cerner**:  entourer
+- une **requête**: a request
