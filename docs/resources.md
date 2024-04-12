@@ -8,6 +8,7 @@ title: Ressources
 - [lesfeesdufle.com](https://lesfeesdufle.com)
 - [rfi françaisfacile - exercices](https://francaisfacile.rfi.fr/fr/exercices/)
 - [podcastfrançaisfacile](https://www.podcastfrancaisfacile.com/)
+- [Lawless French](https://www.lawlessfrench.com/)
 - [alloprof - français](https://www.alloprof.qc.ca/fr/eleves/bv/francais)
 - [Grand Québec](https://grandquebec.com)
 - [MAURIL par CBC/Radio-Canada](https://mauril.ca/) Site / iOS / Android
@@ -16,6 +17,7 @@ title: Ressources
 ## Videos
 
 - [ICI Tou.tv](https://ici.tou.tv/)
+- Youtube: [20240411 - Gabriel Attal à L'assemblée Nationale](https://www.youtube.com/watch?v=0s9FxsR30ZA)
 
 ### Téléséries
 
