@@ -14,6 +14,11 @@ title: Ressources
 - [MAURIL par CBC/Radio-Canada](https://mauril.ca/) Site / iOS / Android
 - [Je Parle Québecois](https://www.je-parle-quebecois.com)
 
+## Balados
+
+- [Learn Québec French](https://podcasts.apple.com/us/podcast/learn-quebec-french/id1696009195)
+- [Slow French](https://podcasts.apple.com/us/podcast/languatalk-slow-french-learn-french-with-ga%C3%ABlle-french/id1580594077)
+
 ## Videos
 
 - [ICI Tou.tv](https://ici.tou.tv/)
