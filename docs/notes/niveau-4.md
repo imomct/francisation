@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-description: "novembre 2023 - février 2024, Sophie et Laurant"
+description: "nov. 2023 - fév. 2024, Sophie et Laurant"
 ---
 
 # Niveau 4

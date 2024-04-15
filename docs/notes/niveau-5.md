@@ -1,6 +1,6 @@
 ---
 sidebar_position: 50
-description: "mars - avril 2024, Sophie et Charles"
+description: "mar. - avr. 2024, Sophie et Charles"
 ---
 
 # Niveau 5
@@ -791,6 +791,11 @@ Si + présent + futur
   - Le fait est que le changement climatique affecte déjà de nombreuses régions du monde.
   - Le fait est que nous devons agir rapidement pour résoudre ce problème.
 
+### Se lâcher lousse
+
+- faire ce qu’on veut, librement, sans retenue.
+- le vendredi soir, je me lâche lousse: je sors avec mes amis, on prend un verre, on danse et on a ben du fun.
+
 ### Ben voyons donc!
 
 - Surprise, souvent négative.
@@ -848,6 +853,17 @@ Si + présent + futur
 - à **n'importe** quel moment
 - **n'importe où**
 - **c'est n'importe de quoi**: it's nonsense
+
+### je m'ennuie de toi
+
+- je m’ennuie de vous
+- je m’ennuie d’elle
+- je m’ennuie de lui
+- je m’ennuie de Sophie
+- Sophie s’ennuie de nous
+- Mes parents s’ennuient de moi
+- Tu me manques
+- Je pense à toi
 
 ### ressembler / l'air / être pareil
 
@@ -981,6 +997,23 @@ Si + présent + futur
 - tu peux <u>dormir sur tes deux oreilles</u>
   - de livre: "je vous entends parler"
 
+## Sirop D'érable
+
+### Les Produits
+
+- Sirop d'érable.
+- Beurre d'érable.
+- Tire d'érable.
+- Flocons d'érable.
+- Sucre d'érable.
+- Sucre d'érable à râper.
+- Eau d'érable.
+- Alcool d'érable.
+
+### Les Origines
+
+- https://ppaq.ca/fr/sirop-erable/origines/
+
 ## Autres Vocabulaires
 
 - un **potin**
@@ -991,7 +1024,7 @@ Si + présent + futur
 - (se) **chicainer** = (se) **disputer**
 - le **gratte-ciel**
 - le **raton laveur**
-- l'**écureuil** *m.*
+- l'**écureuil** _m._
 - le **merle**
 - **grand-maman maternelle**
 - la **précarité** : fragilité, instabilité, pas solid
@@ -1057,21 +1090,21 @@ Si + présent + futur
 - le **somme**: sieste
 - le **cordon**: petite corde
 - le **placenta**
-- **flotter** *v.*
+- **flotter** _v._
 - **emmitoufler**: envelopper dans des vêtements bien chauds.
 - le **étrier**
 - le **citadin**
 - la **chaudière**: boiler
-- l'**arachide**: *f.* peanut
+- l'**arachide**: _f._ peanut
 - les uns après les autres
 - **creuser**: to dig
 - **couler**: to cast, to pour
 - la **vague**: wave
 - le **vague**: space, eyes
-- l'**ours**: *m.* bear. ~ polaires
+- l'**ours**: _m._ bear. ~ polaires
 - **dans les plus brefs délais**: dès que possible
-- l'**auberge**: *f.* petit hôtel, inn
-- **amoureux** / **amoureuse** *adj. n.*
+- l'**auberge**: _f._ petit hôtel, inn
+- **amoureux** / **amoureuse** _adj. n._
 - la **bourse d'études**
 - l'**ouvrier** / l'**ouvrière**: qui fait un travail manuel
 - **vanter**: célébrer, exalter, louanger
@@ -1087,27 +1120,45 @@ Si + présent + futur
 - **arroser**: to water
 - **épanouir**: faire ouvrir (une fleur)
 - s'**épanouir**: être content
-- l'**abondance**: *f.*  richesse.
+- l'**abondance**: _f._ richesse.
 - **héréditaire**: transmis par hérédité
 - **paysan.ne**: campagnard; rural.
 - un **jardin potager**: jardin pour les légumes
 - **flanc** de montagne: côté du corps
 - **acharner**: persérvérer, travailler fort
-- la **souche**:  (tree) stump; (de vigne) stock
+- la **souche**: (tree) stump; (de vigne) stock
 - la **racine**: root
 - la **pelle**
 - le **râteau**, Instrument de jardinage servant à racler, à ratisser.
 - **désherber**: sarcler, détruire les mauvaises herbes.
 - la **récolte**: harvest; (produits récoltés) crop, harvest;
-- le **ramoneur**: *m. et f.* personne dont le métier est de **ramoner** les cheminées
+- le **ramoneur**: _m. et f._ personne dont le métier est de **ramoner** les cheminées
 - la **merveille**: marvel, wonder
 - le **mazout**: fuel, oil
-- **inciter**: encourager 
+- **inciter**: encourager
 - **je m'ennuie de toi**: tu me manques
-- **lâcher**: détendre, laisser, abandonner 
+- **lâcher**: détendre, laisser, abandonner
 - la **palpitation**: agitation anormale du cœur
-- l'**hypertension artérielle**: high blood pressure 
+- l'**hypertension artérielle**: high blood pressure
 - **auparavant**: avant, ce moment-là
 - **ausculter**: écouter au moyen d’un stéthoscope
-- **cerner**:  entourer
+- **cerner**: entourer
 - une **requête**: a request
+- **œuvrer**: travailler
+- **dédier**: consacrer
+- le **recueil**
+- la **quête**
+- l'**ouvrage**: travail, objet, texte publié
+- **atypique**: _adj._ sans type déterminé
+- **revirer**
+- **récupérer**: retrouver, recycler
+- **adieu**
+- **faire croire** que
+- **faire courir de risque**
+- **harceler**: to pester, to harasse
+- le **crève-cœur**: heartbreak
+- la **poésie**: petit **poème**
+- l'**abécédaire**: _m._ livre d'apprentissage de l'alphabet
+- l'**exil** _m._
+- Surnoms affectueux
+  - **bébé**, **chaton** / **minou**, **amour**, **ti pite**
