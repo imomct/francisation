@@ -1,6 +1,6 @@
 ---
 sidebar_position: 50
-description: "mar. - avr. 2024, Sophie et Charles"
+description: "mars - avril 2024, Sophie et Charles"
 ---
 
 # Niveau 5
@@ -837,6 +837,12 @@ Si + présent + futur
 - s'attaque + nom
 - commencer
 
+### se reprendre en main
+
+- to get back on track / to take control of one's life again
+- Après quelques semaines de désordre, il a décidé de <u>se reprendre en main</u> et de reprendre une routine plus saine.
+- Elle a compris qu'elle devait se reprendre en main et revoir ses priorités pour trouver un meilleur équilibre dans sa vie.
+
 ### comme si de rien n'était
 
 - j'ai avalé le gros morceau comme si de rien n'était
@@ -1022,6 +1028,8 @@ Si + présent + futur
 - **clavarder** avec un clavier
 - **chicane** = **dispute**
 - (se) **chicainer** = (se) **disputer**
+- **débiner**: to slag [sb] off _informal_; to badmouth;
+- **se débiner**: to clear off _informal_; to make oneself scarce _informal_
 - le **gratte-ciel**
 - le **raton laveur**
 - l'**écureuil** _m._
@@ -1160,5 +1168,44 @@ Si + présent + futur
 - la **poésie**: petit **poème**
 - l'**abécédaire**: _m._ livre d'apprentissage de l'alphabet
 - l'**exil** _m._
-- Surnoms affectueux
-  - **bébé**, **chaton** / **minou**, **amour**, **ti pite**
+- **Surnoms affectueux**
+  - bébé, Mon petit(e) chat(te) / chaton / minou, ti pite\*\*
+  - Mon amour, Ma chérie / Mon chéri, Mon cœur
+  - Ma belle / Mon beau
+  - Ma douce / Mon doux
+  - Ma princesse / Mon prince
+  - Mon trésor
+  - Mon ange, Ma perle
+  - Mon rayon de soleil
+  - Mon petit(e) chou
+  - Mon lapin
+  - Ma moitié
+  - Ma tendre
+  - Mon bonheur
+  - Mon cher(e)
+  - Mon petit(e) amour
+  - Ma puce
+  - Ma belle étoile
+- **moite**: _adj._ un peu humide
+- l'**abrégé**: _m._ summary
+- l'**arthrite**: _f._ inflammation d'une articulation. Il a de l'arthrite à un genou.
+- **articulation**: Union de deux ou plusieurs os.
+- **commotion**: Choc grave. _Une commotion cérébrale._
+- **vasculaire**: _adj._ Qui appartient aux vaisseaux. _Le système vasculaire._
+- l'**artères**: _f._ Canal qui part du cœur pour distribuer le sang à tous les organes du corps. _Une artère vitale._
+- **antécédents**.e: _adj._ Qui précède dans le temps.
+- **engourdir**: Paralyser momentanément. _Le froid a engourdi mes orteils._
+- une **échographie**: ultrasound
+- une **Imagerie** par **Résonance** **Magnétique**
+- un **électrocardiogramme**: electrocardiogram / ECG
+- une **auscultation**: Le médecin a effectué une <u>auscultation</u> minutieuse des poumons pour détecter d'éventuels problèmes respiratoires.
+- une **radiographie**
+- **subir**: endurer
+- **angoisser**: alarmer; inquiéter; faire peur.
+- l'**espoir**: _m._ hope
+- **calmant**: tranquillisant
+- **creux**: _m._ trou; vide. **creuse** _adj., adv._
+- **c’est plate**: It's boring
+- **mets-en**: put some / go ahead
+- **pas pantoute**: pas du tout
+- **je suis tellement tanné**: I'm so tired / I'm so fed up
