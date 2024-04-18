@@ -1209,3 +1209,39 @@ Si + présent + futur
 - **mets-en**: put some / go ahead
 - **pas pantoute**: pas du tout
 - **je suis tellement tanné**: I'm so tired / I'm so fed up
+- **évoquer**: rappeler
+- **reine**: femme d'un roi
+- tout à coup / soudain / brusquement
+- la **rubrique**: section / category
+- la **cendre**: Résidu des matières brûlées / Restes d’un mort
+- le **cendrier**: Récipient servant à recueillir la cendre des cigares
+
+### Verbes avec "à"
+
+- **parler** à
+- **demander** à
+- **dire** à
+- **téléphoner** à
+- **emprunter** à
+- **offrir** à
+- **écrire** à
+- **prêter** à
+- **sourire** à
+- **répondre** à
+- **rendre** à
+- **souhaiter** à
+- **ressembler** à
+- **plaire** à
+- **penser** à
+- **s'intéresser** à
+- **réfléchir** à
+- **réagir** à
+- **obéir** à
+- **s'adresser** à
+- **convenir** à
+- **jurer** à
+- **songer** à
+- **mentir** à
+- **annoncer** à
+- **confesser** à
+- **expliquer** à
