@@ -877,6 +877,12 @@ Si + présent + futur
 - avoir l'air + adj. / de + verbe
 - être pareil à quelqu'un / à quelque chose (être le même)
 
+### revenir à nos moutons
+
+- to get back to the subject at hand / to return to the main topic
+- Bon, maintenant revenons à nos moutons et discutons de la question initiale.
+- Je comprends que vous ayez d’autres préoccupations, mais pour l’instant, revenons à nos moutons et discutons de la prochaine étape du projet.
+
 ### faire exprès
 
 - faire volontairement
@@ -1168,24 +1174,18 @@ Si + présent + futur
 - la **poésie**: petit **poème**
 - l'**abécédaire**: _m._ livre d'apprentissage de l'alphabet
 - l'**exil** _m._
-- **Surnoms affectueux**
-  - bébé, Mon petit(e) chat(te) / chaton / minou, ti pite\*\*
-  - Mon amour, Ma chérie / Mon chéri, Mon cœur
-  - Ma belle / Mon beau
-  - Ma douce / Mon doux
-  - Ma princesse / Mon prince
-  - Mon trésor
-  - Mon ange, Ma perle
-  - Mon rayon de soleil
-  - Mon petit(e) chou
-  - Mon lapin
-  - Ma moitié
-  - Ma tendre
-  - Mon bonheur
-  - Mon cher(e)
-  - Mon petit(e) amour
-  - Ma puce
-  - Ma belle étoile
+
+**Surnoms affectueux**
+
+| Colonne 1    | Colonne 2         | Colonne 3     | Colonne 4      | Colonne 5 |
+| ------------ | ----------------- | ------------- | -------------- | --------- |
+| Bébé         | Petit(e) chat(te) | Amour         | Chérie         | Cœur      |
+| Chaton       | Minou             | Belle         | Beau           | Douce     |
+| Doux         | Princesse         | Prince        | Trésor         | Ange      |
+| Perle        | Rayon de soleil   | Petit(e) chou | Lapin          | Moitié    |
+| Tendre       | Bonheur           | Cher(e)       | Petit(e) amour | Puce      |
+| Belle étoile |                   |               |                |           |
+
 - **moite**: _adj._ un peu humide
 - l'**abrégé**: _m._ summary
 - l'**arthrite**: _f._ inflammation d'une articulation. Il a de l'arthrite à un genou.
@@ -1215,6 +1215,21 @@ Si + présent + futur
 - la **rubrique**: section / category
 - la **cendre**: Résidu des matières brûlées / Restes d’un mort
 - le **cendrier**: Récipient servant à recueillir la cendre des cigares
+- le **coffret**, le petit **coffre**, la boite
+- **enrober**: Recouvrir d’une couche protectrice. _Enrober un fruit de sucre._
+- le **hydromel**, boisson faite d'eau et de miel
+- le **verger**: orchard; ▸ un verger en fleursan / orchard in bloom
+- la **vignoble**: Plantation de vigne / vineyard
+- **démarquer** : Supprimer la marque de.
+- l'**apéro** _m._ _familier_ Apéritif
+- **éblouir**: fasciner, impressionner.
+- le **fous de bassan**: Gannets
+- **pondre**: faire des œufs
+- la **cravate**: 👔 (pour chemise) tie; (insigne de décoration) ribbon
+- le **nœud papillon**: 🎀
+- la **casquette**: 🧢
+- la **tuque**: 🧶 🧢
+- le **bonnet**: 💂
 
 ### Verbes avec "à"
 
