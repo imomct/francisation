@@ -649,7 +649,7 @@ Certains verbs ont un radical irrégulier, mais les mêmes terminaisons que les 
 - **Prendre** : que je **prenne**, que tu **prennes**, qu’il/elle/on **prenne**, que nous **<u>pren</u>ions**, que vous **<u>pren</u>iez**, qu’ils/elles **prennent**
 - **Venir** : que je **vienne**, que tu **viennes**, qu’il/elle/on **vienne**, que nous **<u>ven</u>ions**, que vous **<u>ven</u>iez**, qu’ils/elles **viennent**
 - **Boire**: que je **boive**, que tu **boives**, qu’il/elle/on **boive**, que nous **<u>buv</u>ions**, que vous **<u>buv</u>iez**, qu’ils/elles **boivent**
-- **Vouloir** : que je **veuille</u>**, que tu **veuilles</u>**, qu'il/elle/on **veuille</u>**, que nous **<u>voul</u>ions**, que vous **<u>voul</u>iez**, qu'ils/elles **veuillent**
+- **Vouloir** : que je **veuille**, que tu **veuilles**, qu'il/elle/on **veuille**, que nous **<u>voul</u>ions**, que vous **<u>voul</u>iez**, qu'ils/elles **veuillent**
 - **Valoir**: que je **vaille**, que tu **vailles**, qu'il/elle/on **vaille**, que nous **<u>val</u>ions**, que vous **<u>val</u>iez**, qu'ils/elles **vaillent**
 
 #### Être et Avoir
