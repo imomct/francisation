@@ -649,6 +649,8 @@ Certains verbs ont un radical irrégulier, mais les mêmes terminaisons que les 
 - **Prendre** : que je **prenne**, que tu **prennes**, qu’il/elle/on **prenne**, que nous **<u>pren</u>ions**, que vous **<u>pren</u>iez**, qu’ils/elles **prennent**
 - **Venir** : que je **vienne**, que tu **viennes**, qu’il/elle/on **vienne**, que nous **<u>ven</u>ions**, que vous **<u>ven</u>iez**, qu’ils/elles **viennent**
 - **Boire**: que je **boive**, que tu **boives**, qu’il/elle/on **boive**, que nous **<u>buv</u>ions**, que vous **<u>buv</u>iez**, qu’ils/elles **boivent**
+- **Vouloir** : que je **veuille</u>**, que tu **veuilles</u>**, qu'il/elle/on **veuille</u>**, que nous **<u>voul</u>ions**, que vous **<u>voul</u>iez**, qu'ils/elles **veuillent**
+- **Valoir**: que je **vaille**, que tu **vailles**, qu'il/elle/on **vaille**, que nous **<u>val</u>ions**, que vous **<u>val</u>iez**, qu'ils/elles **vaillent**
 
 #### Être et Avoir
 
@@ -1164,9 +1166,9 @@ Si + présent + futur
 - la **quête**
 - l'**ouvrage**: travail, objet, texte publié
 - **atypique**: _adj._ sans type déterminé
-- **revirer**
+- la **rêverie**: images, associations qui viennent à l'esprit lorsqu'on est éveillé.
 - **récupérer**: retrouver, recycler
-- **adieu**
+- **adieu** _m. noun._ goodbye; farewell _formal_
 - **faire croire** que
 - **faire courir de risque**
 - **harceler**: to pester, to harasse
@@ -1230,6 +1232,15 @@ Si + présent + futur
 - la **casquette**: 🧢
 - la **tuque**: 🧶 🧢
 - le **bonnet**: 💂
+- une **année sabbatique**: d'une période de congé accordée aux professeurs universitaires
+- le **carambolage** : (de voitures) pile-up
+- la **rafale**: (de vent, pluie) gust; (de neige) flurry; (de mitraillette) burst;
+- la **poudrerie**: 🇨🇦 c'est une forme de neige très légère qui, après être tombée au sol, peut encore être soulevée par le vent.
+- la **cloche**: 🇨🇦 c'est une neige humide, une neige fondante et très sale. C'est presque de la gadoue. Au Québec, on l'appelle "sloche" ou parfois "slush" (anglicisme).
+- **immatriculer**: inscrire sur un registre public.
+- la **plaque d'immatriculation**
+- la **faune**: ensemble des espèces animales d'un milieu
+- un **dépliant**: brochure publicitaire
 
 ### Verbes avec "à"
 
