@@ -18,6 +18,7 @@ title: Ressources
 
 - [Learn Québec French](https://podcasts.apple.com/us/podcast/learn-quebec-french/id1696009195)
 - [Slow French](https://podcasts.apple.com/us/podcast/languatalk-slow-french-learn-french-with-ga%C3%ABlle-french/id1580594077)
+- [Podcasts avec transcription par Lingua](https://languatalk.com/langua/podcasts?language=french)
 
 ## Videos
 
