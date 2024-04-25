@@ -173,22 +173,22 @@ description: "mars - avril 2024, Sophie et Charles"
 
 avoir les cheveux ...
 
-- **rasés**
-- **courts**
-- **mi-longs**
-- **longs**
-- **blonds**
-- **bruns**
-- **roux**
+- **rasés** ~
+- **courts** ~~
+- **mi-longs ** ~~~
+- **longs** ~~~~
+- **blonds** 👱
+- **bruns **
+- **roux** 🧑‍🦰
 - **noirs**
 - **gris**
-- **blancs**
-- **frisés** / **bouclés**
+- **blancs** 👨‍🦳
+- **frisés** / **bouclés** 🧑‍🦱
 - **droits** / **raides** / **plats**
-- **détachés**
-- **tressés**
+- **détachés** 👩‍🦰
+- **tressés** 👩‍🦱
 - étre **chauve** 🧑🏻‍🦲
-- avoir **chignon**
+- avoir **chignon** 👱‍♀️
 - avoir **coupe champignon**
 - avoir **une queue de cheval**
 - avoir **coupe Longueuil**
@@ -201,7 +201,7 @@ avoir les yeux ...
 - **verts** 🟢
 - **gris**
 - **bruns** 🟤
-- **pers** 🔵🟢
+- **pers** 🔵 🐱 🟢 👁️ 🟡
 - **noirs**
 
 #### Le Visage
@@ -213,7 +213,7 @@ avoir le visage ...
 - **rond** 🙂
 - **ovale**
 - **triangulaire** ▼
-- **ridé**
+- **ridé** qui a des rides.
 
 #### Les lèvres
 
@@ -236,8 +236,8 @@ avoir le nez ...
 avoirs / porter ...
 
 - des **lunettes**
-- une **barbe**
-- une **moustache**
+- une **barbe** 🧔🏻‍♂️
+- une **moustache** 🥸
 - une **cicatrice**
 - un **tatouage**
 
@@ -683,6 +683,42 @@ Si + présent + futur
 - Est-ce que je peux emprunter ton crayon ?
   - Qu’est-ce qu’il demande
   - Il demande s' il peut emprunter mon crayon.
+
+#### Affirmation [que]
+
+- il dit **qu**'il ...
+- il pense **que** c'est ...
+
+#### Question [si]
+
+- Est-ce que vous sortez?
+  - il demande **si** vous sortez
+- Il fait froid ?
+  - Il demande **s**'il fait froid
+
+#### Interrogatif [où/quand]
+
+- **Où** allez-vous ?
+  - il demande **où** vous allez
+- **Quand** partez-vous ?
+  - il demande **quand** vous partez
+
+#### ce que
+
+- Qu'est-ce **que** vous faites ?
+  - il demande **ce que** vous faites
+- **Que** voulez-vous ?
+  - il demande **ce que** vous voulez
+
+#### ce qui
+
+- Qu'est-ce **qui** se passe ?
+- il demande ce qui se passe
+
+#### Impératif
+
+- Partez !
+  - il lui dit **de** partir
 
 ### Faire soi-même / faire faire
 
@@ -1241,6 +1277,10 @@ Si + présent + futur
 - la **plaque d'immatriculation**
 - la **faune**: ensemble des espèces animales d'un milieu
 - un **dépliant**: brochure publicitaire
+- le **plâtre**
+- **se tromper**: je pense que vous vous trompez de personne...
+- **alentours**: aux alentours de 16 h 10
+- la **soute**: soute à bagages: baggage hold
 
 ### Verbes avec "à"
 
