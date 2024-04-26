@@ -1272,15 +1272,17 @@ Si + présent + futur
 - le **carambolage** : (de voitures) pile-up
 - la **rafale**: (de vent, pluie) gust; (de neige) flurry; (de mitraillette) burst;
 - la **poudrerie**: 🇨🇦 c'est une forme de neige très légère qui, après être tombée au sol, peut encore être soulevée par le vent.
-- la **cloche**: 🇨🇦 c'est une neige humide, une neige fondante et très sale. C'est presque de la gadoue. Au Québec, on l'appelle "sloche" ou parfois "slush" (anglicisme).
+- la **sloche**: 🇨🇦 c'est une neige humide, une neige fondante et très sale. C'est presque de la gadoue. Au Québec, on l'appelle "sloche" ou parfois "slush" (anglicisme).
 - **immatriculer**: inscrire sur un registre public.
 - la **plaque d'immatriculation**
 - la **faune**: ensemble des espèces animales d'un milieu
 - un **dépliant**: brochure publicitaire
-- le **plâtre**
+- le **plâtre**
 - **se tromper**: je pense que vous vous trompez de personne...
 - **alentours**: aux alentours de 16 h 10
 - la **soute**: soute à bagages: baggage hold
+- la **poussette**: voiture d'enfant
+- la **cachette**: hiding-place; _québécisme_ Jouer à cache-cache.
 
 ### Verbes avec "à"
 
