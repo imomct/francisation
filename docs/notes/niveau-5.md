@@ -175,10 +175,10 @@ avoir les cheveux ...
 
 - **rasés** ~
 - **courts** ~~
-- **mi-longs ** ~~~
+- **mi-longs** ~~~
 - **longs** ~~~~
 - **blonds** 👱
-- **bruns **
+- **bruns**
 - **roux** 🧑‍🦰
 - **noirs**
 - **gris**
