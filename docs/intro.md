@@ -12,4 +12,6 @@ title: Bienvenu
 
   - [Pratiques: N5](./notes/niveau-5-pratiques.md)
 
+  - [Niveau 6](./notes/niveau-6.md)
+
 - [Ressources](./resources.md)
