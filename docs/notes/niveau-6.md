@@ -1,6 +1,6 @@
 ---
 sidebar_position: 60
-description: "mai-juin 2024, Yuriko et Olivier
+description: "mai-juin 2024, Yuriko et Olivier"
 ---
 
 # Niveau 6
