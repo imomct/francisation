@@ -44,7 +44,7 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - Si l’on souhaite insister sur le **résultat d’une action**, on utilise l’auxiliaire être.
   - Le poussin **est** <u>éclos</u> depuis maintenant deux jours.
   - On souhaite mettre l’accent sur le résultat de l’action du verbe éclore : le poussin _est_
-    _maintenant à l’extérieur_</u> de la coquille.
+    _maintenant à l’extérieur_ de la coquille.
 
 ## Éducation
 
