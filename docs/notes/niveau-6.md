@@ -18,15 +18,15 @@ description: "mai-juin 2024, Yuriko et Olivier"
   - Nous **avons** <u>été</u> bénévoles à cet événement.
 - Avec les verbes impersonnels comme <u>falloir</u> et les verbes liés à la météo
   - Il **a** <u>neigé</u> hier.
-  2. Hier, il **a** <u>fait</u> tellement beau !
-  3. Il **a** <u>fallu</u> isoler les fenêtre cet hiver.
+  - Hier, il **a** <u>fait</u> tellement beau !
+  - Il **a** <u>fallu</u> isoler les fenêtre cet hiver.
 
 #### Être
 
 - Avec les verbes qui expriment un déplacement ou une transformation
-  - _naitre, mourir + décéder, monter, descendre, entrer, sortir, aller, venir, arriver, partir, passer, rester, retourner, apparaître, tomber (→ voir le document La maison d’être)_
+  - _naitre, mourir + décéder, monter, descendre, entrer, sortir, aller, venir, arriver, partir, passer, rester, retourner, apparaître, tomber_
   - Notre fille Valéria **est** <u>née</u> cette nuit. (changement d’état)
-  2. **Êtes**-vous <u>allés</u> déjeuner au restaurant ce matin? (déplacement)
+  - **Êtes**-vous <u>allés</u> déjeuner au restaurant ce matin? (déplacement)
 - Avec les _<u>verbes pronominaux</u>_
   - Les verbes essentiellement pronominaux (qui s’emploient uniquement à la voie
     pronominale) : _s’absenter de, s’écrier, s’enfuir, se blottir, s’autocensurer, s’entraider, s’extasier, se prosterner, s’évader, s’autodétruire, s’envoler, etc._
@@ -45,6 +45,83 @@ description: "mai-juin 2024, Yuriko et Olivier"
   - Le poussin **est** <u>éclos</u> depuis maintenant deux jours.
   - On souhaite mettre l’accent sur le résultat de l’action du verbe éclore : le poussin _est_
     _maintenant à l’extérieur_ de la coquille.
+
+#### CD et CI
+
+- Lorsque ces verbes sont construits avec un <u>complément direct (CD)</u>, c’est généralement
+  l’auxiliaire avoir qui est utilisé.
+
+  - Loïc **a** <u>monté</u> _les escaliers_.
+
+- Lorsque ces verbes sont construits avec un <u>complément indirect (CI)</u>, c’est généralement
+  l’auxiliaire être qui est utilisé.
+  - Loïc **est** <u>monté</u> _sur un escabeau_.
+
+### Dont
+
+- La **personne** _dont_ tu m’as parlé.
+- Le **problème** _dont_ tu m’as fait part.
+- Le **livre** _dont_ j’ai lu quelques pages.
+- L’**appartement** _dont_ je sais que tu es locataire.
+- **Si vous arrivez à l’heure**, ce _dont_ je doute, je serai très reconnaissant.
+
+### Passé composé ou imparfait?
+
+#### Passé composé
+
+- Action ponctuelle
+
+  - Il **a porté** sa cravate pour le mariage de son fils.
+    - (On se concentre sur l’action de mettre une
+      cravate)
+
+- Série d’actions consécutives
+
+  - Hier, il **a lu**, il **a corrigé** et il **a réécrit** son texte.
+  - Tu **as mangé**, puis j’**ai regardé** la télé.
+
+- Action d’une durée déterminée
+
+  - J’**ai été** triste pendant trois jours.
+  - Entre 14 h et 20 h, il **a neigé**.
+
+- Répétition d’actions ponctuelles
+  - L’été dernier, j’**ai nagé** tous les matins.
+    - (J’ai nagé le premier jour, puis le jour suivant…)
+
+#### Imparfait
+
+- Description d’une situation
+  - Il **portait** sa cravate au mariage de son fils.
+    - (On se concentre sur la description des
+      vêtements)
+- Actions interrompues ou simultanées
+
+  - Hier, **il lisait** son texte (quand je suis arrivé).
+  - Tu **mangeais** (pendant que je regardais la télé).
+
+- Action d’une durée indéterminée
+
+  - J’**étais** triste après son départ.
+  - Il **neigeait** tout à l’heure.
+
+- Habitude
+  - Pendant l’été, je **nageais** tous les matins.
+    - (J’avais l’habitude de nager)
+
+#### Exemples
+
+- Tu m’**attendais** pendant que je **me suis brossé** les dent.
+- La fête **était** vraiment magnifique quand il **est arrivé**.
+- Il **pleuvait** quand j’**ai pensé** à sortir.
+- Je **dormais** quand l'alarme **a sonné**.
+- Thomas **mangeait** la pizza quand je lui **ai envoyé** ce message.
+- Quand j’**étais** petit, ses parents **ont divorcé**.
+- Je me **suis fait** piquer par un chien quand je **me promenais** dans le parc.
+- Hier, je **mangeais** de la pizza en écoutant une chanson, et mon mari **chantait** en regardant la télé.
+- Elle **a décidé** de nous les donner.
+- La fille dont la mère **travaillait** dans mon bureau **a commencé** à travailler dans le méme bureau hier.
+- Je me **suis endormi** quand je **écoutais** de la musique.
 
 ## Éducation
 
@@ -78,6 +155,7 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - un **programme préuniversitaire**
 - un **registrariat**
 - un **relevé de notes**
+- une **attestation**: document qui donne la preuve de quelque chose.
 - un **séminaire**
 - une **session**
 - une **technique**
@@ -86,12 +164,41 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - **rédiger**: écrire
 - la **rédaction**: l'écriture
 
-### Comprendre Un Programme
+### Comprendre un Programme
 
 - [UdeM: Baccalauréat en informatique](https://admission.umontreal.ca/programmes/baccalaureat-en-informatique/)
 - [UQÀM: Maîtrise en biologie](https://etudier.uqam.ca/programme/maitrise-biologie)
 - [Trouver des Programmes](https://www.etudesuniversitaires.ca/trouver-un-programme/)
 - [Liste des Programmes d'Études disponibles, durée et coûts](https://accesetudesquebec.ca/fr/les-programmes-de-formation/liste-des-programmes-d-etudes-disponibles-duree-couts/5/23)
+
+### Présenter un programme
+
+- Objectifs du programme
+  - Quels sont les objectifs?
+  - C’est quoi les objectifs?
+  - C’est quoi qu’on va apprendre?
+  - Qu’est-ce qu’on va apprendre?
+  - Quels est le but du programme?
+  - Qu’est-ce que c’est, ce programme?
+- Préalables
+  - Quels sont les préalables?
+  - Quel diplôme est-ce que je dois avoir pour participer à ce programme?
+  - Est-ce qu’il y a une limite d’âge pour être inscrit-e au programme?
+  - Quel niveau de français ai-je besoin?
+  - Il faut quel niveau de français?
+  - Quel(s) document(s) il faut fournir?
+  - Est-ce que j’ai besoin d’une équivalence?
+- Perspectives d’emploi
+  - Qu’est-ce que je peux faire comme travail quand je finirai ce diplôme?
+  - Est-ce que vous offrez un emploi dans cet établissement à la fin de mes études?
+  - Est-ce qu’il y a un stage?
+  - Dans quel type d’entreprise est-ce que je peux travailler ?
+- Autres questions
+  - Est-ce que le programme est offert en ligne ou en présentiel?
+  - Où se situe votre établissement?
+  - Combien ça coûte?
+  - Quelle est la durée du programme?
+  - Quel est l’horaire?
 
 ## Expressions
 
@@ -120,3 +227,15 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - un **cadenas** chromé
 - **marque-page autoadhésif**: post-it
 - **retrouvaille**: réunion
+- s’**absenter** de
+- s’**écrier**: m'écrie, te cries, se crie, nous écrions, vous écriez, se crient
+- s’**enfuir**
+- se **blottir**
+- s’**autocensurer**
+- s’**entraider**
+- s’**extasier**
+- se **prosterner**
+- s’**évader**
+- s’**autodétruire**
+- s’**envoler**
+- la **cravate**: 👔
