@@ -123,6 +123,14 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - La fille dont la mère **travaillait** dans mon bureau **a commencé** à travailler dans le méme bureau hier.
 - Je me **suis endormi** quand je **écoutais** de la musique.
 
+### Plus que Parfait
+
+- ma sœur a refué d'épouser son nouveau chum ! Pourtant...
+- il l'**avait invitée** dans un grand restaurant
+- il **avait commandé** du champagne
+- il **s'était mis** à genoux devant elle
+- mais, il a parlé de sont ex-blonde pendant toute la soirée !
+
 ## Éducation
 
 ### Vocabulaires
@@ -200,6 +208,30 @@ description: "mai-juin 2024, Yuriko et Olivier"
   - Quelle est la durée du programme?
   - Quel est l’horaire?
 
+## Logement
+
+### Vocabulaires
+
+- le **droit**: ce que chacun peut exiger, ce qui est permis selon la loi
+- le/la **locateur**: personne qui loue un logement à un locataire
+- le/la **locataire**: personne qui loue un logement d'un locateur
+- un **bail**: contrat de location connu entre un propriétaire et un locataire afin de définir leurs engagements respectifs concernant un logement
+- l'**obligation**: ce qui oblige une personne à donner, à faire ou à ne pas faire quelque chose
+- **location**: action de donner ou de prendre un logement contre un prix
+- le **parti**: groupe de presonnes défendant la même opinion, le même intérêt
+- la **cession**: action de transmettre
+- **sous-location**: action de sous-louer
+- un **avis**: document qui contient un avertissement
+- **renouvellement**: remise en vigueur
+- la **clause**: disposition inscrite dans un document légal
+- le **délai**: temps accordé pour faire quelque chose
+- **résiliation**: action de mettre fin à un contrat par l'accord des parties ou par la volonté d'un seul
+- **TAL**: Tribunal Administratif du Logement
+- **B.S.**: bien-être sociale
+- **solliciter**
+- en **cour**, la **cour**
+- l'**entente**: _f._ accord, harmonie
+
 ## Expressions
 
 - **quasiment**: presque
@@ -207,26 +239,28 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - **une coup<del>le</del> de** ...: a couple of
 - **comment ça se passe**, tes études ?
 - ... **pas mal** ...: très
+- **fait que**: donc
+- ... **à quelque part**: sort of
 
 ## Autres Vocabulaires
 
-- un **ange**
-- de la **sciure**
-- une **étoile de mer**
-- une collection de **coquillages**
-- un **tournesol**
+- un **ange** 👼
+- de la **sciure**: sawdust
+- une **étoile de mer** ⭐️🐟
+- une collection de **coquillages** 🐚
+- un **tournesol**: 🌻
 - **coudre**; je couds; j'ai cousu; je cousais
-- un **ravioli**, des raviolis chinois
+- un **ravioli**, des raviolis chinois 🥟
 - une **pommade**
 - **soulager** la douleur
-- un **peigne** à cheveux
-- un **briquet**
-- une **corvée**
-- un **gant** de boxe en cuir
+- un **peigne** à cheveux: 🪮
+- un **briquet**: 🧱 🔥
+- une **corvée**: québécisme travail en commun
+- un **gant** de boxe en cuir 🥊
 - une **figurine**
 - un **cadenas** chromé
 - **marque-page autoadhésif**: post-it
-- **retrouvaille**: réunion
+- la **retrouvaille**: réunion
 - s’**absenter** de
 - s’**écrier**: m'écrie, te cries, se crie, nous écrions, vous écriez, se crient
 - s’**enfuir**
@@ -239,3 +273,8 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - s’**autodétruire**
 - s’**envoler**
 - la **cravate**: 👔
+- **marmonner**: to mumble
+- **maudire**: to curse
+- la **poussière**: dust
+- la **charpenterie**: carpentry 🪚
+- le/la **ébéniste**: personne spécialisée dans la fabrication de meubles en bois de grande qualité.
