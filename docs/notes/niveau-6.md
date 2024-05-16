@@ -125,7 +125,7 @@ description: "mai-juin 2024, Yuriko et Olivier"
 
 ### Plus que Parfait
 
-- ma sœur a refué d'épouser son nouveau chum ! Pourtant...
+- ma sœur a refusé d'épouser son nouveau chum ! Pourtant...
 - il l'**avait invitée** dans un grand restaurant
 - il **avait commandé** du champagne
 - il **s'était mis** à genoux devant elle
@@ -231,6 +231,231 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - **solliciter**
 - en **cour**, la **cour**
 - l'**entente**: _f._ accord, harmonie
+- une **fissure**: a crack
+- le **lave-vaisselle**
+- le **poêle** / la **cuisinière**
+- le **four**
+- le **store**
+- le **grenier**
+- la **boîte aux lettres**
+- le **rez-de-chaussée**
+- le **terrain**
+- la **remise** / le **cabanon**
+- la **tablette**
+- la **terrasse** / le **patio**
+- la **penture**
+- le **perron**
+- le **plafonnier**
+- les **moulures** / les **boiseries**
+- la **moustiquaire**
+- le **néon**
+- la **fournaise**
+- la **galerie**
+- le **lampadaire**
+- la **grille**
+- le fil **électrique** / le **câble**
+- le **filtre**
+- le **compteur électrique**
+- le **drain**
+- l’**élément**
+- le **trou**
+- le **crochet**
+- la **fissure**
+- la **rampe**
+- l’**escalier**
+- la **vitre**
+- le **cadre**
+- le **fusible**
+- le **tiroir**
+- la **planche**
+- le **toit**
+- les **étagères**
+- le **détecteur de fumée**
+- le **joint**
+- la **cheminée**
+- la **clôture**
+- l’**interrupteur**
+- la **prise de courant** / la **prise électrique**
+- la **gouttière**
+- le **panneau électrique**
+
+  - fil de terre principal
+  - file neutre
+  - fils du compteur
+  - disjoncteur principal
+  - disjoncteur unipolaire
+  - disjoncteur GFCI (DDFT)
+  - disjoncteur bipolaire
+  - barres neutres
+
+- l’**ampoule**
+- la **poignée**
+- la **pomme de douche**
+- le **tuyau**
+- le **chauffe-eau**
+- la **fenêtre de ventilation**
+- le **ventilateur**
+- le **bain** / la **baignoire**
+- le **robinet**
+- le **calorifère** / le **radiateur**
+- le **climatiseur**
+- le **thermostat**
+- la **hotte**
+- la **tuile** / le **carreau**
+- le **foyer**
+- le **luminaire**
+- l’**évier**
+- le **rond** / l’**élément**
+- la **sonnette**
+- l’**armoire**
+- le **comptoir**
+- le **plafond**
+- le **plancher**
+- la **serrure**
+- le **plombier** / la **plombière**
+- la **toilette**
+
+  - le **reservoir** de la toilette
+  - la **chasse d'eau**
+  - le flotteur
+  - le **clapet**
+  - la **manette** de chasse
+  - le **couvercle**
+  - la **siège**
+  - la **cuvette**
+  - la **base**
+  - la **bague de cire**
+  - le **tuyau d'alimentation en eau**
+  - le **robinet d'arrêt**
+
+- le **couvreur** / la **couvreuse**: pour le toit
+- un/une **peintre**
+- un **plâtrier** / une **plaîtrière**
+- une **maçon** / une **maçonne**
+- un **réparateur d’appareils électroménagers**
+- une **réparateuse**
+- un **exterminateur** / une **exterminatrice**
+- un **serrurier** / une **serrurière**
+- des **termites** (une **termite**)
+- des **poux** (un **pou**)
+- des **fourmis** (une **fourmi**) 🐜
+- des **mouches** (une **mouche**) 🪰
+- la **gûepe** 🐝 📌
+- l'**abeille** _f._ 🐝
+- des **coquerelles** (une **coquerelle**) 🪳
+- un **cafard** 🪳
+- le **rongeur** / la **rongeuse**
+
+  - des **rats** (un **rat**) 🐀
+  - des **souris** (une **souris**) 🐁
+
+- un **ramoneur** / une **ramoneuse**
+- un **carreleur** / une **carreleuse**
+- un **menuisier** / une **menuisière**
+- un **charpentier** / une **charpentière**
+- un **ébéniste** / une **ébéniste**
+- un **réparateur en chauffage et climatisation** / une **réparatrice**
+- la **thermopompe**
+
+### Problèmes du Logement
+
+- La baignoire **coule**.
+- La baignoire est **trouée**.
+  - Il faudrait que je la fasse <u>remplacer</u>.
+  - Je voudrais la <u>remplacer</u>.
+  - J’aimerais que vous la <u>changiez</u>.
+- Le lavabo est **bouché**.
+- L’eau du lavabo ne **s’évacue** plus.
+- L’eau du lavabo ne **s’écoule** plus.
+  - Il faudrait que la plombière le <u>débouche</u>.
+  - Je voudrais le faire <u>déboucher</u>.
+  - J’aimerais le <u>déboucher</u>.
+- Le réservoir de la toilette ne **se remplit** plus.
+- La chasse d’eau ne **tire** plus.
+  - Il faudrait que je <u>change</u> le clapet.
+  - Je voudrais <u>changer</u> la manette de chasse.
+  - J’aimerais faire <u>réparer</u> la toilette.
+- Il y a une **fuite** dans le toit.
+- Il y a un **trou** dans le toit.
+  - Il faudrait que je fasse <u>réparer</u> le toit.
+  - Je voudrais qu’un couvreur <u>remplace</u> les tuiles.
+  - J’aimerais <u>remplacer</u> les tuiles.
+- Le mur est **moisi**.
+- Il y a de la **moisissure** sur le mur.
+  - Il faudrait que je la fasse <u>enlever</u>.
+  - Je voudrais <u>nettoyer</u> le mur.
+  - J’aimerais que vous <u>enleviez</u> la moisissure.
+- Le lecteur de cassette ne **fonctionne** plus.
+  - Il faudrait le faire <u>réparer</u>.
+  - Je voudrais qu’un technicien le <u>répare</u>.
+  - J’aimerais le <u>réparer</u>.
+- Le four ne **chauffe** plus.
+- Le four ne **marche** plus.
+  - Il faudrait le faire <u>réparer</u>.
+  - Je voudrais le faire <u>réparer</u>.
+  - J’aimerais que vous le <u>répariez</u>.
+- Le réfrigérateur ne **refroidit** plus.
+- Le réfrigérateur ne **fonctionne** plus.
+  - Il faudrait le faire <u>réparer</u>.
+  - Je voudrais le faire <u>réparer</u>.
+  - J’aimerais en <u>acheter</u> un nouveau.
+- Il y a des **termites**.
+- Il y a une **infestation** de souris.
+  - Il faudrait que j’appelle un exterminateur.
+  - Je voudrais qu’un exterminateur vienne.
+  - J’aimerais que vous les <u>exterminiez</u> vous-même.
+- La poignée de porte est **défectueuse**.
+- La clé ne **tourne** plus.
+  - Il faudrait que je fasse <u>remplacer</u> la serrure.
+  - Je voudrais <u>changer</u> la serrure.
+  - J’aimerais une nouvelle serrure.
+- L’ampoule du lampadaire a **grillé**.
+- Le lampadaire n’**éclaire** plus.
+  - Il faudrait <u>remplacer</u> l’ampoule.
+  - Je voudrais qu’un électricien <u>répare</u> le lampadaire.
+  - J’aimerais <u>réparer</u> le lampadaire moi-même.
+- La sonnette ne **marche** plus.
+- La sonnette est **défectueuse**.
+  - Il faudrait que je la <u>répare</u>.
+  - Je voudrais la faire <u>réparer</u>.
+  - J’aimerais la <u>réparer</u>.
+- Il **n’y a plus de courant** dans le salon.
+- Je **n’ai plus d’électricité** dans le salon.
+  - Il faudrait qu’un électricien vienne voir.
+  - Je voudrais <u>réparer</u> le panneau électrique.
+  - J’aimerais <u>réparer</u> les disjoncteurs.
+- La cheminée est **bouchée**.
+  - Il faudrait la faire <u>ramoner</u>.
+  - Je voudrais la <u>nettoyer</u>.
+  - J’aimerais que vous la <u>vidiez</u>.
+- Les carreaux de la salle de bain sont **cassés**.
+- Les carreaux de la salle de bain ont **décollé**.
+- Le joint des carreaux est **décollé**.
+  - Il faudrait que je les <u>change</u>.
+  - Je voudrais les faire <u>remplacer</u>.
+  - J’aimerais les <u>recoller</u>.
+- La marche du perron a cassé.
+- La marche du perron a moisi.
+  - Il faudrait qu’un menuisier la <u>répare</u>.
+  - Je voudrais la <u>réparer</u> moi-même.
+  - J’aimerais que vous la <u>répariez</u>.
+- La porte **ferme mal**.
+- La porte est **brisée**.
+  - Il faudrait que je la <u>change</u>.
+  - Je voudrais la faire <u>réparer</u>.
+  - J’aimerais qu’un menuisier la <u>répare</u>.
+- Le chauffage ne **fonctionne** plus.
+- Le système de chauffage ne **marche** plus.
+- Je **n’ai plus de chauffage** chez nous.
+  - Il faudrait que j’appelle un réparateur.
+  - Je voudrais <u>changer</u> la thermopompe moi-même.
+  - J’aimerais faire réparer le système de chauffage.
+- La climatisation ne **marche** plus.
+- Le système de climatisation est **défectueux**.
+- Je **n’ai plus de climatisation** chez nous.
+  - Il faudrait que je fasse venir un réparateur.
+  - Je voudrais faire <u>réparer</u> le système de climatisation.
+  - J’aimerais faire <u>réparer</u> la climatisation.
 
 ## Expressions
 
@@ -260,9 +485,9 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - une **figurine**
 - un **cadenas** chromé
 - **marque-page autoadhésif**: post-it
-- la **retrouvaille**: réunion
+- les **retrouvailles**: réunion
 - s’**absenter** de
-- s’**écrier**: m'écrie, te cries, se crie, nous écrions, vous écriez, se crient
+- s’**écrier**: m'écrie, t'écries, s'écrie, nous écrions, vous écriez, s'écrient
 - s’**enfuir**
 - se **blottir**
 - s’**autocensurer**
