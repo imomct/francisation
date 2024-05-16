@@ -278,7 +278,6 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - la **prise de courant** / la **prise électrique**
 - la **gouttière**
 - le **panneau électrique**
-
   - fil de terre principal
   - file neutre
   - fils du compteur
@@ -287,7 +286,6 @@ description: "mai-juin 2024, Yuriko et Olivier"
   - disjoncteur GFCI (DDFT)
   - disjoncteur bipolaire
   - barres neutres
-
 - l’**ampoule**
 - la **poignée**
 - la **pomme de douche**
@@ -314,7 +312,6 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - la **serrure**
 - le **plombier** / la **plombière**
 - la **toilette**
-
   - le **reservoir** de la toilette
   - la **chasse d'eau**
   - le flotteur
@@ -327,7 +324,6 @@ description: "mai-juin 2024, Yuriko et Olivier"
   - la **bague de cire**
   - le **tuyau d'alimentation en eau**
   - le **robinet d'arrêt**
-
 - le **couvreur** / la **couvreuse**: pour le toit
 - un/une **peintre**
 - un **plâtrier** / une **plaîtrière**
@@ -345,10 +341,8 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - des **coquerelles** (une **coquerelle**) 🪳
 - un **cafard** 🪳
 - le **rongeur** / la **rongeuse**
-
   - des **rats** (un **rat**) 🐀
   - des **souris** (une **souris**) 🐁
-
 - un **ramoneur** / une **ramoneuse**
 - un **carreleur** / une **carreleuse**
 - un **menuisier** / une **menuisière**
