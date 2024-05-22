@@ -131,6 +131,79 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - il **s'était mis** à genoux devant elle
 - mais, il a parlé de sont ex-blonde pendant toute la soirée !
 
+### Verbe à complément direct ou indirect
+
+#### Légendes
+
+- 🔵 ... quelqu'un (complément **direct**)
+- 🔶 ... <u>à</u> quelqu'un (complément **indirect**)
+- 🟪 ... quelque chose <u>à</u> quelqu'un (complément **direct** <u>et</u> **indirect**)
+
+#### Verbes
+
+- ▫️ ▫️ 🟪 **acheter**
+- 🔵 ▫️ ▫️ **adorer**
+- 🔵 ▫️ ▫️ **aider**
+- 🔵 ▫️ ▫️ **aimer**
+- 🔵 ▫️ ▫️ **appeler**
+- ▫️ ▫️ 🟪 **apprendre**
+- 🔵 ▫️ ▫️ **attendre**
+- 🔵 ▫️ 🟪 **chercher**
+- 🔵 ▫️ ▫️ **connaître**
+- 🔵 ▫️ 🟪 **demander**
+- 🔵 ▫️ ▫️ **détester**
+- ▫️ ▫️ 🟪 **dire**
+- ▫️ ▫️ 🟪 **donner**
+- 🔵 ▫️ ▫️ **écouter**
+- ▫️ 🔶 🟪 **écrire**
+- 🔵 ▫️ ▫️ **embrasser**
+- ▫️ ▫️ 🟪 **emprunter**
+- 🔵 ▫️ ▫️ **féliciter**
+- 🔵 ▫️ ▫️ **frapper**
+- 🔵 ▫️ ▫️ **haïr**
+- 🔵 ▫️ ▫️ **inviter**
+- 🔵 ▫️ 🟪 **laisser**
+- ▫️ 🔶 ▫️ **mentir**
+- ▫️ ▫️ 🟪 **montrer**
+- ▫️ ▫️ 🟪 **offrir**
+- 🔵 ▫️ ▫️ **oublier**
+- ▫️ 🔶 ▫️ **parler**
+- 🔵 ▫️ ▫️ **perdre**
+- ▫️ ▫️ 🟪 **prêter**
+- 🔵 ▫️ ▫️ **quitter**
+- ▫️ ▫️ 🟪 **raconter**
+- 🔵 ▫️ ▫️ **recevoir**
+- 🔵 ▫️ ▫️ **regarder**
+- 🔵 ▫️ ▫️ **remercier**
+- 🔵 ▫️ ▫️ **rencontrer**
+- ▫️ 🔶 🟪 **répondre**
+- ▫️ 🔶 ▫️ **ressembler**
+- 🔵 ▫️ ▫️ **saluer**
+- ▫️ ▫️ 🟪 **souhaiter**
+- ▫️ 🔶 ▫️ **sourire**
+- ▫️ 🔶 ▫️ **téléphoner**
+- 🔵 ▫️ 🟪 **trouver**
+- ▫️ ▫️ 🟪 **vendre**
+- 🔵 ▫️ ▫️ **visiter**
+- 🔵 ▫️ ▫️ **voir**
+
+### Les déterminants indéfinis
+
+|                | 🚹             | 🚺               | 🚹🚹🚹          | 🚺🚺🚺            |
+| :------------- | :------------- | :--------------- | :-------------- | :---------------- |
+| aucun          | aucun          | aucune           | aucuns ❗️      | aucunes ❗️       |
+| autre          | un autre       | une autre        | d'autres        | d'autres          |
+| certain        | certain        | certaine         | certains        | certaines         |
+| chaque         | chaque         | chaque           | ❌              | ❌                |
+| différents     | ❌             | ❌               | différents      | différentes       |
+| même           | le même        | la même          | les mêmes       | les mêmes         |
+| n'importe quel | n'importe quel | n'importe quelle | n'importe quels | n'importe quelles |
+| plusieurs      | ❌             | ❌               | plusieurs       | plusieurs         |
+| quelque        | quelque ❗️    | quelque ❗️      | quelques        | quelques          |
+| tout           | tout           | toute            | tous            | toutes            |
+
+_❗️est rarement utilisé_
+
 ## Éducation
 
 ### Vocabulaires
@@ -314,7 +387,7 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - la **toilette**
   - le **reservoir** de la toilette
   - la **chasse d'eau**
-  - le flotteur
+  - le **flotteur**
   - le **clapet**
   - la **manette** de chasse
   - le **couvercle**
@@ -350,6 +423,45 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - un **ébéniste** / une **ébéniste**
 - un **réparateur en chauffage et climatisation** / une **réparatrice**
 - la **thermopompe**
+
+### Verbes et Travaux
+
+- **boucher** une fissure
+- **vernir** le plancher
+- **décoller** le papier peint
+- **ôter** la toilette
+- **nettoyer** le calorifère
+- **installer** la hotte
+- **peinturer** le plafond
+- **coller** les tuiles
+- **visser** l'interrupteur
+- **vider** la pièce
+- **réparer** l'évier
+- **polir** le plancher
+- **poser** le tapis
+- **enlever** l'évier
+- **décaper** les marches
+- **couler** le ciment
+- **noter** les mesures
+- **passer** l'aspirateur
+- **changer** la serrure
+- **laver** le placher
+- **mesurer** le cadre de porte
+- **scier** la planche
+- **Déplacer** le poêle à bois
+- **vérifier** le robinet
+- **choisir** le bois
+- **pelleter** la terre
+- **remplacer** la rampe
+- **faire** le joint du bain
+- **peindre** l'escalier
+- **essuyer** les tuiles
+- **égaliser** le sol
+- **construire** la remise
+- **fixer** le crochet
+- **serrer** le joint du robinet
+- **arracher** une planche
+- **creuser** un trou
 
 ### Problèmes du Logement
 
