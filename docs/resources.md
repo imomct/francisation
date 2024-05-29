@@ -13,6 +13,7 @@ title: Ressources
 - [Grand Québec](https://grandquebec.com)
 - [MAURIL par CBC/Radio-Canada](https://mauril.ca/) Site / iOS / Android
 - [Je Parle Québecois](https://www.je-parle-quebecois.com)
+- [lepointdufle](https://www.lepointdufle.net/)
 
 ## Balados
 
