@@ -131,6 +131,89 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - il **s'était mis** à genoux devant elle
 - mais, il a parlé de sont ex-blonde pendant toute la soirée !
 
+### Passé Simple
+
+**Le passé simple est surtout utilisé à l’écrit (contes, légendes, biographies).** Dans une histoire écrite au passé, on l’emploie souvent avec l’imparfait. Comme le passé composé, il exprime une action terminée qui a lieu à un moment précis dans le passé.
+
+#### 1er Groupe
+
+-**a<u>i</u></u>** / -**a<u>s</u>** / -**a** / -**â<u>mes</u>** / -**â<u>tes</u>** / -**è<u>rent</u>**
+
+- **mang<u>er</u>**, **chant<u>er</u>**, **all<u>er</u>**
+- **all<u>er</u>**
+  - j'all**a<u>i</u>**
+  - tu all**a<u>s</u>**
+  - on all**a**
+  - nous all**â<u>mes</u>**
+  - vous all**â<u>tes</u>**
+  - ils all**è<u>rent</u>**
+
+#### 2ème Groupe
+
+-**i<u>s</u>** / -**i<u>s</u>** / -**i<u>t</u>** / -**î<u>mes</u>** / -**î<u>tes</u>** / -**i<u>rent</u>**
+
+- **fin<u>ir</u>**
+  - je fin**i<u>s</u>**
+  - tu fin**i<u>s</u>**
+  - on fin**i<u>t</u>**
+  - nous fin**î<u>mes</u>**
+  - vous fin**î<u>tes</u>**
+  - ils fin**i<u>rent</u>**
+
+#### 3ème Groupe
+
+- -**i<u>s</u>** / -**i<u>s</u>** / -**i<u>t</u>** / -**î<u>mes</u>** / -**î<u>tes</u>** / -**i<u>rent</u>**
+  - **prendre**, **faire**, **dire**, **rire**, **entendre**
+  - **prend<u>re</u>**
+    - je pr**i<u>s</u>**
+    - tu pr**i<u>s</u>**
+    - on pr**i<u>t</u>**
+    - nous pr**î<u>mes</u>**
+    - vous pr**î<u>tes</u>**
+    - ils pr**i<u>rent</u>**
+- -**u<u>s</u>** / -**u<u>s</u>** / -**u<u>t</u>** / -**û<u>mes</u>** / -**û<u>tes</u>** / -**u<u>rent</u>**
+  - **vouluoir**, **croire**, **courir**, **vivre**, **savoir**, **lire**
+  - **voul<u>oir</u>**
+    - je voul**u<u>s</u>**
+    - tu voul**u<u>s</u>**
+    - on voul**u<u>t</u>**
+    - nous voul**û<u>mes</u>**
+    - vous voul**û<u>tes</u>**
+    - ils voul**u<u>rent</u>**
+- -**in<u>s</u>** / -**in<u>s</u>** / -**in<u>t</u>** / -**în<u>mes</u>** / -**în<u>tes</u>** / -**în<u>rent</u>**
+  - **t<u>enir</u>**, **v<u>enir</u>**, **devenir**, **détenir**
+  - **v<u>enir</u>**
+    - je v**in<u>s</u>**
+    - tu v**in<u>s</u>**
+    - on v**in<u>t</u>**
+    - nous v**înmes**
+    - vous v**în<u>tes</u>**
+    - ils v**în<u>rent</u>**
+
+#### Les Auxiliares
+
+- **avoir**: j'**eus** / tu **eus** / on **eus** / nous **eûmes** / vous **eûtes** / ils **eurent**
+- **être**: je **fus** / tu **fus** / on **fut** / nous **fûmes** / vous **fûtes** / ils **furent**
+
+#### par Cœur
+
+- **dire**: je **dis**
+- **écrire**: j'**écrivis**
+- **partir**: je **partis**
+- **rendre**: je **rendis**
+- **mettre**: je **mis**
+- **prendre**: je **pris**
+- **naître**: je **naquis**
+- **faire**: je **fis**
+- **vivre**: je **vécus**
+- **courir**: je **courus**
+- **croire**: je **crus**
+- **apercevoir**: **j'aperçus**
+- **devoir**: je **dus**
+- **lire**: je **lus**
+- **savoir**: je **sus**
+- **pouvoir**: je **pus**
+
 ### Verbe à complément direct ou indirect
 
 #### Légendes
@@ -609,3 +692,11 @@ _❗️est rarement utilisé_
 - la **poussière**: dust
 - la **charpenterie**: carpentry 🪚
 - le/la **ébéniste**: personne spécialisée dans la fabrication de meubles en bois de grande qualité.
+- le **pensionnat**: boarding school
+- **négliger**, **se négliger**
+- **déraciner**
+- **assimiler**
+- **évangéliser**
+- **éduquer**
+- **concrète**
+- **s'échapper**
