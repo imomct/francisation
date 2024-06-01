@@ -137,7 +137,7 @@ description: "mai-juin 2024, Yuriko et Olivier"
 
 #### 1er Groupe
 
--**a<u>i</u></u>** / -**a<u>s</u>** / -**a** / -**â<u>mes</u>** / -**â<u>tes</u>** / -**è<u>rent</u>**
+-**a<u>i</u>** / -**a<u>s</u>** / -**a** / -**â<u>mes</u>** / -**â<u>tes</u>** / -**è<u>rent</u>**
 
 - **mang<u>er</u>**, **chant<u>er</u>**, **all<u>er</u>**
 - **all<u>er</u>**
