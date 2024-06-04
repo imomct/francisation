@@ -338,7 +338,7 @@ description: "nov. 2023 - fév. 2024, Sophie et Laurant"
 
 - **depuis** (présent / continuité)
 - **ça fait ... que** (présent / continuité)
-- **pendand** (passé, présent, futur / durée)
+- **pendant** (passé, présent, futur / durée)
 - **il y a** (passé / moment précis dans le passé)
 - **dans** (futur / moment précis dans le futur)
 
