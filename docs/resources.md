@@ -5,6 +5,7 @@ title: Ressources
 
 ## Sites
 
+- [MIFI - Section apprentissage](https://referencesfrancisation.immigration-quebec.gouv.qc.ca/moodle_ref/course/view.php?id=4#section-0)
 - [lesfeesdufle.com](https://lesfeesdufle.com)
 - [rfi françaisfacile - exercices](https://francaisfacile.rfi.fr/fr/exercices/)
 - [podcastfrançaisfacile](https://www.podcastfrancaisfacile.com/)

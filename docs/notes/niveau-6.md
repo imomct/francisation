@@ -133,7 +133,7 @@ description: "mai-juin 2024, Yuriko et Olivier"
 
 ### Passé Simple
 
-**Le passé simple est surtout utilisé à l’écrit (contes, légendes, biographies).** Dans une histoire écrite au passé, on l’emploie souvent avec l’imparfait. Comme le passé composé, il exprime une action terminée qui a lieu à un moment précis dans le passé.
+**Le passé simple est surtout utilisé à l’écrit (contes, légendes, biographies).** Dans une histoire écrite au passé, on l’emploie souvent avec l’imparfait. Comme le passé composé, il exprime une action terminée qui a lieu à un moment précis dans le passé.
 
 #### 1er Groupe
 
@@ -655,6 +655,163 @@ _❗️est rarement utilisé_
 - ... **pas mal** ...: très
 - **fait que**: donc
 - ... **à quelque part**: sort of
+
+## Vocabulaires des événements de la vie personnelle
+
+### rencontre
+
+- un rencontre
+- faire la connaissance de quelqu'un
+- se rencontrer
+- saluer quelqu'un
+- rencontrer quelqu'un
+- saluer quelqu'un
+
+### date
+
+- une date
+- tomber amoureux / amoureuse de quelqu'un
+- avoir un coup de foudre
+
+### fiançailles
+
+- des fiançailles
+- une demande en mariage
+- la demande
+- demander en mariage
+- faire une demande en mariage
+- se mettre à genou pour demander en mariage
+
+### divorce
+
+- un divorce
+- se divorcer
+- divorcer / divorcer quelqu'un
+- une séparation
+- se séparer de quelqu'un
+- une rupture
+- rompre / rompre avec
+- metre fin au mariage
+
+### dispute
+
+- une chicane, se chicaner
+- une dispute, se disputer avec
+- une querelle, se quereller
+- un débat
+- se crier dessus
+- rompre ses promesses
+
+### grossesse
+
+- une grossesse
+- être enceinte
+- attendre / porter un bébé
+- devenir un parent
+- tomber enceinte
+
+### accouchement
+
+- un accouchement
+- accoucher / accoucher d'un bébé
+- donner naissance
+- donner la vie
+- mettre au monde
+
+### naissance
+
+- une naissance
+- naître
+- être né.e
+- arriver au monde
+- vois le jour
+
+### fête
+
+- une célébration
+- un anniversaire
+- une fête
+- célébrer une fête
+- fêter sa fête
+- souligner sa fête
+
+### maladie
+
+- une maladie
+- être malade
+- avoir mal à ...
+- tomber malade
+- avoir de la fièvre
+
+### accident
+
+- un accident
+- une collision
+- se heurter contre
+- frapper quelqu'un / quelque chose
+- avoir un accident
+- faire une collision
+
+### mort
+
+- la / une mort
+- un décès
+- être mort.e
+- mourir
+- décéder
+- perdre la vie
+- trouver la mort
+
+### victoire
+
+- une réussite
+- une victoire
+- réussir
+- gagner un prix
+- remporter un prix
+
+### graduation
+
+- une graduation
+- une remise de diplôme
+- avoir une graduation
+- être gradué.e
+- terminer ses études
+
+### départ
+
+- un départ
+- partir de ...
+- sortir de ...
+
+### voyage
+
+- un voyage, voyager
+- un déménagement, déménager
+- une immigration, immigrer
+- une expatriation, s'expatrier
+- changer de pays
+
+### retour
+
+- un retour
+- retourner à ...
+- entrer
+
+### vol
+
+- un vol
+- voyager
+- faire le tour du monde
+- prendre l'avion
+- voler
+
+### vacances
+
+- des vacances
+- prendre des vacances
+- partir en vacances
+- rester en vacances
 
 ## Autres Vocabulaires
 
