@@ -646,6 +646,160 @@ _❗️est rarement utilisé_
   - Je voudrais faire <u>réparer</u> le système de climatisation.
   - J’aimerais faire <u>réparer</u> la climatisation.
 
+## Santé
+
+### Exprimer le moment et la durée d’un symptôme
+
+- **J’ai des crampes** depuis 6 jours quand <u>je vais aux toilettes</u>.
+- **J’ai du stress** / **je me sens stressée** depuis 2 mois quand <u>je vais me coucher</u>.
+- **J’ai de l’insomnie** / **Je fais de l’insomnie** depuis 2 mois quand <u>je vais me coucher</u>.
+- **Je fais de l’insomnie** depuis 2 mois quand <u>je me couche</u>.
+- **J’ai le nez bouché** depuis 3 semaines chaque fois que <u>je me lève</u> / chaque fois que <u>je me réveille</u>.
+- **Je fais de la fièvre** depuis 2 jours quand <u>je dors</u>.
+- Ça fait 2 jours que **je fais de la fièvre** quand <u>je dors</u>.
+- Ça fait une bonne semaine que **je suis étourdi(e)** chaque fois que <u>je monte les escaliers</u> / pendant que <u>je monte les escaliers</u>.
+- Ça fait 4 jours que **j’ai mal à la gorge** chaque fois que <u>je mange</u>.
+- **J’ai commencé à tousser** depuis 1 mois quand <u>je parle</u>.
+- **Je tousse** depuis 1 mois quand <u>je parle</u>.
+- Ça fait 2 semaines et demie que **j’ai la conjonctivite** quand <u>je regarde la télévision</u>.
+- Ça fait 2 bonnes semaines que **j’ai les yeux rouges** quand <u>je regarde la télé</u>(vision).
+- Ça fait 3 mois que j**e me sens déprimé(e)** quand <u>je travaille</u>.
+- Ça fait 3 mois que **je pleure** <u>à cause du travail</u> / <u>à cause de la perte de mon travail</u>.
+- Ça fait 3 mois que **j’ai les yeux qui coulent** quand <u>j’écris</u>.
+- **J’ai mal aux oreilles** depuis 2 semaines quand <u>j’écoute de la musique</u>.
+- Ça fait 5 jours que **j’éternue** quand <u>je promène mon chien</u>.
+- **J’ai perdu mon appétit** depuis 2 mois et demi (ou 2 bons mois) quand <u>je me lève</u>.
+- **J’ai perdu mon appétit** il y a 2 mois. ➡️ action finie dans le passé OU effet toujours au présent
+- **Je n’ai pas d’appétit** depuis 2 mois. ➡️ effet toujours au présent
+- Ça fait 3 jours que **j’ai mal au cœur** quand <u>je conduis</u> / quand <u>je suis au volant</u>.
+- **J’ai mal à la tête** depuis une semaine quand <u>je lis</u>.
+- **Je fais de l’insomnie** depuis presque 2 mois quand <u>je joue aux jeux vidéo</u>.
+- **Je vomis** depuis 3 jours en après-midi / après le dîner quand <u>je fais du sport</u>.
+
+### Problèmes de la santé
+
+#### les **parties du corps** avec <u>avoir mal</u>
+
+- avoir mal au cœur
+- avoir mal au dos
+
+#### les **noms de symtômes** avec <u>avoir</u>
+
+- avoir des **courbatures**
+- avoir des **crampes**
+- avoir des **démangeaison**
+- avoir des **frissons**
+- avoir le **hoquet**
+- avoir des **rougeurs**
+- avoir la **diarrhée**
+- avoir des **gaz** / j'ai pété
+- avoir des **rots**. / je rote. (roter)
+- avoir une **enflure**. (enfler)\
+- avoir **le nez bouché**
+- avoir **le nez qui coule**
+- avoir **l'œil qui coule**
+- avoir des **larmes**. (tears)
+- avoir **les yeux rouges**
+- avoir une **conjonctivite**
+
+#### les **adjectifs d'état** avec <u>être</u> ou <u>se sentir</u>
+
+- **se sentir mal**
+  - elle se sent mal
+- **constipé**
+- **déprimé.e**
+- **étourdi**.e
+- **être en forme**
+- **se sentir bien**
+- **épuissé**.e
+- **faible**
+- **stressé**.e
+
+#### les **verbs pronominaux de blessures**
+
+- **se blesser**, je me blesse, je me suis blessé.e
+- **se casser** un os, je me susi cassé.e la jambe
+- **se brûler**, je me suis brûlé.e
+- **se couper**, je me coupe, je me suis coupé.e
+- **s'égratigner**,
+- **se fouler**,
+- **se faire écorcher**
+- **se faire frapper**
+- **se faire mordre**
+- **se faire piquer**
+- **s'électrocuter**
+- **s'évanouir**
+
+#### les autre verbes
+
+- **éternuer**
+- **saigner**
+- **suer**
+- **tousser**
+- **vomir**
+
+## Quotidien
+
+### Donner et demander des nouvelles
+
+- Ça fait longtemps... que j<s>e</s> <s>ne</s> t’ai pas vu(e)!
+- Ça fait un (méchant) bout... qu’on <s>ne</s> s’est pas vu(e)s!
+- Ça fait un (méchant) bail... que je <s>n</s>’ai pas eu de tes nouvelles!
+- (Puis?) Quoi d<s>e</s> neuf?
+- (Puis?) Qu’est-c<s>e</s> que tu fais d<s>e</s> bon (ces temps-ci)?
+- (Puis?) T<s>u</s> es rendu(e) où (là)?
+- Pas grand-chose.
+- (Bah!) La p<s>e</s>tite vie!
+- Rien de spécial.
+- (Bah!) La p<s>e</s>tite routine!
+- Rien à signaler.
+- (Bah!) Métro, boulot, dodo!
+- Puis? Ta famille? Comment ça va?
+- Puis? Ton travail? Comment ça s<s>e</s> passe?
+- Puis? Tes amours? Tout va bien?
+- Puis? Tes études? Tout s<s>e</s> passe bien?
+- Puis toi?
+- Puis d<s>e</s> ton côté?
+- Puis d<s>e</s> ton bord?
+- (T<s>u</s>) habites-tu toujours à Verdun?
+- (T<s>u</s>) étudies-tu encore le français?
+- (Tu) travailles-tu toujours au centre Champlain?
+- Devine quoi!
+- Tu <s>ne</s> sais pas la dernière / la meilleure?
+- (T<s>u</s>) sais-tu quoi?
+- (T<s>u</s>) as-tu appris la nouvelle / la dernière?
+- Tu <s>ne</s> sais pas quoi?
+- Tu <s>ne</s> devineras jamais ce qui m’est arrivé!
+- (T<s>u</s>) es-tu au courant?
+- Imagine-toi donc que...
+- Sérieux? / (T<s>u</s>) es-tu sérieux / sérieuse?
+- Pour vrai? / (Non!) T<s>u</s> <s>n</s>’es pas sérieux / sérieuse!
+- C’<s>est</s> tu vrai?
+- (Tu) me niaises-tu?
+- (Non!) Ce <s>n</s>’est pas vrai!
+- (Non!) Tu me niaises!
+- (Ah!) C’<s>est</s> bien (ça)!
+- (Ah!) Tant mieux!
+- (Ah!) C’<s>est</s> une bonne nouvelle!
+- (Ah!) J<s>e</s> suis content(e) pour toi!
+- (Ah!) J<s>e</s> suis content(e) d’entendre / d’apprendre ça!
+- (Ah!) C’est plate (ça)!
+- (Ah!) C’est poche (ça)!
+- (Ah!) C’est dommage!
+- (Ah!) J<s>e</s> suis désolé(e) / triste d’apprendre ça!
+- (Ah!) J<s>e</s> suis désolé(e) / triste d’entendre ça!
+- Hé! Il faut que j’y aille.
+- Hé! Il faut que j<s>e</s> parte.
+- Hé! Il faut que j<s>e</s> te laisse.
+- J<s>e</s> suis content(e) d<s>e</s> t’avoir vu(e).
+- C’<s>é</s>tait le fun... de t<s>e</s> jaser / de t<s>e</s> parler.
+- Ça m’a fait plaisir... de t<s>e</s> croiser / de t<s>e</s> rencontrer.
+- Salut (là)!
+- À plus!
+- Ciao (là)!
+- À <s>la</s> prochaine!
+- Bye (là)!
+
 ## Expressions
 
 - **quasiment**: presque
@@ -655,6 +809,12 @@ _❗️est rarement utilisé_
 - ... **pas mal** ...: très
 - **fait que**: donc
 - ... **à quelque part**: sort of
+- **j’ai de la misère** avec ...
+- **ça me coûte les yeux de la tête!**
+- **ça n’a pas de bon sens!**
+- **depuis une bonne semaine**: + 7 jours
+- Elle **ne reste pas à la porte**: habiter loin
+- **bonne** heure en soirée: early
 
 ## Vocabulaires des événements de la vie personnelle
 
@@ -857,3 +1017,4 @@ _❗️est rarement utilisé_
 - **éduquer**
 - **concrète**
 - **s'échapper**
+- **gricher**
