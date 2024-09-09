@@ -15,6 +15,7 @@ title: Ressources
 - [MAURIL par CBC/Radio-Canada](https://mauril.ca/) Site / iOS / Android
 - [Je Parle Québecois](https://www.je-parle-quebecois.com)
 - [lepointdufle](https://www.lepointdufle.net/)
+- [Usito](https://usito.usherbrooke.ca/) Usito, un dictionnaire conçu au Québec
 
 ## Balados
 
