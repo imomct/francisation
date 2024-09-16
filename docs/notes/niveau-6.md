@@ -253,6 +253,7 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - ⬜️ 🔶 ⬜️ **parler**
 - 🔵 ⬜️ ⬜️ **perdre**
 - ⬜️ ⬜️ 🟪 **prêter**
+- ⬜️ 🔶 🟪 **promettre**
 - 🔵 ⬜️ ⬜️ **quitter**
 - ⬜️ ⬜️ 🟪 **raconter**
 - 🔵 ⬜️ ⬜️ **recevoir**
