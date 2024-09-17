@@ -231,7 +231,7 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - 🔵 ⬜️ ⬜️ **appeler**
 - ⬜️ ⬜️ 🟪 **apprendre**
 - 🔵 ⬜️ ⬜️ **attendre**
-- 🔵 ⬜️ 🟪 **chercher**
+- 🔵 ⬜️ ⬜️ **chercher**
 - 🔵 ⬜️ ⬜️ **connaître**
 - 🔵 ⬜️ 🟪 **demander**
 - 🔵 ⬜️ ⬜️ **détester**
@@ -241,13 +241,16 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - ⬜️ 🔶 🟪 **écrire**
 - 🔵 ⬜️ ⬜️ **embrasser**
 - ⬜️ ⬜️ 🟪 **emprunter**
+- ⬜️ 🔶 🟪 **ensigner**
+- 🔵 ⬜️ ⬜️ **entendre**
+- 🔵 ⬜️ 🟪 **envoyer**
 - 🔵 ⬜️ ⬜️ **féliciter**
 - 🔵 ⬜️ ⬜️ **frapper**
 - 🔵 ⬜️ ⬜️ **haïr**
 - 🔵 ⬜️ ⬜️ **inviter**
 - 🔵 ⬜️ 🟪 **laisser**
 - ⬜️ 🔶 ⬜️ **mentir**
-- ⬜️ ⬜️ 🟪 **montrer**
+- 🔵 ⬜️ 🟪 **montrer**
 - ⬜️ ⬜️ 🟪 **offrir**
 - 🔵 ⬜️ ⬜️ **oublier**
 - ⬜️ 🔶 ⬜️ **parler**
@@ -266,7 +269,7 @@ description: "mai-juin 2024, Yuriko et Olivier"
 - ⬜️ ⬜️ 🟪 **souhaiter**
 - ⬜️ 🔶 ⬜️ **sourire**
 - ⬜️ 🔶 ⬜️ **téléphoner**
-- 🔵 ⬜️ 🟪 **trouver**
+- 🔵 ⬜️ ⬜️ **trouver**
 - ⬜️ ⬜️ 🟪 **vendre**
 - 🔵 ⬜️ ⬜️ **visiter**
 - 🔵 ⬜️ ⬜️ **voir**
