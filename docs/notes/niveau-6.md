@@ -192,7 +192,7 @@ description: "mai-juin 2024, Yuriko et Olivier"
 
 #### Les Auxiliares
 
-- **avoir**: j'**eus** / tu **eus** / on **eus** / nous **eûmes** / vous **eûtes** / ils **eurent**
+- **avoir**: j'**eus** / tu **eus** / on **eut** / nous **eûmes** / vous **eûtes** / ils **eurent**
 - **être**: je **fus** / tu **fus** / on **fut** / nous **fûmes** / vous **fûtes** / ils **furent**
 
 #### par Cœur
