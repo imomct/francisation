@@ -170,7 +170,7 @@ description: "nov. 2023 - fév. 2024, Sophie et Laurant"
 - un **réveil** / un **réveille-matin** / un **radio-réveil**
 - une **armoire**
 - une **table de chevet** / une **table de nuit**
-- du **tapis mur à mur**
+- un **tapis mur à mur**
 - un **lit**
 - la **literie**
 - un **matelas**
