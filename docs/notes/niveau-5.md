@@ -173,22 +173,22 @@ description: "mars - avril 2024, Sophie et Charles"
 
 avoir les cheveux ...
 
-- **rasés**
-- **courts**
-- **mi-longs**
-- **longs**
-- **blonds**
+- **rasés** ~
+- **courts** ~~
+- **mi-longs** ~~~
+- **longs** ~~~~
+- **blonds** 👱
 - **bruns**
-- **roux**
+- **roux** 🧑‍🦰
 - **noirs**
 - **gris**
-- **blancs**
-- **frisés** / **bouclés**
+- **blancs** 👨‍🦳
+- **frisés** / **bouclés** 🧑‍🦱
 - **droits** / **raides** / **plats**
-- **détachés**
-- **tressés**
+- **détachés** 👩‍🦰
+- **tressés** 👩‍🦱
 - étre **chauve** 🧑🏻‍🦲
-- avoir **chignon**
+- avoir **chignon** 👱‍♀️
 - avoir **coupe champignon**
 - avoir **une queue de cheval**
 - avoir **coupe Longueuil**
@@ -201,7 +201,7 @@ avoir les yeux ...
 - **verts** 🟢
 - **gris**
 - **bruns** 🟤
-- **pers** 🔵🟢
+- **pers** 🔵 🐱 🟢 👁️ 🟡
 - **noirs**
 
 #### Le Visage
@@ -213,7 +213,7 @@ avoir le visage ...
 - **rond** 🙂
 - **ovale**
 - **triangulaire** ▼
-- **ridé**
+- **ridé** qui a des rides.
 
 #### Les lèvres
 
@@ -236,8 +236,8 @@ avoir le nez ...
 avoirs / porter ...
 
 - des **lunettes**
-- une **barbe**
-- une **moustache**
+- une **barbe** 🧔🏻‍♂️
+- une **moustache** 🥸
 - une **cicatrice**
 - un **tatouage**
 
@@ -460,7 +460,7 @@ Je vais venir à l'école demain, mais je resterai pas toute la journée.
 
 ### Subjonctif
 
-Pas realité, le souhait, la possibilité, obligation, conseil etc.
+Pas réalité, le souhait, la possibilité, obligation, conseil etc.
 
 - Il **faut** / **faudrait** QUE
 - vous **aimeriez** QUE
@@ -649,6 +649,8 @@ Certains verbs ont un radical irrégulier, mais les mêmes terminaisons que les 
 - **Prendre** : que je **prenne**, que tu **prennes**, qu’il/elle/on **prenne**, que nous **<u>pren</u>ions**, que vous **<u>pren</u>iez**, qu’ils/elles **prennent**
 - **Venir** : que je **vienne**, que tu **viennes**, qu’il/elle/on **vienne**, que nous **<u>ven</u>ions**, que vous **<u>ven</u>iez**, qu’ils/elles **viennent**
 - **Boire**: que je **boive**, que tu **boives**, qu’il/elle/on **boive**, que nous **<u>buv</u>ions**, que vous **<u>buv</u>iez**, qu’ils/elles **boivent**
+- **Vouloir** : que je **veuille**, que tu **veuilles**, qu'il/elle/on **veuille**, que nous **<u>voul</u>ions**, que vous **<u>voul</u>iez**, qu'ils/elles **veuillent**
+- **Valoir**: que je **vaille**, que tu **vailles**, qu'il/elle/on **vaille**, que nous **<u>val</u>ions**, que vous **<u>val</u>iez**, qu'ils/elles **vaillent**
 
 #### Être et Avoir
 
@@ -681,6 +683,42 @@ Si + présent + futur
 - Est-ce que je peux emprunter ton crayon ?
   - Qu’est-ce qu’il demande
   - Il demande s' il peut emprunter mon crayon.
+
+#### Affirmation [que]
+
+- il dit **qu**'il ...
+- il pense **que** c'est ...
+
+#### Question [si]
+
+- Est-ce que vous sortez?
+  - il demande **si** vous sortez
+- Il fait froid ?
+  - Il demande **s**'il fait froid
+
+#### Interrogatif [où/quand]
+
+- **Où** allez-vous ?
+  - il demande **où** vous allez
+- **Quand** partez-vous ?
+  - il demande **quand** vous partez
+
+#### ce que
+
+- Qu'est-ce **que** vous faites ?
+  - il demande **ce que** vous faites
+- **Que** voulez-vous ?
+  - il demande **ce que** vous voulez
+
+#### ce qui
+
+- Qu'est-ce **qui** se passe ?
+- il demande ce qui se passe
+
+#### Impératif
+
+- Partez !
+  - il lui dit **de** partir
 
 ### Faire soi-même / faire faire
 
@@ -791,6 +829,11 @@ Si + présent + futur
   - Le fait est que le changement climatique affecte déjà de nombreuses régions du monde.
   - Le fait est que nous devons agir rapidement pour résoudre ce problème.
 
+### Se lâcher lousse
+
+- faire ce qu’on veut, librement, sans retenue.
+- le vendredi soir, je me lâche lousse: je sors avec mes amis, on prend un verre, on danse et on a ben du fun.
+
 ### Ben voyons donc!
 
 - Surprise, souvent négative.
@@ -832,6 +875,12 @@ Si + présent + futur
 - s'attaque + nom
 - commencer
 
+### se reprendre en main
+
+- to get back on track / to take control of one's life again
+- Après quelques semaines de désordre, il a décidé de <u>se reprendre en main</u> et de reprendre une routine plus saine.
+- Elle a compris qu'elle devait se reprendre en main et revoir ses priorités pour trouver un meilleur équilibre dans sa vie.
+
 ### comme si de rien n'était
 
 - j'ai avalé le gros morceau comme si de rien n'était
@@ -847,12 +896,30 @@ Si + présent + futur
 - lequel? **n'importe**
 - à **n'importe** quel moment
 - **n'importe où**
+- **c'est n'importe de quoi**: it's nonsense
+
+### je m'ennuie de toi
+
+- je m’ennuie de vous
+- je m’ennuie d’elle
+- je m’ennuie de lui
+- je m’ennuie de Sophie
+- Sophie s’ennuie de nous
+- Mes parents s’ennuient de moi
+- Tu me manques
+- Je pense à toi
 
 ### ressembler / l'air / être pareil
 
 - ressembler à quelqu'un / à quelque chose
 - avoir l'air + adj. / de + verbe
 - être pareil à quelqu'un / à quelque chose (être le même)
+
+### revenir à nos moutons
+
+- to get back to the subject at hand / to return to the main topic
+- Bon, maintenant revenons à nos moutons et discutons de la question initiale.
+- Je comprends que vous ayez d’autres préoccupations, mais pour l’instant, revenons à nos moutons et discutons de la prochaine étape du projet.
 
 ### faire exprès
 
@@ -935,7 +1002,7 @@ Si + présent + futur
 - être peureux
 - de livre: "je vous entends parler"
 
-### Mettre la main à la pàte
+### Mettre la main à la pâte
 
 - aider
 - de livre: "je vous entends parler"
@@ -969,6 +1036,34 @@ Si + présent + futur
 - ça m'a tout l'air que <u>tu as le pouce vert</u> !
   - de livre: "je vous entends parler"
 
+### Faire de l'air
+
+- sortir, s'en aller
+  - de livre: "je vous entends parler"
+
+### Dormir sur ses deux oreilles
+
+- ne pas être inquiet
+- tu peux <u>dormir sur tes deux oreilles</u>
+  - de livre: "je vous entends parler"
+
+## Sirop D'érable
+
+### Les Produits
+
+- Sirop d'érable.
+- Beurre d'érable.
+- Tire d'érable.
+- Flocons d'érable.
+- Sucre d'érable.
+- Sucre d'érable à râper.
+- Eau d'érable.
+- Alcool d'érable.
+
+### Les Origines
+
+- https://ppaq.ca/fr/sirop-erable/origines/
+
 ## Autres Vocabulaires
 
 - un **potin**
@@ -977,9 +1072,11 @@ Si + présent + futur
 - **clavarder** avec un clavier
 - **chicane** = **dispute**
 - (se) **chicainer** = (se) **disputer**
+- **débiner**: to slag [sb] off _informal_; to badmouth;
+- **se débiner**: to clear off _informal_; to make oneself scarce _informal_
 - le **gratte-ciel**
 - le **raton laveur**
-- l'**écureuil** *m.*
+- l'**écureuil** _m._
 - le **merle**
 - **grand-maman maternelle**
 - la **précarité** : fragilité, instabilité, pas solid
@@ -992,6 +1089,8 @@ Si + présent + futur
 - **n'est plus de ce mond**
 - **vinicole**, adj. à la production du vin.
 - **pourtant** : cependant, mais, néanmoins, par contre, d'autre part
+- **en tant que** ...: as ...
+- **Quoi de mieux que** ...: what could be better than ...
 - **si jamais**: if ever
 - **même si**, even if
 - **même que**, even that
@@ -1043,21 +1142,21 @@ Si + présent + futur
 - le **somme**: sieste
 - le **cordon**: petite corde
 - le **placenta**
-- **flotter** *v.*
+- **flotter** _v._
 - **emmitoufler**: envelopper dans des vêtements bien chauds.
 - le **étrier**
 - le **citadin**
 - la **chaudière**: boiler
-- l'**arachide**: *f.* peanut
+- l'**arachide**: _f._ peanut
 - les uns après les autres
 - **creuser**: to dig
 - **couler**: to cast, to pour
 - la **vague**: wave
 - le **vague**: space, eyes
-- l'**ours**: *m.* bear. ~ polaires
+- l'**ours**: _m._ bear. ~ polaires
 - **dans les plus brefs délais**: dès que possible
-- l'**auberge**: *f.* petit hôtel, inn
-- **amoureux** / **amoureuse** *adj. n.*
+- l'**auberge**: _f._ petit hôtel, inn
+- **amoureux** / **amoureuse** _adj. n._
 - la **bourse d'études**
 - l'**ouvrier** / l'**ouvrière**: qui fait un travail manuel
 - **vanter**: célébrer, exalter, louanger
@@ -1073,15 +1172,144 @@ Si + présent + futur
 - **arroser**: to water
 - **épanouir**: faire ouvrir (une fleur)
 - s'**épanouir**: être content
-- l'**abondance**: *f.*  richesse.
+- l'**abondance**: _f._ richesse.
 - **héréditaire**: transmis par hérédité
 - **paysan.ne**: campagnard; rural.
 - un **jardin potager**: jardin pour les légumes
 - **flanc** de montagne: côté du corps
 - **acharner**: persérvérer, travailler fort
-- la **souche**:  (tree) stump; (de vigne) stock
+- la **souche**: (tree) stump; (de vigne) stock
 - la **racine**: root
 - la **pelle**
 - le **râteau**, Instrument de jardinage servant à racler, à ratisser.
 - **désherber**: sarcler, détruire les mauvaises herbes.
 - la **récolte**: harvest; (produits récoltés) crop, harvest;
+- le **ramoneur**: _m. et f._ personne dont le métier est de **ramoner** les cheminées
+- la **merveille**: marvel, wonder
+- le **mazout**: fuel, oil
+- **inciter**: encourager
+- **je m'ennuie de toi**: tu me manques
+- **lâcher**: détendre, laisser, abandonner
+- la **palpitation**: agitation anormale du cœur
+- l'**hypertension artérielle**: high blood pressure
+- **auparavant**: avant, ce moment-là
+- **ausculter**: écouter au moyen d’un stéthoscope
+- **cerner**: entourer
+- une **requête**: a request
+- **œuvrer**: travailler
+- **dédier**: consacrer
+- le **recueil**
+- la **quête**
+- l'**ouvrage**: travail, objet, texte publié
+- **atypique**: _adj._ sans type déterminé
+- la **rêverie**: images, associations qui viennent à l'esprit lorsqu'on est éveillé.
+- **récupérer**: retrouver, recycler
+- **adieu** _m. noun._ goodbye; farewell _formal_
+- **faire croire** que
+- **faire courir de risque**
+- **harceler**: to pester, to harasse
+- le **crève-cœur**: heartbreak
+- la **poésie**: petit **poème**
+- l'**abécédaire**: _m._ livre d'apprentissage de l'alphabet
+- l'**exil** _m._
+
+**Surnoms affectueux**
+
+| Colonne 1    | Colonne 2         | Colonne 3     | Colonne 4      | Colonne 5 |
+| ------------ | ----------------- | ------------- | -------------- | --------- |
+| Bébé         | Petit(e) chat(te) | Amour         | Chérie         | Cœur      |
+| Chaton       | Minou             | Belle         | Beau           | Douce     |
+| Doux         | Princesse         | Prince        | Trésor         | Ange      |
+| Perle        | Rayon de soleil   | Petit(e) chou | Lapin          | Moitié    |
+| Tendre       | Bonheur           | Cher(e)       | Petit(e) amour | Puce      |
+| Belle étoile |                   |               |                |           |
+
+- **moite**: _adj._ un peu humide
+- l'**abrégé**: _m._ summary
+- l'**arthrite**: _f._ inflammation d'une articulation. Il a de l'arthrite à un genou.
+- **articulation**: Union de deux ou plusieurs os.
+- **commotion**: Choc grave. _Une commotion cérébrale._
+- **vasculaire**: _adj._ Qui appartient aux vaisseaux. _Le système vasculaire._
+- l'**artères**: _f._ Canal qui part du cœur pour distribuer le sang à tous les organes du corps. _Une artère vitale._
+- **antécédents**.e: _adj._ Qui précède dans le temps.
+- **engourdir**: Paralyser momentanément. _Le froid a engourdi mes orteils._
+- une **échographie**: ultrasound
+- une **Imagerie** par **Résonance** **Magnétique**
+- un **électrocardiogramme**: electrocardiogram / ECG
+- une **auscultation**: Le médecin a effectué une <u>auscultation</u> minutieuse des poumons pour détecter d'éventuels problèmes respiratoires.
+- une **radiographie**
+- **subir**: endurer
+- **angoisser**: alarmer; inquiéter; faire peur.
+- l'**espoir**: _m._ hope
+- **calmant**: tranquillisant
+- **creux**: _m._ trou; vide. **creuse** _adj., adv._
+- **c’est plate**: It's boring
+- **mets-en**: put some / go ahead
+- **pas pantoute**: pas du tout
+- **je suis tellement tanné**: I'm so tired / I'm so fed up
+- **évoquer**: rappeler
+- **reine**: femme d'un roi
+- tout à coup / soudain / brusquement
+- la **rubrique**: section / category
+- la **cendre**: Résidu des matières brûlées / Restes d’un mort
+- le **cendrier**: Récipient servant à recueillir la cendre des cigares
+- le **coffret**, le petit **coffre**, la boite
+- **enrober**: Recouvrir d’une couche protectrice. _Enrober un fruit de sucre._
+- le **hydromel**, boisson faite d'eau et de miel
+- le **verger**: orchard; ▸ un verger en fleursan / orchard in bloom
+- la **vignoble**: Plantation de vigne / vineyard
+- **démarquer** : Supprimer la marque de.
+- l'**apéro** _m._ _familier_ Apéritif
+- **éblouir**: fasciner, impressionner.
+- le **fous de bassan**: Gannets
+- **pondre**: faire des œufs
+- la **cravate**: 👔 (pour chemise) tie; (insigne de décoration) ribbon
+- le **nœud papillon**: 🎀
+- la **casquette**: 🧢
+- la **tuque**: 🧶 🧢
+- le **bonnet**: 💂
+- une **année sabbatique**: d'une période de congé accordée aux professeurs universitaires
+- le **carambolage** : (de voitures) pile-up
+- la **rafale**: (de vent, pluie) gust; (de neige) flurry; (de mitraillette) burst;
+- la **poudrerie**: 🇨🇦 c'est une forme de neige très légère qui, après être tombée au sol, peut encore être soulevée par le vent.
+- la **sloche**: 🇨🇦 c'est une neige humide, une neige fondante et très sale. C'est presque de la gadoue. Au Québec, on l'appelle "sloche" ou parfois "slush" (anglicisme).
+- **immatriculer**: inscrire sur un registre public.
+- la **plaque d'immatriculation**
+- la **faune**: ensemble des espèces animales d'un milieu
+- un **dépliant**: brochure publicitaire
+- le **plâtre**
+- **se tromper**: je pense que vous vous trompez de personne...
+- **alentours**: aux alentours de 16 h 10
+- la **soute**: soute à bagages: baggage hold
+- la **poussette**: voiture d'enfant
+- la **cachette**: hiding-place; _québécisme_ Jouer à cache-cache.
+
+### Verbes avec "à"
+
+- **parler** à
+- **demander** à
+- **dire** à
+- **téléphoner** à
+- **emprunter** à
+- **offrir** à
+- **écrire** à
+- **prêter** à
+- **sourire** à
+- **répondre** à
+- **rendre** à
+- **souhaiter** à
+- **ressembler** à
+- **plaire** à
+- **penser** à
+- **s'intéresser** à
+- **réfléchir** à
+- **réagir** à
+- **obéir** à
+- **s'adresser** à
+- **convenir** à
+- **jurer** à
+- **songer** à
+- **mentir** à
+- **annoncer** à
+- **confesser** à
+- **expliquer** à

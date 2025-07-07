@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-description: "novembre 2023 - février 2024, Sophie et Laurant"
+description: "nov. 2023 - fév. 2024, Sophie et Laurant"
 ---
 
 # Niveau 4
@@ -170,7 +170,7 @@ description: "novembre 2023 - février 2024, Sophie et Laurant"
 - un **réveil** / un **réveille-matin** / un **radio-réveil**
 - une **armoire**
 - une **table de chevet** / une **table de nuit**
-- du **tapis mur à mur**
+- un **tapis mur à mur**
 - un **lit**
 - la **literie**
 - un **matelas**
@@ -338,7 +338,7 @@ description: "novembre 2023 - février 2024, Sophie et Laurant"
 
 - **depuis** (présent / continuité)
 - **ça fait ... que** (présent / continuité)
-- **pendand** (passé, présent, futur / durée)
+- **pendant** (passé, présent, futur / durée)
 - **il y a** (passé / moment précis dans le passé)
 - **dans** (futur / moment précis dans le futur)
 
